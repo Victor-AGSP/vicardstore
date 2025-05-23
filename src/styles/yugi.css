@@ -1,0 +1,101 @@
+/* Contenedor principal */
+.excel-viewer {
+  padding: 1rem;
+  font-family: Arial, sans-serif;
+  max-width: 900px;
+  margin: auto;
+  background: #1c1c1c;
+  border-radius: 8px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.4);
+  color: #e0e0e0;
+}
+
+/* Título */
+.excel-viewer h2 {
+  text-align: center;
+  color: #eaeaea;
+  margin-bottom: 1rem;
+}
+
+/* Input buscador */
+.excel-viewer input[type="text"] {
+  display: block;
+  margin: 0 auto 1.5rem auto;
+  padding: 0.5rem 1rem;
+  width: 300px;
+  background-color: #2a2a2a;
+  color: #f0f0f0;
+  border: 2px solid #444;
+  border-radius: 4px;
+  font-size: 1rem;
+  transition: border-color 0.3s ease, background-color 0.3s ease;
+}
+
+.excel-viewer input[type="text"]:focus {
+  border-color: #888;
+  background-color: #333;
+  outline: none;
+}
+
+/* Tabla */
+.excel-viewer table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #2b2b2b;
+  color: #ddd;
+  box-shadow: 0 0 5px rgba(255, 255, 255, 0.05);
+}
+
+.excel-viewer th,
+.excel-viewer td {
+  border: 1px solid #444;
+  padding: 0.6rem 0.8rem;
+  text-align: left;
+  font-size: 0.9rem;
+}
+
+.excel-viewer th {
+  background-color: #3a3a3a;
+  color: #f0f0f0;
+  user-select: none;
+}
+
+/* Filas alternas para mejor lectura */
+.excel-viewer tbody tr:nth-child(even) {
+  background-color: #242424;
+}
+
+.excel-viewer tbody tr:nth-child(odd) {
+  background-color: #1e1e1e;
+}
+
+/* Botones de paginación */
+.excel-viewer .pagination {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.excel-viewer .pagination button {
+  background-color: #444;
+  border: none;
+  color: #fff;
+  padding: 0.5rem 1.1rem;
+  margin: 0 0.3rem;
+  border-radius: 4px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.excel-viewer .pagination button:disabled {
+  background-color: #666;
+  cursor: not-allowed;
+}
+
+.excel-viewer .pagination button:hover:not(:disabled) {
+  background-color: #555;
+}
+
+body {
+  background: #1c1c1c;
+}
