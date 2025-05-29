@@ -2,13 +2,14 @@ import React, { useEffect, useState } from "react";
 import * as XLSX from "xlsx";
 import '../styles/mylpb.css'; // Ajusta la ruta si tu CSS está en otro lugar
 import { useInView } from 'react-intersection-observer';
+import { useNavigate } from "react-router-dom";
 
 function MylpbViewer() {
   const [data, setData] = useState([]);
   const [filteredData, setFilteredData] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
   const [currentPage, setCurrentPage] = useState(1);
-  const itemsPerPage = 10;
+  const itemsPerPage = 20;
 
   useEffect(() => {
     fetch("/data/MyLpb.xlsx")
@@ -41,9 +42,16 @@ function MylpbViewer() {
     const imagePath = imagenNombre ? `/images/${imagenNombre}` : null;
   
     const { ref, inView } = useInView({ triggerOnce: true });
+
+
+    const navigate = useNavigate(); // hook para navegar
   
+    const handleClick = () => {
+      navigate("/"); // Redirige a "/"
+    };
+
     return (
-      <div className="card" ref={ref}>
+      <div className="card" ref={ref} onClick={handleClick}>
         <div className="card-image">
           {imagePath && inView ? (
             <img src={imagePath} alt={nombre} loading="lazy" />

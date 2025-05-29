@@ -8,12 +8,13 @@ function Menu() {
   const navItems = [
     { label: 'Inicio', path: '/' },
     { label: 'Yugi', path: '/yugi' },
+    { label: 'MyLpb', path: '/mylpb' },
   ];
 
   return (
     <nav className="menu-nav">
       <div className="menu-container">
-        <div className="menu-logo">Vicardstore</div>
+      <Link to="/" className="menu-logo">Vicardstore</Link>
         <button className="menu-toggle" onClick={() => setIsOpen(!isOpen)}>
           ☰
         </button>
