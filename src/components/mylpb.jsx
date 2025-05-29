@@ -7,7 +7,7 @@ function MylpbViewer() {
   const [filteredData, setFilteredData] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
   const [currentPage, setCurrentPage] = useState(1);
-  const itemsPerPage = 30;
+  const itemsPerPage = 20;
 
   useEffect(() => {
     fetch("/data/MyLpb.xlsx")
@@ -55,9 +55,9 @@ function MylpbViewer() {
       />
       <div className="cards-grid">
         {currentData.map((row, index) => {
-          const nombre = row.nombre || "Sin nombre";
-          const imagenNombre = row.imagen ? row.imagen + ".png" : null;
-          const imagePath = imagenNombre ? require(`../../images/${imagenNombre}`) : null;
+          const nombre = row.Nombre || "Sin nombre";
+          const imagenNombre = row.Imagen ? row.Imagen + ".png" : null;
+          const imagePath = imagenNombre ? require(`../images/${imagenNombre}`) : null;
 
           return (
             <div className="card" key={index}>
