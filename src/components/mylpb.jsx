@@ -63,7 +63,7 @@ function MylpbViewer() {
             <div className="card" key={index}>
               <div className="card-image">
                 {imagePath ? (
-                  <img src={imagePath} alt={nombre} />
+                  <img src={imagePath} alt={nombre} loading="lazy" />
                 ) : (
                   <div className="no-image">Imagen no disponible</div>
                 )}
