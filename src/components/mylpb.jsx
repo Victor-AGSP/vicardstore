@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import * as XLSX from "xlsx";
 import '../styles/mylpb.css'; // Ajusta la ruta si tu CSS está en otro lugar
+import { useInView } from 'react-intersection-observer';
 
 function MylpbViewer() {
   const [data, setData] = useState([]);
@@ -59,13 +60,15 @@ function MylpbViewer() {
           const imagenNombre = row.Imagen ? row.Imagen + ".png" : null;
           const imagePath = imagenNombre ? `/images/${imagenNombre}` : null;
 
+          const { ref, inView } = useInView({ triggerOnce: true });
+
           return (
-            <div className="card" key={index}>
+            <div className="card" key={index} ref={ref}>
               <div className="card-image">
-                {imagePath ? (
+                {imagePath && inView ? (
                   <img src={imagePath} alt={nombre} loading="lazy" />
                 ) : (
-                  <div className="no-image">Imagen no disponible</div>
+                  <div className="no-image">Cargando...</div>
                 )}
               </div>
               <div className="card-name">{nombre}</div>
