@@ -11,7 +11,7 @@ function Inicio() {
         <h2>Yu-Gi-Oh!</h2>
         <p>Explora todo lo relacionado a Yu-Gi-Oh!</p>
       </div>
-      <div className="section-card" onClick={() => navigate('/')}>
+      <div className="section-card" onClick={() => navigate('/mylpb')}>
         <h2>Magic: The Gathering</h2>
         <p>Explora todo lo relacionado a Magic</p>
       </div>
