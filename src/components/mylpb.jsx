@@ -57,7 +57,7 @@ function MylpbViewer() {
         {currentData.map((row, index) => {
           const nombre = row.Nombre || "Sin nombre";
           const imagenNombre = row.Imagen ? row.Imagen + ".png" : null;
-          const imagePath = imagenNombre ? require(`../images/${imagenNombre}`) : null;
+          const imagePath = imagenNombre ? `../images/${imagenNombre}` : null;
 
           return (
             <div className="card" key={index}>
