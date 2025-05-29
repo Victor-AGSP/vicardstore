@@ -35,6 +35,27 @@ function MylpbViewer() {
     setFilteredData(filtered);
   };
 
+  const CardItem = ({ row }) => {
+    const nombre = row.Nombre || "Sin nombre";
+    const imagenNombre = row.Imagen ? row.Imagen + ".png" : null;
+    const imagePath = imagenNombre ? `/images/${imagenNombre}` : null;
+  
+    const { ref, inView } = useInView({ triggerOnce: true });
+  
+    return (
+      <div className="card" ref={ref}>
+        <div className="card-image">
+          {imagePath && inView ? (
+            <img src={imagePath} alt={nombre} loading="lazy" />
+          ) : (
+            <div className="no-image">Cargando...</div>
+          )}
+        </div>
+        <div className="card-name">{nombre}</div>
+      </div>
+    );
+  };
+  
   const totalPages = Math.ceil(filteredData.length / itemsPerPage);
   const startIndex = (currentPage - 1) * itemsPerPage;
   const currentData = filteredData.slice(startIndex, startIndex + itemsPerPage);
@@ -55,26 +76,9 @@ function MylpbViewer() {
         onChange={handleSearch}
       />
       <div className="cards-grid">
-        {currentData.map((row, index) => {
-          const nombre = row.Nombre || "Sin nombre";
-          const imagenNombre = row.Imagen ? row.Imagen + ".png" : null;
-          const imagePath = imagenNombre ? `/images/${imagenNombre}` : null;
-
-          const { ref, inView } = useInView({ triggerOnce: true });
-
-          return (
-            <div className="card" key={index} ref={ref}>
-              <div className="card-image">
-                {imagePath && inView ? (
-                  <img src={imagePath} alt={nombre} loading="lazy" />
-                ) : (
-                  <div className="no-image">Cargando...</div>
-                )}
-              </div>
-              <div className="card-name">{nombre}</div>
-            </div>
-          );
-        })}
+        {currentData.map((row, index) => (
+          <CardItem key={index} row={row} />
+       ))}
       </div>
 
       <div className="pagination">
