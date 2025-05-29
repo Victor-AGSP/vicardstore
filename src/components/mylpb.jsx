@@ -37,7 +37,7 @@ function MylpbViewer() {
 
   const CardItem = ({ row }) => {
     const nombre = row.Nombre || "Sin nombre";
-    const imagenNombre = row.Imagen ? row.Imagen + ".png" : null;
+    const imagenNombre = row.Imagen ? row.Imagen + ".webp" : null;
     const imagePath = imagenNombre ? `/images/${imagenNombre}` : null;
   
     const { ref, inView } = useInView({ triggerOnce: true });
