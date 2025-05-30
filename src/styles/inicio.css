@@ -1,32 +1,33 @@
 /* Fondo y contenedor */
 .inicio-container {
-  height: 100vh;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Responsive grid */
+  gap: 2rem; /* Espacio entre tarjetas */
+  padding: 6rem 2rem 2rem 2rem; /* Espaciado superior y lateral */
   background: linear-gradient(135deg, #1e1e1e, #3a3a3a);
   color: white;
-  display: flex;
-  align-items: flex-start; /* Más arriba */
-  justify-content: center;
-  gap: 2rem;
-  padding-top: 6rem; /* Separación superior */
+  min-height: 100vh; /* Altura mínima de la pantalla */
+  justify-items: center; /* Centrar las tarjetas horizontalmente */
 }
 
 /* Tarjetas de sección */
 .section-card {
-  background-color: #2b2b2b; /* Más oscuro */
+  background-color: #2b2b2b;
   color: #eee;
   border: 1px solid #444;
   border-radius: 12px;
   padding: 2rem;
-  width: 250px;
+  width: 100%;
+  max-width: 300px; /* Máximo ancho para no crecer demasiado */
   text-align: center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
   cursor: pointer;
 }
 
-/* Hover suave: un poco más claro */
+/* Hover suave */
 .section-card:hover {
   transform: scale(1.05);
-  background-color: #3c3c3c; /* Más claro al pasar */
+  background-color: #3c3c3c;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 }
