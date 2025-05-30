@@ -4,6 +4,7 @@ import Inicio from './components/inicio';
 import Menu from './components/menu';
 import ExcelViewer from './components/yugi';
 import MylpbViewer from './components/mylpb';
+import Magic from './components/magic';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Route path="/" element={<Inicio />} />
         <Route path="/yugi" element={<ExcelViewer />} />
         <Route path="/mylpb" element={<MylpbViewer />} />
+        <Route path="/magic" element={<Magic />} />
       </Routes>
     </Router>
   );

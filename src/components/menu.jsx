@@ -9,6 +9,7 @@ function Menu() {
     { label: 'Inicio', path: '/' },
     { label: 'Yugi', path: '/yugi' },
     { label: 'MyLpb', path: '/mylpb' },
+    { label: 'Magic', path: '/magic' },
   ];
 
   return (
