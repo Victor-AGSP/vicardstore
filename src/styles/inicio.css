@@ -2,12 +2,13 @@
 .inicio-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Responsive grid */
-  gap: 2rem; /* Espacio entre tarjetas */
-  padding: 6rem 2rem 2rem 2rem; /* Espaciado superior y lateral */
+  gap: 2rem;
+  padding: 6rem 2rem 2rem 2rem;
   background: linear-gradient(135deg, #1e1e1e, #3a3a3a);
   color: white;
-  min-height: 100vh; /* Altura mínima de la pantalla */
-  justify-items: center; /* Centrar las tarjetas horizontalmente */
+  min-height: 100vh;
+  justify-items: center;
+  align-items: start; /* Evita estirar todas las tarjetas verticalmente */
 }
 
 /* Tarjetas de sección */
@@ -16,18 +17,23 @@
   color: #eee;
   border: 1px solid #444;
   border-radius: 12px;
-  padding: 2rem;
+  padding: 1.5rem;
   width: 100%;
-  max-width: 300px; /* Máximo ancho para no crecer demasiado */
+  max-width: 300px;
+  max-height: 400px; /* Limita la altura en pantallas grandes */
+  overflow: hidden; /* Oculta el contenido que se desborda */
   text-align: center;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
   cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 /* Hover suave */
 .section-card:hover {
-  transform: scale(1.05);
+  transform: scale(1.03);
   background-color: #3c3c3c;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
 }
