@@ -15,7 +15,7 @@ function Inicio() {
         <h2>Mitos y Leyendas PB</h2>
         <p>Explora todo lo relacionado a MyL</p>
       </div>
-      <div className="section-card" onClick={() => navigate('/mylpb')}>
+      <div className="section-card" onClick={() => navigate('/magic')}>
         <h2>Magic The Gathering</h2>
         <p>Explora todo lo relacionado a MTG</p>
       </div>
