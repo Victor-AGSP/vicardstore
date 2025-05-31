@@ -1,13 +1,19 @@
 import React, { useEffect, useState } from "react";
 import * as XLSX from "xlsx";
-import '../styles/mylpb.css'; // Ajusta la ruta si tu CSS está en otro lugar
+import '../styles/mylpb.css';
 import { useInView } from 'react-intersection-observer';
 import { useNavigate } from "react-router-dom";
+
+// Función para eliminar acentos/tildes
+const removeAccents = (str) => {
+  return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+};
 
 function MylpbViewer() {
   const [data, setData] = useState([]);
   const [filteredData, setFilteredData] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
+  const [selectedRaza, setSelectedRaza] = useState("");
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 20;
 
@@ -18,36 +24,46 @@ function MylpbViewer() {
         const workbook = XLSX.read(arrayBuffer, { type: "array" });
         const worksheet = workbook.Sheets[workbook.SheetNames[0]];
         const jsonData = XLSX.utils.sheet_to_json(worksheet);
-
         setData(jsonData);
         setFilteredData(jsonData);
       });
   }, []);
 
-  const handleSearch = (e) => {
-    const value = e.target.value.toLowerCase();
-    setSearchTerm(value);
-    setCurrentPage(1);
-    const filtered = data.filter((row) =>
-      Object.values(row).some((val) =>
-        String(val).toLowerCase().includes(value)
-      )
-    );
+  useEffect(() => {
+    const filtered = data.filter((row) => {
+      const nombre = removeAccents((row.Nombre || "").toLowerCase());
+      const raza = removeAccents((row.Raza || "").toLowerCase());
+      const term = removeAccents(searchTerm);
+      const selected = removeAccents(selectedRaza.toLowerCase());
+
+      const matchesNombre = nombre.includes(term);
+      const matchesRaza = selected === "" || raza === selected;
+
+      return matchesNombre && matchesRaza;
+    });
+
     setFilteredData(filtered);
+    setCurrentPage(1);
+  }, [searchTerm, selectedRaza, data]);
+
+  const handleSearch = (e) => {
+    setSearchTerm(e.target.value.toLowerCase());
+  };
+
+  const handleRazaChange = (e) => {
+    setSelectedRaza(e.target.value);
   };
 
   const CardItem = ({ row }) => {
     const nombre = row.Nombre || "Sin nombre";
     const imagenNombre = row.Imagen ? row.Imagen + ".webp" : null;
     const imagePath = imagenNombre ? `/images/${imagenNombre}` : null;
-  
+
     const { ref, inView } = useInView({ triggerOnce: true });
+    const navigate = useNavigate();
 
-
-    const navigate = useNavigate(); // hook para navegar
-  
     const handleClick = () => {
-      navigate("/"); // Redirige a "/"
+      navigate("/"); // Cambia la ruta si deseas
     };
 
     return (
@@ -63,7 +79,7 @@ function MylpbViewer() {
       </div>
     );
   };
-  
+
   const totalPages = Math.ceil(filteredData.length / itemsPerPage);
   const startIndex = (currentPage - 1) * itemsPerPage;
   const currentData = filteredData.slice(startIndex, startIndex + itemsPerPage);
@@ -74,19 +90,32 @@ function MylpbViewer() {
     }
   };
 
+  const uniqueRazas = [...new Set(data.map(row => row.Raza).filter(Boolean))];
+
   return (
     <div className="excel-viewer">
       <h2>Cartas de MyLpb</h2>
-      <input
-        type="text"
-        placeholder="Buscar carta..."
-        value={searchTerm}
-        onChange={handleSearch}
-      />
+
+      <div className="filters">
+        <input
+          type="text"
+          placeholder="Buscar carta por nombre..."
+          value={searchTerm}
+          onChange={handleSearch}
+        />
+
+        <select value={selectedRaza} onChange={handleRazaChange}>
+          <option value="">Todas las razas</option>
+          {uniqueRazas.map((raza, index) => (
+            <option key={index} value={raza}>{raza}</option>
+          ))}
+        </select>
+      </div>
+
       <div className="cards-grid">
         {currentData.map((row, index) => (
           <CardItem key={index} row={row} />
-       ))}
+        ))}
       </div>
 
       <div className="pagination">
