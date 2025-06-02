@@ -20,7 +20,7 @@ function MylpbViewer() {
 
   // Razas y ediciones definidas manualmente
   const razasDisponibles = ["-", "Olimpico", "Titan", "Heroe", "Eterno", "Faraon", "Sacerdote"];
-  const edicionesDisponibles = ["-", "he", "dr", "hd", "es"];
+  const edicionesDisponibles = ["-", "He", "Dr", "Hd", "Es"];
 
   useEffect(() => {
     fetch("/data/MyLpb.xlsx")
