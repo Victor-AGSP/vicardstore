@@ -105,3 +105,111 @@
   display: block;
   margin-left: 1rem;
 }
+
+.magic-container {
+    padding: 2rem;
+    background-color: #1e1e1e;
+    color: #e0e0e0;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    min-height: 100vh;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: #f0f0f0;
+  }
+  
+  .magic-search {
+    display: block;
+    margin: 0 auto 2rem auto;
+    padding: 0.5rem 1rem;
+    width: 100%;
+    max-width: 400px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 8px;
+    background-color: #2e2e2e;
+    color: #e0e0e0;
+  }
+  
+  .magic-error {
+    color: #ff6b6b;
+    text-align: center;
+  }
+  
+  .magic-loading,
+  .magic-empty {
+    text-align: center;
+    font-style: italic;
+    color: #aaa;
+  }
+  
+  .magic-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-top: 2rem;
+  }
+  
+  .magic-card {
+    background-color: #2c2c2c;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  
+  .magic-card:hover {
+    transform: scale(1.03);
+    box-shadow: 0 6px 12px rgba(255, 255, 255, 0.1);
+  }
+  
+  .magic-card-image {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .magic-card-name {
+    padding: 0.5rem;
+    text-align: center;
+    font-weight: bold;
+    font-size: 0.9rem;
+    color: #ccc;
+  }
+  
+  .pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 20px;
+  }
+  
+  .pagination button {
+    padding: 6px 12px;
+    background-color: #222;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .pagination button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+  
+.magic-filter {
+  margin-bottom: 1rem;
+}
+.magic-filter summary {
+  cursor: pointer;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+.magic-filter label {
+  display: block;
+  margin-left: 1rem;
+}
