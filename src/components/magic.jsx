@@ -127,8 +127,8 @@ function Magic() {
 
     if (selectedRace) {
       filtered = filtered.filter((card) => {
-        if (!card.tipo || !card.tipo.includes("Creature")) return false;
-        const match = card.tipo.match(/Creature\s+—\s+(.+)/);
+        if (!card.tipo || !card.tipo.includes("—")) return false;
+        const match = card.tipo.match(/—\s+(.+)/);
         if (!match) return false;
         const subtypes = match[1].split(" ");
         return subtypes.includes(selectedRace);
@@ -145,7 +145,7 @@ function Magic() {
   );
 
   // Tipos disponibles
-  const allTypes = ["Sorcery", "Instant", "Creature", "Planeswalker", "Artifact", "Land", "Enchantment"];
+  const allTypes = ["Legendary", "Sorcery", "Instant", "Creature", "Planeswalker", "Artifact", "Land", "Enchantment", "Kindred"];
 
   const handleTypeChange = (type) => {
     setCurrentPage(1);
