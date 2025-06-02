@@ -14,11 +14,13 @@ function MylpbViewer() {
   const [filteredData, setFilteredData] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
   const [selectedRaza, setSelectedRaza] = useState("-");
+  const [selectedEdicion, setSelectedEdicion] = useState("-");
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 20;
 
-  // Define manualmente las razas disponibles
+  // Razas y ediciones definidas manualmente
   const razasDisponibles = ["-", "Olimpico", "Titan", "Heroe", "Eterno", "Faraon", "Sacerdote"];
+  const edicionesDisponibles = ["-", "he", "dr", "hd", "es"];
 
   useEffect(() => {
     fetch("/data/MyLpb.xlsx")
@@ -36,18 +38,21 @@ function MylpbViewer() {
     const filtered = data.filter((row) => {
       const nombre = removeAccents((row.Nombre || "").toLowerCase());
       const raza = removeAccents((row.Raza || "").toLowerCase());
+      const edicion = removeAccents((row.Edicion || "").toLowerCase());
       const term = removeAccents(searchTerm);
-      const selected = removeAccents(selectedRaza.toLowerCase());
+      const selectedR = removeAccents(selectedRaza.toLowerCase());
+      const selectedE = removeAccents(selectedEdicion.toLowerCase());
 
       const matchesNombre = nombre.includes(term);
-      const matchesRaza = selected === "-" || selected === "" || raza === selected;
+      const matchesRaza = selectedR === "-" || selectedR === "" || raza === selectedR;
+      const matchesEdicion = selectedE === "-" || selectedE === "" || edicion === selectedE;
 
-      return matchesNombre && matchesRaza;
+      return matchesNombre && matchesRaza && matchesEdicion;
     });
 
     setFilteredData(filtered);
     setCurrentPage(1);
-  }, [searchTerm, selectedRaza, data]);
+  }, [searchTerm, selectedRaza, selectedEdicion, data]);
 
   const handleSearch = (e) => {
     setSearchTerm(e.target.value.toLowerCase());
@@ -55,6 +60,10 @@ function MylpbViewer() {
 
   const handleRazaChange = (e) => {
     setSelectedRaza(e.target.value);
+  };
+
+  const handleEdicionChange = (e) => {
+    setSelectedEdicion(e.target.value);
   };
 
   const CardItem = ({ row }) => {
@@ -109,6 +118,14 @@ function MylpbViewer() {
           {razasDisponibles.map((raza, index) => (
             <option key={index} value={raza}>
               {raza === "-" ? "Todas las razas" : raza}
+            </option>
+          ))}
+        </select>
+
+        <select value={selectedEdicion} onChange={handleEdicionChange}>
+          {edicionesDisponibles.map((edicion, index) => (
+            <option key={index} value={edicion}>
+              {edicion === "-" ? "Todas las ediciones" : edicion}
             </option>
           ))}
         </select>
