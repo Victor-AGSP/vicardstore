@@ -97,16 +97,16 @@ function Magic() {
 
   // Extraer razas de tipo línea
   const creatureRaces = useMemo(() => {
-    const races = new Set();
+    const subtypes = new Set();
     rawCards.forEach((card) => {
-      if (card.tipo && card.tipo.includes("Creature")) {
-        const match = card.tipo.match(/Creature\s+—\s+(.+)/);
+      if (card.tipo) {
+        const match = card.tipo.match(/—\s+(.+)/); // Cualquier tipo con subtipos
         if (match) {
-          match[1].split(" ").forEach((race) => races.add(race));
+          match[1].split(" ").forEach((sub) => subtypes.add(sub));
         }
       }
     });
-    return Array.from(races).sort();
+    return Array.from(subtypes).sort();
   }, [rawCards]);
 
   // Filtro combinado
