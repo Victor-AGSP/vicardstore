@@ -151,6 +151,33 @@ function Magic() {
           <label>
             <input
               type="checkbox"
+              value="Planeswalker"
+              checked={selectedTypes.includes("Planeswalker")}
+              onChange={handleTypeChange}
+            />
+            Planeswalker
+          </label>
+          <label>
+            <input
+              type="checkbox"
+              value="Land"
+              checked={selectedTypes.includes("Land")}
+              onChange={handleTypeChange}
+            />
+            Land
+          </label>
+          <label>
+            <input
+              type="checkbox"
+              value="Artifact"
+              checked={selectedTypes.includes("Artifact")}
+              onChange={handleTypeChange}
+            />
+            Artifact
+          </label>
+          <label>
+            <input
+              type="checkbox"
               value="Sorcery"
               checked={selectedTypes.includes("Sorcery")}
               onChange={handleTypeChange}
