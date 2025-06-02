@@ -5,10 +5,11 @@ import "../styles/magic.css";
 const CARDS_PER_PAGE = 30;
 
 function Magic() {
-  const [cardList, setCardList] = useState([]); // Desde el Excel
-  const [rawCards, setRawCards] = useState([]); // Todas las cartas con nombre e imagen
+  const [cardList, setCardList] = useState([]); // Desde Excel
+  const [rawCards, setRawCards] = useState([]); // Tras fetch
   const [search, setSearch] = useState("");
-  const [selectedTypes, setSelectedTypes] = useState([]); // Tipos seleccionados
+  const [selectedTypes, setSelectedTypes] = useState([]);
+  const [selectedRace, setSelectedRace] = useState("");
   const [error, setError] = useState(null);
   const [loading, setLoading] = useState(true);
   const [currentPage, setCurrentPage] = useState(1);
@@ -17,13 +18,13 @@ function Magic() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   }, [currentPage]);
 
+  // Cargar Excel
   useEffect(() => {
     const controller = new AbortController();
     const loadExcel = async () => {
       try {
         const res = await fetch("/data/magic.xlsx", { signal: controller.signal });
         if (!res.ok) throw new Error("No se pudo cargar el archivo magic.xlsx");
-
         const data = await res.arrayBuffer();
         const workbook = XLSX.read(data, { type: "array" });
         const sheet = workbook.Sheets[workbook.SheetNames[0]];
@@ -37,9 +38,9 @@ function Magic() {
     return () => controller.abort();
   }, []);
 
+  // Cargar imágenes
   useEffect(() => {
     const controller = new AbortController();
-
     const loadImages = async () => {
       if (cardList.length === 0) return;
       setLoading(true);
@@ -49,10 +50,7 @@ function Magic() {
           const codigo = card["Edición"];
           const idioma = card["Idioma"]?.toLowerCase() || "es";
           const numero = card["Código"];
-          const foil =
-            card["Foil"]?.toString().toLowerCase() === "foil" || card["Foil"] === true
-              ? "foil"
-              : "normal";
+          const foil = card["Foil"]?.toString().toLowerCase() === "foil" || card["Foil"] === true ? "foil" : "normal";
 
           if (!codigo || !numero) return null;
 
@@ -64,8 +62,7 @@ function Magic() {
             if (!res.ok) return null;
 
             const data = await res.json();
-            const image =
-              data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
+            const image = data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
 
             return image
               ? {
@@ -74,7 +71,7 @@ function Magic() {
                   idioma,
                   image,
                   foil,
-                  tipo: data.type_line || "",
+                  tipo: data.type_line,
                 }
               : null;
           } catch {
@@ -95,17 +92,24 @@ function Magic() {
     return () => controller.abort();
   }, [cardList]);
 
-  const handleTypeChange = (e) => {
-    const { value, checked } = e.target;
-    setSelectedTypes((prev) =>
-      checked ? [...prev, value] : prev.filter((t) => t !== value)
-    );
-    setCurrentPage(1);
-  };
-
   const norm = (text) =>
     text.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 
+  // Extraer razas de tipo línea
+  const creatureRaces = useMemo(() => {
+    const races = new Set();
+    rawCards.forEach((card) => {
+      if (card.tipo && card.tipo.includes("Creature")) {
+        const match = card.tipo.match(/Creature\s+—\s+(.+)/);
+        if (match) {
+          match[1].split(" ").forEach((race) => races.add(race));
+        }
+      }
+    });
+    return Array.from(races).sort();
+  }, [rawCards]);
+
+  // Filtro combinado
   const filteredCards = useMemo(() => {
     let filtered = rawCards;
 
@@ -121,14 +125,36 @@ function Magic() {
       );
     }
 
+    if (selectedRace) {
+      filtered = filtered.filter((card) => {
+        if (!card.tipo || !card.tipo.includes("Creature")) return false;
+        const match = card.tipo.match(/Creature\s+—\s+(.+)/);
+        if (!match) return false;
+        const subtypes = match[1].split(" ");
+        return subtypes.includes(selectedRace);
+      });
+    }
+
     return filtered;
-  }, [search, rawCards, selectedTypes]);
+  }, [search, rawCards, selectedTypes, selectedRace]);
 
   const totalPages = Math.ceil(filteredCards.length / CARDS_PER_PAGE);
   const paginatedCards = filteredCards.slice(
     (currentPage - 1) * CARDS_PER_PAGE,
     currentPage * CARDS_PER_PAGE
   );
+
+  // Tipos disponibles
+  const allTypes = ["Sorcery", "Instant", "Creature", "Planeswalker", "Artifact", "Land", "Enchantment"];
+
+  const handleTypeChange = (type) => {
+    setCurrentPage(1);
+    setSelectedTypes((prev) =>
+      prev.includes(type)
+        ? prev.filter((t) => t !== type)
+        : [...prev, type]
+    );
+  };
 
   return (
     <div className="magic-container">
@@ -148,61 +174,35 @@ function Magic() {
       <div className="magic-filter">
         <details>
           <summary>Filtrar por tipo</summary>
-          <label>
-            <input
-              type="checkbox"
-              value="Planeswalker"
-              checked={selectedTypes.includes("Planeswalker")}
-              onChange={handleTypeChange}
-            />
-            Planeswalker
-          </label>
-          <label>
-            <input
-              type="checkbox"
-              value="Land"
-              checked={selectedTypes.includes("Land")}
-              onChange={handleTypeChange}
-            />
-            Land
-          </label>
-          <label>
-            <input
-              type="checkbox"
-              value="Artifact"
-              checked={selectedTypes.includes("Artifact")}
-              onChange={handleTypeChange}
-            />
-            Artifact
-          </label>
-          <label>
-            <input
-              type="checkbox"
-              value="Sorcery"
-              checked={selectedTypes.includes("Sorcery")}
-              onChange={handleTypeChange}
-            />
-            Sorcery
-          </label>
-          <label>
-            <input
-              type="checkbox"
-              value="Creature"
-              checked={selectedTypes.includes("Creature")}
-              onChange={handleTypeChange}
-            />
-            Creature
-          </label>
-          <label>
-            <input
-              type="checkbox"
-              value="Instant"
-              checked={selectedTypes.includes("Instant")}
-              onChange={handleTypeChange}
-            />
-            Instant
-          </label>
+          {allTypes.map((type) => (
+            <label key={type} style={{ display: "block" }}>
+              <input
+                type="checkbox"
+                checked={selectedTypes.includes(type)}
+                onChange={() => handleTypeChange(type)}
+              />
+              {type}
+            </label>
+          ))}
         </details>
+
+        <label style={{ display: "block", marginTop: "1rem" }}>
+          Filtrar por raza:
+          <select
+            value={selectedRace}
+            onChange={(e) => {
+              setSelectedRace(e.target.value);
+              setCurrentPage(1);
+            }}
+          >
+            <option value="">Todas las razas</option>
+            {creatureRaces.map((race) => (
+              <option key={race} value={race}>
+                {race}
+              </option>
+            ))}
+          </select>
+        </label>
       </div>
 
       {error && <p className="magic-error">{error}</p>}
