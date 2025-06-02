@@ -4,7 +4,7 @@ import '../styles/mylpb.css';
 import { useInView } from 'react-intersection-observer';
 import { useNavigate } from "react-router-dom";
 
-// Función para eliminar acentos/tildes
+// Elimina acentos
 const removeAccents = (str) => {
   return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 };
@@ -13,9 +13,12 @@ function MylpbViewer() {
   const [data, setData] = useState([]);
   const [filteredData, setFilteredData] = useState([]);
   const [searchTerm, setSearchTerm] = useState("");
-  const [selectedRaza, setSelectedRaza] = useState("");
+  const [selectedRaza, setSelectedRaza] = useState("-");
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 20;
+
+  // Define manualmente las razas disponibles
+  const razasDisponibles = ["-", "Olimpico", "Titan", "Heroe", "Eterno", "Faraon", "Sacerdote"];
 
   useEffect(() => {
     fetch("/data/MyLpb.xlsx")
@@ -37,7 +40,7 @@ function MylpbViewer() {
       const selected = removeAccents(selectedRaza.toLowerCase());
 
       const matchesNombre = nombre.includes(term);
-      const matchesRaza = selected === "" || raza === selected;
+      const matchesRaza = selected === "-" || selected === "" || raza === selected;
 
       return matchesNombre && matchesRaza;
     });
@@ -63,7 +66,7 @@ function MylpbViewer() {
     const navigate = useNavigate();
 
     const handleClick = () => {
-      navigate("/"); // Cambia la ruta si deseas
+      navigate("/"); // Puedes cambiar esta ruta
     };
 
     return (
@@ -90,8 +93,6 @@ function MylpbViewer() {
     }
   };
 
-  const uniqueRazas = [...new Set(data.map(row => row.Raza).filter(Boolean))];
-
   return (
     <div className="excel-viewer">
       <h2>Cartas de MyLpb</h2>
@@ -105,9 +106,10 @@ function MylpbViewer() {
         />
 
         <select value={selectedRaza} onChange={handleRazaChange}>
-          <option value="">Todas las razas</option>
-          {uniqueRazas.map((raza, index) => (
-            <option key={index} value={raza}>{raza}</option>
+          {razasDisponibles.map((raza, index) => (
+            <option key={index} value={raza}>
+              {raza === "-" ? "Todas las razas" : raza}
+            </option>
           ))}
         </select>
       </div>
