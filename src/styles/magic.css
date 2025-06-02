@@ -93,3 +93,15 @@
     cursor: not-allowed;
   }
   
+.magic-filter {
+  margin-bottom: 1rem;
+}
+.magic-filter summary {
+  cursor: pointer;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+.magic-filter label {
+  display: block;
+  margin-left: 1rem;
+}
