@@ -186,23 +186,37 @@ function Magic() {
           ))}
         </details>
 
-        <label style={{ display: "block", marginTop: "1rem" }}>
-          Filtrar por raza:
-          <select
-            value={selectedRace}
-            onChange={(e) => {
-              setSelectedRace(e.target.value);
-              setCurrentPage(1);
-            }}
-          >
-            <option value="">Todas las razas</option>
-            {creatureRaces.map((race) => (
-              <option key={race} value={race}>
-                {race}
-              </option>
-            ))}
-          </select>
-        </label>
+        <details className="magic-filter">
+          <summary>Filtrar por raza</summary>
+          <label style={{ display: "block", marginTop: "1rem" }}>
+            <select
+              value={selectedRace}
+              onChange={(e) => {
+                setSelectedRace(e.target.value);
+                setCurrentPage(1);
+              }}
+              style={{
+                marginTop: "0.5rem",
+                padding: "0.5rem",
+                borderRadius: "6px",
+                backgroundColor: "#3a3a3a",
+                color: "#e0e0e0",
+                border: "1px solid #555",
+                fontSize: "1rem",
+                width: "100%",
+                maxWidth: "300px"
+              }}
+            >
+              <option value="">Todas las razas</option>
+              {creatureRaces.map((race) => (
+                <option key={race} value={race}>
+                  {race}
+                </option>
+              ))}
+            </select>
+          </label>
+        </details>
+
       </div>
 
       {error && <p className="magic-error">{error}</p>}
