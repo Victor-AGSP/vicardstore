@@ -20,7 +20,13 @@ function MylpbViewer() {
 
   // Razas y ediciones definidas manualmente
   const razasDisponibles = ["-", "Olimpico", "Titan", "Heroe", "Eterno", "Faraon", "Sacerdote"];
-  const edicionesDisponibles = ["-", "He", "Dr", "Hd", "Es"];
+  const edicionesDisponibles = [
+    { label: "Todas las ediciones", value: "-" },
+    { label: "Helénica", value: "He" },
+    { label: "Dominio de Ra", value: "Dr" },
+    { label: "Hijos de Daana", value: "Hd" },
+    { label: "Espada Sagrada", value: "Es" },
+  ];
 
   useEffect(() => {
     fetch("/data/MyLpb.xlsx")
@@ -124,8 +130,8 @@ function MylpbViewer() {
 
         <select value={selectedEdicion} onChange={handleEdicionChange}>
           {edicionesDisponibles.map((edicion, index) => (
-            <option key={index} value={edicion}>
-              {edicion === "-" ? "Todas las ediciones" : edicion}
+            <option key={index} value={edicion.value}>
+              {edicion.label}
             </option>
           ))}
         </select>
