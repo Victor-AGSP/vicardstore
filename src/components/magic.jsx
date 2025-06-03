@@ -120,6 +120,13 @@ function Magic() {
     return Array.from(subtypes).sort();
   }, [rawCards]);
 
+
+  /*
+// 4. La paginación SIEMPRE se muestra si hay más de una página
+
+// ...existing code...
+  */
+
   // Filtro combinado
   const filteredCards = useMemo(() => {
     let filtered = cardList;
@@ -270,7 +277,7 @@ function Magic() {
         })}
       </div>
 
-      {totalPages > 1 && (
+      {!loading && totalPages > 1 && (
         <div className="pagination">
           <button
             onClick={() => setCurrentPage((p) => Math.max(p - 1, 1))}
