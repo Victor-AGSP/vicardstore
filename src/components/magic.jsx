@@ -255,7 +255,12 @@ function Magic() {
 
       <div className="magic-grid">
         {paginatedCards.map((card) => (
-          <div key={card.id} className="magic-card">
+          <div
+            key={card.id}
+            className="magic-card"
+            style={{ cursor: "pointer" }}
+            onClick={() => window.location.href = `/detalle?id=${encodeURIComponent(card.id)}`}
+          >
             <img
               src={card.image}
               alt={card.nombre}

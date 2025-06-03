@@ -5,6 +5,7 @@ import Menu from './components/menu';
 import ExcelViewer from './components/yugi';
 import MylpbViewer from './components/mylpb';
 import Magic from './components/magic';
+import CartaDetalle from './components/cartadetalle';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Route path="/yugi" element={<ExcelViewer />} />
         <Route path="/mylpb" element={<MylpbViewer />} />
         <Route path="/magic" element={<Magic />} />
+        <Route path="/detalle" element={<CartaDetalle />} />
       </Routes>
     </Router>
   );
