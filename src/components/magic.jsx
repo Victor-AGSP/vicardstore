@@ -46,10 +46,17 @@ function Magic() {
     const loadImages = async () => {
       if (cardList.length === 0) return;
       setLoading(true);
-      setRawCards([]); // Limpiar antes de cargar
+
+      // 1. Intenta cargar desde localStorage
+      const cacheKey = "magicCardCache";
+      let cache = {};
+      try {
+        cache = JSON.parse(localStorage.getItem(cacheKey)) || {};
+      } catch {
+        cache = {};
+      }
 
       const loaded = [];
-
       for (let i = 0; i < cardList.length; i++) {
         if (cancelled) break;
         const card = cardList[i];
@@ -57,6 +64,14 @@ function Magic() {
         const idioma = card["Idioma"]?.toLowerCase() || "es";
         const numero = card["Código"];
         const foil = card["Foil"]?.toString().toLowerCase() === "foil" || card["Foil"] === true ? "foil" : "normal";
+        const id = `${codigo?.toLowerCase()}_${numero}_${idioma}_${foil}`;
+
+        // 2. Si está en cache, úsalo
+        if (cache[id]) {
+          loaded.push(cache[id]);
+          setRawCards([...loaded]);
+          continue;
+        }
 
         if (!codigo || !numero) {
           await new Promise((res) => setTimeout(res, 100));
@@ -77,16 +92,19 @@ function Magic() {
           const image = data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
 
           if (image) {
-            loaded.push({
-              id: `${codigo.toLowerCase()}_${numero}_${idioma}_${foil}`,
+            const cardObj = {
+              id,
               nombre: data.printed_name || data.name,
               idioma,
               image,
               foil,
               tipo: data.type_line,
-            });
-            // Mostrar progresivamente
+            };
+            loaded.push(cardObj);
+            cache[id] = cardObj; // 3. Guarda en cache
             setRawCards([...loaded]);
+            // 4. Actualiza localStorage cada vez que agregas una carta nueva
+            localStorage.setItem(cacheKey, JSON.stringify(cache));
           }
         } catch {
           // Ignorar errores individuales
@@ -103,9 +121,6 @@ function Magic() {
     };
   }, [cardList]);
 
-  const norm = (text) =>
-    text.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-
   // Extraer razas de tipo línea
   const creatureRaces = useMemo(() => {
     const subtypes = new Set();
@@ -120,7 +135,7 @@ function Magic() {
     return Array.from(subtypes).sort();
   }, [rawCards]);
 
-  const filteredLoadedCards = useMemo(() => {
+  const filteredCards = useMemo(() => {
     let filtered = rawCards;
 
     const norm = (text) =>
@@ -151,8 +166,8 @@ function Magic() {
     return filtered;
   }, [search, rawCards, selectedTypes, selectedRace]);
 
-  const totalPages = Math.ceil(filteredLoadedCards.length / CARDS_PER_PAGE);
-  const paginatedCards = filteredLoadedCards.slice(
+  const totalPages = Math.ceil(filteredCards.length / CARDS_PER_PAGE);
+  const paginatedCards = filteredCards.slice(
     (currentPage - 1) * CARDS_PER_PAGE,
     currentPage * CARDS_PER_PAGE
   );
