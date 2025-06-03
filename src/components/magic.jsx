@@ -248,7 +248,6 @@ function Magic() {
 
       <div className="magic-grid">
         {paginatedCards.map((card) => {
-          // Busca la carta ya cargada en rawCards
           const codigo = card["Edición"];
           const idioma = card["Idioma"]?.toLowerCase() || "es";
           const numero = card["Código"];
@@ -256,20 +255,19 @@ function Magic() {
           const id = `${codigo?.toLowerCase()}_${numero}_${idioma}_${foil}`;
           const loadedCard = rawCards.find((c) => c.id === id);
 
+          // Solo renderiza la carta si ya está cargada la imagen
+          if (!loadedCard) return null;
+
           return (
             <div key={id} className="magic-card">
-              {loadedCard ? (
-                <img
-                  src={loadedCard.image}
-                  alt={loadedCard.nombre}
-                  className="magic-card-image"
-                  loading="lazy"
-                />
-              ) : (
-                <div className="magic-card-placeholder">Cargando...</div>
-              )}
+              <img
+                src={loadedCard.image}
+                alt={loadedCard.nombre}
+                className="magic-card-image"
+                loading="lazy"
+              />
               <p className="magic-card-name">
-                {loadedCard ? loadedCard.nombre : card["Nombre"]} ({idioma.toUpperCase()}){" "}
+                {loadedCard.nombre} ({idioma.toUpperCase()}){" "}
                 {foil === "foil" && <strong>★ Foil</strong>}
               </p>
             </div>
@@ -277,7 +275,7 @@ function Magic() {
         })}
       </div>
 
-      {!loading && totalPages > 1 && (
+      {totalPages > 1 && (
         <div className="pagination">
           <button
             onClick={() => setCurrentPage((p) => Math.max(p - 1, 1))}
