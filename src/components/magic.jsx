@@ -2,7 +2,7 @@ import React, { useState, useEffect, useMemo } from "react";
 import * as XLSX from "xlsx";
 import "../styles/magic.css";
 
-const CARDS_PER_PAGE = 30;
+const CARDS_PER_PAGE = 600;
 
 function Magic() {
   const [cardList, setCardList] = useState([]); // Desde Excel
