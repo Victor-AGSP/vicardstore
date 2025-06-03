@@ -41,55 +41,66 @@ function Magic() {
   // Cargar imágenes
   useEffect(() => {
     const controller = new AbortController();
+    let cancelled = false;
+
     const loadImages = async () => {
       if (cardList.length === 0) return;
       setLoading(true);
+      setRawCards([]); // Limpiar antes de cargar
 
-      const results = await Promise.allSettled(
-        cardList.map(async (card) => {
-          const codigo = card["Edición"];
-          const idioma = card["Idioma"]?.toLowerCase() || "es";
-          const numero = card["Código"];
-          const foil = card["Foil"]?.toString().toLowerCase() === "foil" || card["Foil"] === true ? "foil" : "normal";
+      const loaded = [];
 
-          if (!codigo || !numero) return null;
+      for (let i = 0; i < cardList.length; i++) {
+        if (cancelled) break;
+        const card = cardList[i];
+        const codigo = card["Edición"];
+        const idioma = card["Idioma"]?.toLowerCase() || "es";
+        const numero = card["Código"];
+        const foil = card["Foil"]?.toString().toLowerCase() === "foil" || card["Foil"] === true ? "foil" : "normal";
 
-          try {
-            const res = await fetch(
-              `https://api.scryfall.com/cards/${codigo.toLowerCase()}/${numero}?lang=${idioma}`,
-              { signal: controller.signal }
-            );
-            if (!res.ok) return null;
+        if (!codigo || !numero) {
+          await new Promise((res) => setTimeout(res, 100));
+          continue;
+        }
 
-            const data = await res.json();
-            const image = data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
-
-            return image
-              ? {
-                  id: `${codigo.toLowerCase()}_${numero}_${idioma}_${foil}`,
-                  nombre: data.printed_name || data.name,
-                  idioma,
-                  image,
-                  foil,
-                  tipo: data.type_line,
-                }
-              : null;
-          } catch {
-            return null;
+        try {
+          const res = await fetch(
+            `https://api.scryfall.com/cards/${codigo.toLowerCase()}/${numero}?lang=${idioma}`,
+            { signal: controller.signal }
+          );
+          if (!res.ok) {
+            await new Promise((res) => setTimeout(res, 100));
+            continue;
           }
-        })
-      );
 
-      const loaded = results
-        .filter((r) => r.status === "fulfilled" && r.value)
-        .map((r) => r.value);
+          const data = await res.json();
+          const image = data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
 
-      setRawCards(loaded);
+          if (image) {
+            loaded.push({
+              id: `${codigo.toLowerCase()}_${numero}_${idioma}_${foil}`,
+              nombre: data.printed_name || data.name,
+              idioma,
+              image,
+              foil,
+              tipo: data.type_line,
+            });
+            // Mostrar progresivamente
+            setRawCards([...loaded]);
+          }
+        } catch {
+          // Ignorar errores individuales
+        }
+        await new Promise((res) => setTimeout(res, 100));
+      }
       setLoading(false);
     };
 
     loadImages();
-    return () => controller.abort();
+    return () => {
+      cancelled = true;
+      controller.abort();
+    };
   }, [cardList]);
 
   const norm = (text) =>
