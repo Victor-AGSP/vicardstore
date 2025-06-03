@@ -122,24 +122,27 @@ function Magic() {
 
   // Filtro combinado
   const filteredCards = useMemo(() => {
-    let filtered = rawCards;
+    let filtered = cardList;
+
+    const norm = (text) =>
+      text?.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 
     if (search.trim()) {
       filtered = filtered.filter((card) =>
-        norm(card.nombre).includes(norm(search))
+        norm(card["Nombre"]).includes(norm(search))
       );
     }
 
     if (selectedTypes.length > 0) {
       filtered = filtered.filter((card) =>
-        selectedTypes.some((type) => card.tipo?.includes(type))
+        selectedTypes.some((type) => card["Tipo"]?.includes(type))
       );
     }
 
     if (selectedRace) {
       filtered = filtered.filter((card) => {
-        if (!card.tipo || !card.tipo.includes("—")) return false;
-        const match = card.tipo.match(/—\s+(.+)/);
+        if (!card["Tipo"] || !card["Tipo"].includes("—")) return false;
+        const match = card["Tipo"].match(/—\s+(.+)/);
         if (!match) return false;
         const subtypes = match[1].split(" ");
         return subtypes.includes(selectedRace);
@@ -147,7 +150,7 @@ function Magic() {
     }
 
     return filtered;
-  }, [search, rawCards, selectedTypes, selectedRace]);
+  }, [search, cardList, selectedTypes, selectedRace]);
 
   const totalPages = Math.ceil(filteredCards.length / CARDS_PER_PAGE);
   const paginatedCards = filteredCards.slice(
@@ -237,23 +240,37 @@ function Magic() {
       )}
 
       <div className="magic-grid">
-        {paginatedCards.map((card) => (
-          <div key={card.id} className="magic-card">
-            <img
-              src={card.image}
-              alt={card.nombre}
-              className="magic-card-image"
-              loading="lazy"
-            />
-            <p className="magic-card-name">
-              {card.nombre} ({card.idioma.toUpperCase()}){" "}
-              {card.foil === "foil" && <strong>★ Foil</strong>}
-            </p>
-          </div>
-        ))}
+        {paginatedCards.map((card) => {
+          // Busca la carta ya cargada en rawCards
+          const codigo = card["Edición"];
+          const idioma = card["Idioma"]?.toLowerCase() || "es";
+          const numero = card["Código"];
+          const foil = card["Foil"]?.toString().toLowerCase() === "foil" || card["Foil"] === true ? "foil" : "normal";
+          const id = `${codigo?.toLowerCase()}_${numero}_${idioma}_${foil}`;
+          const loadedCard = rawCards.find((c) => c.id === id);
+
+          return (
+            <div key={id} className="magic-card">
+              {loadedCard ? (
+                <img
+                  src={loadedCard.image}
+                  alt={loadedCard.nombre}
+                  className="magic-card-image"
+                  loading="lazy"
+                />
+              ) : (
+                <div className="magic-card-placeholder">Cargando...</div>
+              )}
+              <p className="magic-card-name">
+                {loadedCard ? loadedCard.nombre : card["Nombre"]} ({idioma.toUpperCase()}){" "}
+                {foil === "foil" && <strong>★ Foil</strong>}
+              </p>
+            </div>
+          );
+        })}
       </div>
 
-      {!loading && totalPages > 1 && (
+      {totalPages > 1 && (
         <div className="pagination">
           <button
             onClick={() => setCurrentPage((p) => Math.max(p - 1, 1))}
