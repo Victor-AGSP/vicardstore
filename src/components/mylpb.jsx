@@ -16,12 +16,13 @@ function MylpbViewer() {
   const [selectedRaza, setSelectedRaza] = useState("-");
   const [selectedEdicion, setSelectedEdicion] = useState("-");
   const [currentPage, setCurrentPage] = useState(1);
-  const itemsPerPage = 20;
+  const [selectedLeyenda, setSelectedLeyenda] = useState("-");
+  const itemsPerPage = 30;
 
   // Razas y ediciones definidas manualmente
-  const razasDisponibles = ["-", "Olimpico", "Titan", "Heroe", "Eterno", "Faraon", "Sacerdote"];
+  const razasDisponibles = ["-", "Olimpico", "Titan", "Heroe", "Eterno", "Faraon", "Sacerdote", "Defensor", "Desafiante", "Sombra", "Dragón", "Faerie", "Caballero"];
   const edicionesDisponibles = [
-    { label: "Todas las ediciones", value: "-" },
+    { label: "Todos los artes", value: "-" },
     { label: "Helénica", value: "He" },
     { label: "Dominio de Ra", value: "Dr" },
     { label: "Hijos de Daana", value: "Hd" },
@@ -45,6 +46,7 @@ function MylpbViewer() {
       const nombre = removeAccents((row.Nombre || "").toLowerCase());
       const raza = removeAccents((row.Raza || "").toLowerCase());
       const edicion = removeAccents((row.Edicion || "").toLowerCase());
+      const leyenda = (row.Extra || "").trim();
       const term = removeAccents(searchTerm);
       const selectedR = removeAccents(selectedRaza.toLowerCase());
       const selectedE = removeAccents(selectedEdicion.toLowerCase());
@@ -52,13 +54,16 @@ function MylpbViewer() {
       const matchesNombre = nombre.includes(term);
       const matchesRaza = selectedR === "-" || selectedR === "" || raza === selectedR;
       const matchesEdicion = selectedE === "-" || selectedE === "" || edicion === selectedE;
+      const matchesLeyenda =
+        selectedLeyenda === "-" ||
+        leyenda === selectedLeyenda;
 
-      return matchesNombre && matchesRaza && matchesEdicion;
+      return matchesNombre && matchesRaza && matchesEdicion && matchesLeyenda;
     });
 
     setFilteredData(filtered);
     setCurrentPage(1);
-  }, [searchTerm, selectedRaza, selectedEdicion, data]);
+  }, [searchTerm, selectedRaza, selectedEdicion, selectedLeyenda, data]);
 
   const handleSearch = (e) => {
     setSearchTerm(e.target.value.toLowerCase());
@@ -74,6 +79,7 @@ function MylpbViewer() {
 
   const CardItem = ({ row }) => {
     const nombre = row.Nombre || "Sin nombre";
+    const leyenda = row.Extra ? row.Extra : null;
     const imagenNombre = row.Imagen ? row.Imagen + ".webp" : null;
     const imagePath = imagenNombre ? `/images/${imagenNombre}` : null;
 
@@ -93,7 +99,10 @@ function MylpbViewer() {
             <div className="no-image">Cargando...</div>
           )}
         </div>
-        <div className="card-name">{nombre}</div>
+        <div className="card-name">
+          {nombre}
+          {leyenda ? ` - ${leyenda}` : ""}
+        </div>
       </div>
     );
   };
@@ -126,6 +135,13 @@ function MylpbViewer() {
               {raza === "-" ? "Todas las razas" : raza}
             </option>
           ))}
+        </select>
+
+        <select value={selectedLeyenda} onChange={e => setSelectedLeyenda(e.target.value)}>
+          <option value="-">Todas las leyendas</option>
+          <option value="Salo">Salo</option>
+          <option value="JO">Juego Organizado</option>
+          <option value="Foil Lluvia">Foil Lluvia</option>
         </select>
 
         <select value={selectedEdicion} onChange={handleEdicionChange}>
