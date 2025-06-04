@@ -20,7 +20,7 @@ function MylpbViewer() {
   const itemsPerPage = 30;
 
   // Razas y ediciones definidas manualmente
-  const razasDisponibles = ["-", "Olimpico", "Titan", "Heroe", "Eterno", "Faraon", "Sacerdote", "Defensor", "Desafiante", "Sombra", "Dragón", "Faerie", "Caballero"];
+  const razasDisponibles = ["-", "Olímpico", "Titán", "Héroe", "Eterno", "Faraón", "Sacerdote", "Defensor", "Desafiante", "Sombra", "Dragón", "Faerie", "Caballero"];
   const edicionesDisponibles = [
     { label: "Todos los artes", value: "-" },
     { label: "Helénica", value: "He" },
