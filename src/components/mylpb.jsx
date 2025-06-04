@@ -140,7 +140,7 @@ function MylpbViewer() {
 
         <select value={selectedLeyenda} onChange={e => setSelectedLeyenda(e.target.value)}>
           <option value="-">Todas las leyendas</option>
-          <option value="Salo">Salo</option>
+          <option value="Epoca Salo">Salo</option>
           <option value="JO">Juego Organizado</option>
           <option value="Foil Lluvia">Foil Lluvia</option>
         </select>
