@@ -27,6 +27,7 @@ function MylpbViewer() {
     { label: "Dominio de Ra", value: "Dr" },
     { label: "Hijos de Daana", value: "Hd" },
     { label: "Espada Sagrada", value: "Es" },
+    { label: "Drácula", value: "Dc" },
   ];
 
   useEffect(() => {
