@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "5305e5ea-5e2a-4259-bd9c-9251d7d08b83",
+  "oracle_id": "fa85c5a2-8e83-4624-a35a-a0bbf17ecbb4",
+  "multiverse_ids": [
+    659095
+  ],
+  "name": "Think Twice",
+  "printed_name": "Pensar dos veces",
+  "lang": "es",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/5305e5ea-5e2a-4259-bd9c-9251d7d08b83",
+  "scryfall_uri": "https://scryfall.com/card/otc/119/es/pensar-dos-veces-(think-twice)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/3/5305e5ea-5e2a-4259-bd9c-9251d7d08b83.jpg?1730248086",
+    "normal": "https://cards.scryfall.io/normal/front/5/3/5305e5ea-5e2a-4259-bd9c-9251d7d08b83.jpg?1730248086",
+    "large": "https://cards.scryfall.io/large/front/5/3/5305e5ea-5e2a-4259-bd9c-9251d7d08b83.jpg?1730248086",
+    "png": "https://cards.scryfall.io/png/front/5/3/5305e5ea-5e2a-4259-bd9c-9251d7d08b83.png?1730248086",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/3/5305e5ea-5e2a-4259-bd9c-9251d7d08b83.jpg?1730248086",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/3/5305e5ea-5e2a-4259-bd9c-9251d7d08b83.jpg?1730248086"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "printed_type_line": "Instantáneo",
+  "oracle_text": "Draw a card.\nFlashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "printed_text": "Roba una carta.\nRetrospectiva {2}{U}. (Puedes lanzar esta carta desde tu cementerio pagando su coste de retrospectiva. Luego exíliala.)",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flashback"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5305e5ea-5e2a-4259-bd9c-9251d7d08b83/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afa85c5a2-8e83-4624-a35a-a0bbf17ecbb4&unique=prints",
+  "collector_number": "119",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"O bien conozco el hechizo que necesito, o estoy a punto de hacerlo\".",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Anthony Francisco",
+  "artist_ids": [
+    "6ac24c4b-70e9-4286-8f4b-b40c92ab5847"
+  ],
+  "illustration_id": "47d9121c-7988-4e8f-a78b-c560ad412709",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 2547,
+  "penny_rank": 876,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=659095&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThink%2BTwice",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThink%2BTwice",
+    "edhrec": "https://edhrec.com/route/?cc=Think+Twice"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DThink%2BTwice%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Think+Twice&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Think+Twice&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "344a26ab-524f-4daa-ae0a-9d94e34c96df",
+  "oracle_id": "fea95888-e16a-4209-9cd4-623f7f4d2f67",
+  "multiverse_ids": [
+    447262
+  ],
+  "mtgo_id": 68413,
+  "arena_id": 67932,
+  "tcgplayer_id": 168469,
+  "cardmarket_id": 359615,
+  "name": "Walking Corpse",
+  "lang": "en",
+  "released_at": "2018-07-13",
+  "uri": "https://api.scryfall.com/cards/344a26ab-524f-4daa-ae0a-9d94e34c96df",
+  "scryfall_uri": "https://scryfall.com/card/m19/126/walking-corpse?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/4/344a26ab-524f-4daa-ae0a-9d94e34c96df.jpg?1562301290",
+    "normal": "https://cards.scryfall.io/normal/front/3/4/344a26ab-524f-4daa-ae0a-9d94e34c96df.jpg?1562301290",
+    "large": "https://cards.scryfall.io/large/front/3/4/344a26ab-524f-4daa-ae0a-9d94e34c96df.jpg?1562301290",
+    "png": "https://cards.scryfall.io/png/front/3/4/344a26ab-524f-4daa-ae0a-9d94e34c96df.png?1562301290",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/4/344a26ab-524f-4daa-ae0a-9d94e34c96df.jpg?1562301290",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/4/344a26ab-524f-4daa-ae0a-9d94e34c96df.jpg?1562301290"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Creature — Zombie",
+  "oracle_text": "",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "2f5f2509-56db-414d-9a7e-6e312ec3760c",
+  "set": "m19",
+  "set_name": "Core Set 2019",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/2f5f2509-56db-414d-9a7e-6e312ec3760c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am19&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/m19?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/344a26ab-524f-4daa-ae0a-9d94e34c96df/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afea95888-e16a-4209-9cd4-623f7f4d2f67&unique=prints",
+  "collector_number": "126",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Feeding a normal army is a problem of logistics. With zombies, it is an asset. Feeding is why they fight. Feeding is why they are feared.\"\n—Jadar, ghoulcaller of Nephalia",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Igor Kieryluk",
+  "artist_ids": [
+    "9c3e9d17-509f-485c-9360-46d897ce716b"
+  ],
+  "illustration_id": "3dd81e81-dec9-4c30-a601-ed13985b8bd0",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 21831,
+  "penny_rank": 16879,
+  "prices": {
+    "usd": "0.04",
+    "usd_foil": "0.24",
+    "usd_etched": null,
+    "eur": "0.02",
+    "eur_foil": "0.15",
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447262&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWalking%2BCorpse",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWalking%2BCorpse",
+    "edhrec": "https://edhrec.com/route/?cc=Walking+Corpse"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F168469%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Core-2019/Walking-Corpse?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/68413?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "e020525a-6f10-4de9-b39d-239d43594222",
+  "oracle_id": "963947d5-5fe4-49cd-be0c-0bdb5f7bcbb6",
+  "multiverse_ids": [
+    694026
+  ],
+  "name": "Bearer of Glory",
+  "printed_name": "Portador de gloria",
+  "lang": "es",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/e020525a-6f10-4de9-b39d-239d43594222",
+  "scryfall_uri": "https://scryfall.com/card/tdm/4/es/portador-de-gloria-(bearer-of-glory)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/0/e020525a-6f10-4de9-b39d-239d43594222.jpg?1744674064",
+    "normal": "https://cards.scryfall.io/normal/front/e/0/e020525a-6f10-4de9-b39d-239d43594222.jpg?1744674064",
+    "large": "https://cards.scryfall.io/large/front/e/0/e020525a-6f10-4de9-b39d-239d43594222.jpg?1744674064",
+    "png": "https://cards.scryfall.io/png/front/e/0/e020525a-6f10-4de9-b39d-239d43594222.png?1744674064",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/0/e020525a-6f10-4de9-b39d-239d43594222.jpg?1744674064",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/0/e020525a-6f10-4de9-b39d-239d43594222.jpg?1744674064"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Creature — Human Soldier",
+  "printed_type_line": "Criatura — Soldado humano",
+  "oracle_text": "During your turn, this creature has first strike.\n{4}{W}: Creatures you control get +1/+1 until end of turn.",
+  "printed_text": "Durante tu turno, esta criatura tiene la habilidad de dañar primero.\n{4}{W}: Las criaturas que controlas obtienen +1/+1 hasta el final del turno.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set": "tdm",
+  "set_name": "Tarkir: Dragonstorm",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e020525a-6f10-4de9-b39d-239d43594222/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A963947d5-5fe4-49cd-be0c-0bdb5f7bcbb6&unique=prints",
+  "collector_number": "4",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "La moral no decaerá mientras él siga en pie.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Joshua Cairos",
+  "artist_ids": [
+    "2b8abf3a-262e-492d-8ee5-5f33e09cc679"
+  ],
+  "illustration_id": "f7c43ab7-65f4-4174-bcc3-68c4c82a8362",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 23810,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694026&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBearer%2Bof%2BGlory",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBearer%2Bof%2BGlory",
+    "edhrec": "https://edhrec.com/route/?cc=Bearer+of+Glory"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBearer%2Bof%2BGlory%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bearer+of+Glory&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bearer+of+Glory&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "ea6cc4a8-cf45-49cd-aea5-e6b2b20f80de",
+  "oracle_id": "322a2d97-cf71-4bfc-b52d-f642f2d0dcbd",
+  "multiverse_ids": [
+    694197
+  ],
+  "name": "Cori Mountain Stalwart",
+  "printed_name": "Defensor de la montaña Cori",
+  "lang": "es",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/ea6cc4a8-cf45-49cd-aea5-e6b2b20f80de",
+  "scryfall_uri": "https://scryfall.com/card/tdm/175/es/defensor-de-la-monta%C3%B1a-cori-(cori-mountain-stalwart)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/a/ea6cc4a8-cf45-49cd-aea5-e6b2b20f80de.jpg?1744677845",
+    "normal": "https://cards.scryfall.io/normal/front/e/a/ea6cc4a8-cf45-49cd-aea5-e6b2b20f80de.jpg?1744677845",
+    "large": "https://cards.scryfall.io/large/front/e/a/ea6cc4a8-cf45-49cd-aea5-e6b2b20f80de.jpg?1744677845",
+    "png": "https://cards.scryfall.io/png/front/e/a/ea6cc4a8-cf45-49cd-aea5-e6b2b20f80de.png?1744677845",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/a/ea6cc4a8-cf45-49cd-aea5-e6b2b20f80de.jpg?1744677845",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/a/ea6cc4a8-cf45-49cd-aea5-e6b2b20f80de.jpg?1744677845"
+  },
+  "mana_cost": "{1}{R}{W}",
+  "cmc": 3,
+  "type_line": "Creature — Human Monk",
+  "printed_type_line": "Criatura — Monje humano",
+  "oracle_text": "Flurry — Whenever you cast your second spell each turn, this creature deals 2 damage to each opponent and you gain 2 life.",
+  "printed_text": "Ráfaga — Siempre que lances tu segundo hechizo cada turno, esta criatura hace 2 puntos de daño a cada oponente y tú ganas 2 vidas.",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "R",
+    "W"
+  ],
+  "color_identity": [
+    "R",
+    "W"
+  ],
+  "keywords": [
+    "Flurry"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set": "tdm",
+  "set_name": "Tarkir: Dragonstorm",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ea6cc4a8-cf45-49cd-aea5-e6b2b20f80de/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A322a2d97-cf71-4bfc-b52d-f642f2d0dcbd&unique=prints",
+  "collector_number": "175",
+  "digital": false,
+  "rarity": "uncommon",
+  "watermark": "jeskai",
+  "flavor_text": "Zhao decidió defender el puente y proteger la aldea que había tras él. Pero los aldeanos decidieron que Zhao no lucharía solo.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Josiah \"Jo\" Cameron",
+  "artist_ids": [
+    "2a8b4b91-ddff-4477-ba10-b92bc04a4358"
+  ],
+  "illustration_id": "e793d4aa-9e16-4ee8-ac98-ff96ed939258",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 18105,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694197&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCori%2BMountain%2BStalwart",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCori%2BMountain%2BStalwart",
+    "edhrec": "https://edhrec.com/route/?cc=Cori+Mountain+Stalwart"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DCori%2BMountain%2BStalwart%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cori+Mountain+Stalwart&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cori+Mountain+Stalwart&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

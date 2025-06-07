@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "3dfdd97d-8a20-4591-9fbb-588b6a971668",
+  "oracle_id": "318f7f70-e374-40ef-8afb-3389c10461d8",
+  "multiverse_ids": [
+    541559
+  ],
+  "name": "Syncopate",
+  "printed_name": "Sincopar",
+  "lang": "es",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/3dfdd97d-8a20-4591-9fbb-588b6a971668",
+  "scryfall_uri": "https://scryfall.com/card/vow/83/es/sincopar-(syncopate)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/d/3dfdd97d-8a20-4591-9fbb-588b6a971668.jpg?1741129265",
+    "normal": "https://cards.scryfall.io/normal/front/3/d/3dfdd97d-8a20-4591-9fbb-588b6a971668.jpg?1741129265",
+    "large": "https://cards.scryfall.io/large/front/3/d/3dfdd97d-8a20-4591-9fbb-588b6a971668.jpg?1741129265",
+    "png": "https://cards.scryfall.io/png/front/3/d/3dfdd97d-8a20-4591-9fbb-588b6a971668.png?1741129265",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/d/3dfdd97d-8a20-4591-9fbb-588b6a971668.jpg?1741129265",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/d/3dfdd97d-8a20-4591-9fbb-588b6a971668.jpg?1741129265"
+  },
+  "mana_cost": "{X}{U}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "printed_type_line": "Instantáneo",
+  "oracle_text": "Counter target spell unless its controller pays {X}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",
+  "printed_text": "Contrarresta el hechizo objetivo a menos que su controlador pague {X}. Si ese hechizo es contrarrestado de esta manera, exílialo en vez de ponerlo en el cementerio de su propietario.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3dfdd97d-8a20-4591-9fbb-588b6a971668/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A318f7f70-e374-40ef-8afb-3389c10461d8&unique=prints",
+  "collector_number": "83",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"¡Idiota! ¿No ves que la marea está en tu contra?\".",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Marta Nael",
+  "artist_ids": [
+    "266ab861-ed64-4ba5-865c-f18758421cc3"
+  ],
+  "illustration_id": "46449d1f-b024-4f91-967a-2633eee6f94e",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6403,
+  "penny_rank": 1332,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541559&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSyncopate",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSyncopate",
+    "edhrec": "https://edhrec.com/route/?cc=Syncopate"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSyncopate%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Syncopate&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Syncopate&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

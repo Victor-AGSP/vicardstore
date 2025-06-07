@@ -1,0 +1,166 @@
+{
+  "object": "card",
+  "id": "684e13fc-fc38-4429-a397-918d0cad4bfd",
+  "oracle_id": "db19a27a-ee22-4931-ae3c-0ce21f456ea6",
+  "multiverse_ids": [
+    661885
+  ],
+  "name": "Drowner of Truth // Drowned Jungle",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/684e13fc-fc38-4429-a397-918d0cad4bfd",
+  "scryfall_uri": "https://scryfall.com/card/mh3/253/es/ahogador-de-la-verdad-jungla-ahogada-(drowner-of-truth-drowned-jungle)?utm_source=api",
+  "layout": "modal_dfc",
+  "highres_image": false,
+  "image_status": "lowres",
+  "cmc": 7,
+  "type_line": "Creature — Eldrazi // Land",
+  "color_identity": [
+    "G",
+    "U"
+  ],
+  "keywords": [
+    "Devoid"
+  ],
+  "produced_mana": [
+    "C",
+    "G",
+    "U"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Drowner of Truth",
+      "printed_name": "Ahogador de la verdad",
+      "mana_cost": "{5}{G/U}{G/U}",
+      "type_line": "Creature — Eldrazi",
+      "printed_type_line": "Criatura — Eldrazi",
+      "oracle_text": "Devoid (This card has no color.)\nWhen you cast this spell, if {C} was spent to cast it, create two 0/1 colorless Eldrazi Spawn creature tokens with \"Sacrifice this token: Add {C}.\"",
+      "printed_text": "Vacío. (Esta carta no tiene ningún color.)\nCuando lances este hechizo, si se usó {C} para lanzarlo, crea dos fichas de criatura Engendro Eldrazi incoloras 0/1 con \"Sacrificar esta criatura: Agrega {C}\".\nTierra\n{T}: Agrega {G} o {U}.",
+      "colors": [],
+      "power": "7",
+      "toughness": "6",
+      "flavor_text": "\"La descendencia de Mangeni se asienta entre nosotros\".\n—Ayli, gran sacerdotisa de los Peregrinos Eternos",
+      "artist": "Nicholas Gregory",
+      "artist_id": "a1bba8ff-63b4-4786-b1c4-f1bfe5d3ab1c",
+      "illustration_id": "0f8736e5-2ccc-4a0f-a855-b1deae14995d",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/6/8/684e13fc-fc38-4429-a397-918d0cad4bfd.jpg?1730223259",
+        "normal": "https://cards.scryfall.io/normal/front/6/8/684e13fc-fc38-4429-a397-918d0cad4bfd.jpg?1730223259",
+        "large": "https://cards.scryfall.io/large/front/6/8/684e13fc-fc38-4429-a397-918d0cad4bfd.jpg?1730223259",
+        "png": "https://cards.scryfall.io/png/front/6/8/684e13fc-fc38-4429-a397-918d0cad4bfd.png?1730223259",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/6/8/684e13fc-fc38-4429-a397-918d0cad4bfd.jpg?1730223259",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/6/8/684e13fc-fc38-4429-a397-918d0cad4bfd.jpg?1730223259"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Drowned Jungle",
+      "printed_name": "Jungla ahogada",
+      "mana_cost": "",
+      "type_line": "Land",
+      "printed_type_line": "Tierra",
+      "oracle_text": "This land enters tapped.\n{T}: Add {G} or {U}.",
+      "printed_text": "La Jungla ahogada entra al campo de batalla girada.\n{T}: Agrega {G} o {U}.\nEldrazi\n{5}{G/U}{G/U}",
+      "colors": [],
+      "flavor_text": "\"Los eldrazi purgan la impureza del mundo para que nosotros, los fieles, heredemos el paraíso\".\n—Ayli, gran sacerdotisa de los Peregrinos Eternos",
+      "artist": "Nicholas Gregory",
+      "artist_id": "a1bba8ff-63b4-4786-b1c4-f1bfe5d3ab1c",
+      "illustration_id": "5427aec5-483f-4015-805d-4094e9685193",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/6/8/684e13fc-fc38-4429-a397-918d0cad4bfd.jpg?1730223259",
+        "normal": "https://cards.scryfall.io/normal/back/6/8/684e13fc-fc38-4429-a397-918d0cad4bfd.jpg?1730223259",
+        "large": "https://cards.scryfall.io/large/back/6/8/684e13fc-fc38-4429-a397-918d0cad4bfd.jpg?1730223259",
+        "png": "https://cards.scryfall.io/png/back/6/8/684e13fc-fc38-4429-a397-918d0cad4bfd.png?1730223259",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/6/8/684e13fc-fc38-4429-a397-918d0cad4bfd.jpg?1730223259",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/6/8/684e13fc-fc38-4429-a397-918d0cad4bfd.jpg?1730223259"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/684e13fc-fc38-4429-a397-918d0cad4bfd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adb19a27a-ee22-4931-ae3c-0ce21f456ea6&unique=prints",
+  "collector_number": "253",
+  "digital": false,
+  "rarity": "uncommon",
+  "artist": "Nicholas Gregory",
+  "artist_ids": [
+    "a1bba8ff-63b4-4786-b1c4-f1bfe5d3ab1c"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "devoid"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6346,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=661885&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDrowner%2Bof%2BTruth%2B%252F%252F%2BDrowned%2BJungle",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDrowner%2Bof%2BTruth%2B%252F%252F%2BDrowned%2BJungle",
+    "edhrec": "https://edhrec.com/route/?cc=Drowner+of+Truth"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DDrowner%2Bof%2BTruth%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Drowner+of+Truth&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Drowner+of+Truth&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

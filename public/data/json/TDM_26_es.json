@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "038ef28d-040c-48b6-9ced-05f6319347d9",
+  "oracle_id": "b5b742d2-f19b-47c9-84bd-e85d975900e6",
+  "multiverse_ids": [
+    694048
+  ],
+  "name": "Static Snare",
+  "printed_name": "Trampa estática",
+  "lang": "es",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/038ef28d-040c-48b6-9ced-05f6319347d9",
+  "scryfall_uri": "https://scryfall.com/card/tdm/26/es/trampa-est%C3%A1tica-(static-snare)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/3/038ef28d-040c-48b6-9ced-05f6319347d9.jpg?1744674517",
+    "normal": "https://cards.scryfall.io/normal/front/0/3/038ef28d-040c-48b6-9ced-05f6319347d9.jpg?1744674517",
+    "large": "https://cards.scryfall.io/large/front/0/3/038ef28d-040c-48b6-9ced-05f6319347d9.jpg?1744674517",
+    "png": "https://cards.scryfall.io/png/front/0/3/038ef28d-040c-48b6-9ced-05f6319347d9.png?1744674517",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/3/038ef28d-040c-48b6-9ced-05f6319347d9.jpg?1744674517",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/3/038ef28d-040c-48b6-9ced-05f6319347d9.jpg?1744674517"
+  },
+  "mana_cost": "{4}{W}",
+  "cmc": 5,
+  "type_line": "Enchantment",
+  "printed_type_line": "Encantamiento",
+  "oracle_text": "Flash\nThis spell costs {1} less to cast for each attacking creature.\nWhen this enchantment enters, exile target artifact or creature an opponent controls until this enchantment leaves the battlefield.",
+  "printed_text": "Destello.\nTe cuesta {1} menos lanzar este hechizo por cada criatura atacante.\nCuando este encantamiento entre, exilia el artefacto o criatura objetivo que controla un oponente hasta que este encantamiento deje el campo de batalla.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flash"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set": "tdm",
+  "set_name": "Tarkir: Dragonstorm",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/038ef28d-040c-48b6-9ced-05f6319347d9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab5b742d2-f19b-47c9-84bd-e85d975900e6&unique=prints",
+  "collector_number": "26",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yohann Schepacz",
+  "artist_ids": [
+    "c40c8ec8-d8b3-48a5-8de2-a7c96cbded5b"
+  ],
+  "illustration_id": "bae58ff4-09f9-4767-9470-ac514d282400",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "enchantment"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 18456,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694048&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DStatic%2BSnare",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DStatic%2BSnare",
+    "edhrec": "https://edhrec.com/route/?cc=Static+Snare"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DStatic%2BSnare%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Static+Snare&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Static+Snare&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

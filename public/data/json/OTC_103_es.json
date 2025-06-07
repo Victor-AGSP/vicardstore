@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "eb48fecc-bbb3-4ff2-b65f-b054a21d9b90",
+  "oracle_id": "65681a2a-8395-4390-845f-9be974994dcb",
+  "multiverse_ids": [
+    659079
+  ],
+  "name": "Octavia, Living Thesis",
+  "printed_name": "Octavia, tesis viviente",
+  "lang": "es",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/eb48fecc-bbb3-4ff2-b65f-b054a21d9b90",
+  "scryfall_uri": "https://scryfall.com/card/otc/103/es/octavia-tesis-viviente-(octavia-living-thesis)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/b/eb48fecc-bbb3-4ff2-b65f-b054a21d9b90.jpg?1730248079",
+    "normal": "https://cards.scryfall.io/normal/front/e/b/eb48fecc-bbb3-4ff2-b65f-b054a21d9b90.jpg?1730248079",
+    "large": "https://cards.scryfall.io/large/front/e/b/eb48fecc-bbb3-4ff2-b65f-b054a21d9b90.jpg?1730248079",
+    "png": "https://cards.scryfall.io/png/front/e/b/eb48fecc-bbb3-4ff2-b65f-b054a21d9b90.png?1730248079",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/b/eb48fecc-bbb3-4ff2-b65f-b054a21d9b90.jpg?1730248079",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/b/eb48fecc-bbb3-4ff2-b65f-b054a21d9b90.jpg?1730248079"
+  },
+  "mana_cost": "{8}{U}{U}",
+  "cmc": 10,
+  "type_line": "Legendary Creature — Elemental Octopus",
+  "printed_type_line": "Criatura legendaria — Pulpo elemental",
+  "oracle_text": "This spell costs {8} less to cast if you have eight or more instant and/or sorcery cards in your graveyard.\nWard {8}\nMagecraft — Whenever you cast or copy an instant or sorcery spell, target creature has base power and toughness 8/8 until end of turn.",
+  "printed_text": "Te cuesta {8} menos lanzar este hechizo si tienes ocho o más cartas de instantáneo y/o de conjuro en tu cementerio.\nRebatir {8}.\nHechicería — Siempre que lances o copies un hechizo de instantáneo o de conjuro, la criatura objetivo tiene una fuerza y resistencia base de 8/8 hasta el final del turno.",
+  "power": "8",
+  "toughness": "8",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Magecraft",
+    "Ward"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/eb48fecc-bbb3-4ff2-b65f-b054a21d9b90/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A65681a2a-8395-4390-845f-9be974994dcb&unique=prints",
+  "collector_number": "103",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Simon Dominic",
+  "artist_ids": [
+    "b0e80135-db5a-4b88-a0bc-815a0e94faa1"
+  ],
+  "illustration_id": "6db8f41d-d73d-4131-9e05-7056ef45f647",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4628,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=659079&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOctavia%252C%2BLiving%2BThesis",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOctavia%252C%2BLiving%2BThesis",
+    "edhrec": "https://edhrec.com/route/?cc=Octavia%2C+Living+Thesis"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DOctavia%252C%2BLiving%2BThesis%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Octavia%2C+Living+Thesis&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Octavia%2C+Living+Thesis&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

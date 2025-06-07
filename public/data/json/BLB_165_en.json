@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "bac9f6f8-6797-4580-9fc4-9a825872e017",
+  "oracle_id": "bc9c7e1a-5155-431a-be21-fcbd18718980",
+  "multiverse_ids": [
+    669079
+  ],
+  "mtgo_id": 129575,
+  "arena_id": 91701,
+  "tcgplayer_id": 558692,
+  "cardmarket_id": 779412,
+  "name": "Brambleguard Veteran",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/bac9f6f8-6797-4580-9fc4-9a825872e017",
+  "scryfall_uri": "https://scryfall.com/card/blb/165/brambleguard-veteran?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/a/bac9f6f8-6797-4580-9fc4-9a825872e017.jpg?1721426774",
+    "normal": "https://cards.scryfall.io/normal/front/b/a/bac9f6f8-6797-4580-9fc4-9a825872e017.jpg?1721426774",
+    "large": "https://cards.scryfall.io/large/front/b/a/bac9f6f8-6797-4580-9fc4-9a825872e017.jpg?1721426774",
+    "png": "https://cards.scryfall.io/png/front/b/a/bac9f6f8-6797-4580-9fc4-9a825872e017.png?1721426774",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/a/bac9f6f8-6797-4580-9fc4-9a825872e017.jpg?1721426774",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/a/bac9f6f8-6797-4580-9fc4-9a825872e017.jpg?1721426774"
+  },
+  "mana_cost": "{1}{G}{G}",
+  "cmc": 3,
+  "type_line": "Creature — Raccoon Warrior",
+  "oracle_text": "Whenever you expend 4, Raccoons you control get +1/+1 and gain vigilance until end of turn. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)",
+  "power": "3",
+  "toughness": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a2f58272-bba6-439d-871e-7a46686ac018",
+  "set": "blb",
+  "set_name": "Bloomburrow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a2f58272-bba6-439d-871e-7a46686ac018",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bac9f6f8-6797-4580-9fc4-9a825872e017/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abc9c7e1a-5155-431a-be21-fcbd18718980&unique=prints",
+  "collector_number": "165",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Why should the birdfolk get the best view?\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jakob Eirich",
+  "artist_ids": [
+    "982d9460-f9b9-42f6-8a25-47afa7df22e9"
+  ],
+  "illustration_id": "2a8eea48-858b-435e-bd35-f683f8deb007",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 13763,
+  "preview": {
+    "source": "Anna Margaret",
+    "source_uri": "https://x.com/itsannamargaret/status/1811139538615415281/photo/1",
+    "previewed_at": "2024-07-10"
+  },
+  "prices": {
+    "usd": "0.06",
+    "usd_foil": "0.06",
+    "usd_etched": null,
+    "eur": "0.17",
+    "eur_foil": "0.15",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=669079&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBrambleguard%2BVeteran",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBrambleguard%2BVeteran",
+    "edhrec": "https://edhrec.com/route/?cc=Brambleguard+Veteran"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F558692%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Bloomburrow/Brambleguard-Veteran?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/129575?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

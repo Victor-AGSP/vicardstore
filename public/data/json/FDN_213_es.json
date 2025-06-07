@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "4979f6ed-2990-4509-826f-d71a4c3dd02f",
+  "oracle_id": "80ea56ad-e741-4a85-b4e8-ce62e7d593d5",
+  "multiverse_ids": [
+    680231
+  ],
+  "name": "Blanchwood Armor",
+  "printed_name": "Armadura de maderapálida",
+  "lang": "es",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/4979f6ed-2990-4509-826f-d71a4c3dd02f",
+  "scryfall_uri": "https://scryfall.com/card/fdn/213/es/armadura-de-maderap%C3%A1lida-(blanchwood-armor)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/9/4979f6ed-2990-4509-826f-d71a4c3dd02f.jpg?1732352358",
+    "normal": "https://cards.scryfall.io/normal/front/4/9/4979f6ed-2990-4509-826f-d71a4c3dd02f.jpg?1732352358",
+    "large": "https://cards.scryfall.io/large/front/4/9/4979f6ed-2990-4509-826f-d71a4c3dd02f.jpg?1732352358",
+    "png": "https://cards.scryfall.io/png/front/4/9/4979f6ed-2990-4509-826f-d71a4c3dd02f.png?1732352358",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/9/4979f6ed-2990-4509-826f-d71a4c3dd02f.jpg?1732352358",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/9/4979f6ed-2990-4509-826f-d71a4c3dd02f.jpg?1732352358"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Enchantment — Aura",
+  "printed_type_line": "Encantamiento — Aura",
+  "oracle_text": "Enchant creature\nEnchanted creature gets +1/+1 for each Forest you control.",
+  "printed_text": "Encantar criatura.\nLa criatura encantada obtiene +1/+1 por cada Bosque que controlas.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set": "fdn",
+  "set_name": "Foundations",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afdn&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fdn?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4979f6ed-2990-4509-826f-d71a4c3dd02f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A80ea56ad-e741-4a85-b4e8-ce62e7d593d5&unique=prints",
+  "collector_number": "213",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Algunas armaduras se forjan y otras se cultivan.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Manuel Castañón",
+  "artist_ids": [
+    "35f11eeb-36ff-4059-bb70-d1274f5bd858"
+  ],
+  "illustration_id": "313c7c8e-fb68-4cf2-9aac-02bf5d6217b8",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "enchantment"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3229,
+  "penny_rank": 7433,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=680231&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlanchwood%2BArmor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlanchwood%2BArmor",
+    "edhrec": "https://edhrec.com/route/?cc=Blanchwood+Armor"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBlanchwood%2BArmor%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blanchwood+Armor&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blanchwood+Armor&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

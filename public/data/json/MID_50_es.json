@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "b3d9ff63-49e5-4f1f-8204-f04bacc83505",
+  "oracle_id": "2378d6fc-b6ba-4a44-b951-5698ed507e4c",
+  "multiverse_ids": [
+    535443
+  ],
+  "name": "Drownyard Amalgam",
+  "printed_name": "Amalgama del cementerio marino",
+  "lang": "es",
+  "released_at": "2021-09-24",
+  "uri": "https://api.scryfall.com/cards/b3d9ff63-49e5-4f1f-8204-f04bacc83505",
+  "scryfall_uri": "https://scryfall.com/card/mid/50/es/amalgama-del-cementerio-marino-(drownyard-amalgam)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/3/b3d9ff63-49e5-4f1f-8204-f04bacc83505.jpg?1738115773",
+    "normal": "https://cards.scryfall.io/normal/front/b/3/b3d9ff63-49e5-4f1f-8204-f04bacc83505.jpg?1738115773",
+    "large": "https://cards.scryfall.io/large/front/b/3/b3d9ff63-49e5-4f1f-8204-f04bacc83505.jpg?1738115773",
+    "png": "https://cards.scryfall.io/png/front/b/3/b3d9ff63-49e5-4f1f-8204-f04bacc83505.png?1738115773",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/3/b3d9ff63-49e5-4f1f-8204-f04bacc83505.jpg?1738115773",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/3/b3d9ff63-49e5-4f1f-8204-f04bacc83505.jpg?1738115773"
+  },
+  "mana_cost": "{4}{U}",
+  "cmc": 5,
+  "type_line": "Creature — Zombie Horror",
+  "printed_type_line": "Criatura — Horror zombie",
+  "oracle_text": "When this creature enters, target player mills three cards. (They put the top three cards of their library into their graveyard.)\n{2}{U}: This creature can't be blocked this turn.",
+  "printed_text": "Cuando la Amalgama del cementerio marino entre al campo de batalla, el jugador objetivo muele tres cartas. (Pone las tres primeras cartas de su biblioteca en su cementerio.)\n{2}{U}: La Amalgama del cementerio marino no puede ser bloqueada este turno.",
+  "power": "3",
+  "toughness": "6",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+  "set": "mid",
+  "set_name": "Innistrad: Midnight Hunt",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amid&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mid?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b3d9ff63-49e5-4f1f-8204-f04bacc83505/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2378d6fc-b6ba-4a44-b951-5698ed507e4c&unique=prints",
+  "collector_number": "50",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Cuando no quedan suficientes cadáveres humanos, los suturadores apelan a la creatividad.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alex Brock",
+  "artist_ids": [
+    "ce381d25-868c-4f13-b1e9-e7cd2f67e994"
+  ],
+  "illustration_id": "c57e9058-e356-456b-a8eb-33ea5d55a819",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 18028,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535443&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDrownyard%2BAmalgam",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDrownyard%2BAmalgam",
+    "edhrec": "https://edhrec.com/route/?cc=Drownyard+Amalgam"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DDrownyard%2BAmalgam%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Drownyard+Amalgam&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Drownyard+Amalgam&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

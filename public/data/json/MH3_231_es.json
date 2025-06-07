@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "5265f5b9-59f2-4cc8-b26a-c9ae9c387071",
+  "oracle_id": "d4eb65d5-99fd-4daf-b7d3-8ebf99ee9c61",
+  "multiverse_ids": [
+    662855
+  ],
+  "name": "Tranquil Landscape",
+  "printed_name": "Paisaje sereno",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/5265f5b9-59f2-4cc8-b26a-c9ae9c387071",
+  "scryfall_uri": "https://scryfall.com/card/mh3/231/es/paisaje-sereno-(tranquil-landscape)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/2/5265f5b9-59f2-4cc8-b26a-c9ae9c387071.jpg?1730223126",
+    "normal": "https://cards.scryfall.io/normal/front/5/2/5265f5b9-59f2-4cc8-b26a-c9ae9c387071.jpg?1730223126",
+    "large": "https://cards.scryfall.io/large/front/5/2/5265f5b9-59f2-4cc8-b26a-c9ae9c387071.jpg?1730223126",
+    "png": "https://cards.scryfall.io/png/front/5/2/5265f5b9-59f2-4cc8-b26a-c9ae9c387071.png?1730223126",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/2/5265f5b9-59f2-4cc8-b26a-c9ae9c387071.jpg?1730223126",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/2/5265f5b9-59f2-4cc8-b26a-c9ae9c387071.jpg?1730223126"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "printed_type_line": "Tierra",
+  "oracle_text": "{T}: Add {C}.\n{T}, Sacrifice this land: Search your library for a basic Forest, Plains, or Island card, put it onto the battlefield tapped, then shuffle.\nCycling {G}{W}{U} ({G}{W}{U}, Discard this card: Draw a card.)",
+  "printed_text": "{T}: Agrega {C}.\n{T}, sacrificar el Paisaje sereno: Busca en tu biblioteca una carta de Bosque, Llanura o Isla básica, ponla en el campo de batalla girada y luego baraja.\nCiclo {G}{W}{U}. ({G}{W}{U}, descartar esta carta: Roba una carta.)",
+  "colors": [],
+  "color_identity": [
+    "G",
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Cycling"
+  ],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5265f5b9-59f2-4cc8-b26a-c9ae9c387071/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad4eb65d5-99fd-4daf-b7d3-8ebf99ee9c61&unique=prints",
+  "collector_number": "231",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Randy Gallegos",
+  "artist_ids": [
+    "a5048cc7-438a-4378-98e4-da99b78e1db0"
+  ],
+  "illustration_id": "9be4466a-fd33-4db2-bb35-2a9acf109c9b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2347,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662855&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTranquil%2BLandscape",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTranquil%2BLandscape",
+    "edhrec": "https://edhrec.com/route/?cc=Tranquil+Landscape"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DTranquil%2BLandscape%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tranquil+Landscape&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tranquil+Landscape&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

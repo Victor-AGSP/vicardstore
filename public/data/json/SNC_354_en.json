@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "b906bdba-534c-4f47-b00b-bb93f92774cd",
+  "oracle_id": "46466819-3c8b-4f7e-82c2-93cb0118a6e6",
+  "multiverse_ids": [
+    559239
+  ],
+  "arena_id": 80524,
+  "tcgplayer_id": 268394,
+  "cardmarket_id": 651388,
+  "name": "Skybridge Towers",
+  "lang": "en",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/b906bdba-534c-4f47-b00b-bb93f92774cd",
+  "scryfall_uri": "https://scryfall.com/card/snc/354/skybridge-towers?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/9/b906bdba-534c-4f47-b00b-bb93f92774cd.jpg?1664415936",
+    "normal": "https://cards.scryfall.io/normal/front/b/9/b906bdba-534c-4f47-b00b-bb93f92774cd.jpg?1664415936",
+    "large": "https://cards.scryfall.io/large/front/b/9/b906bdba-534c-4f47-b00b-bb93f92774cd.jpg?1664415936",
+    "png": "https://cards.scryfall.io/png/front/b/9/b906bdba-534c-4f47-b00b-bb93f92774cd.png?1664415936",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/9/b906bdba-534c-4f47-b00b-bb93f92774cd.jpg?1664415936",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/9/b906bdba-534c-4f47-b00b-bb93f92774cd.jpg?1664415936"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "oracle_text": "This land enters tapped.\n{T}: Add {W} or {U}.\n{2}{W}{U}, {T}, Sacrifice this land: Draw a card.",
+  "colors": [],
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+  "set": "snc",
+  "set_name": "Streets of New Capenna",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b906bdba-534c-4f47-b00b-bb93f92774cd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A46466819-3c8b-4f7e-82c2-93cb0118a6e6&unique=prints",
+  "collector_number": "354",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sam Chivers",
+  "artist_ids": [
+    "0c5857a1-9fa8-4f17-94a5-87058038e665"
+  ],
+  "illustration_id": "7abe7fe6-4685-4800-ae97-50942baa640f",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 6092,
+  "penny_rank": 6100,
+  "prices": {
+    "usd": "0.07",
+    "usd_foil": "0.11",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.27",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=559239&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSkybridge%2BTowers",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSkybridge%2BTowers",
+    "edhrec": "https://edhrec.com/route/?cc=Skybridge+Towers"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268394%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna-Extras/Skybridge-Towers?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Skybridge+Towers&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "object": "card",
+  "id": "962ec4d9-a5ff-4d29-9248-018e410ec656",
+  "oracle_id": "a7c69802-99c4-4778-934e-cc09ba58c267",
+  "multiverse_ids": [
+    662769
+  ],
+  "name": "Basking Broodscale",
+  "printed_name": "Escamoso asoleándose",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/962ec4d9-a5ff-4d29-9248-018e410ec656",
+  "scryfall_uri": "https://scryfall.com/card/mh3/145/es/escamoso-asole%C3%A1ndose-(basking-broodscale)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/6/962ec4d9-a5ff-4d29-9248-018e410ec656.jpg?1730222641",
+    "normal": "https://cards.scryfall.io/normal/front/9/6/962ec4d9-a5ff-4d29-9248-018e410ec656.jpg?1730222641",
+    "large": "https://cards.scryfall.io/large/front/9/6/962ec4d9-a5ff-4d29-9248-018e410ec656.jpg?1730222641",
+    "png": "https://cards.scryfall.io/png/front/9/6/962ec4d9-a5ff-4d29-9248-018e410ec656.png?1730222641",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/6/962ec4d9-a5ff-4d29-9248-018e410ec656.jpg?1730222641",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/6/962ec4d9-a5ff-4d29-9248-018e410ec656.jpg?1730222641"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Creature — Eldrazi Lizard",
+  "printed_type_line": "Criatura — Lagarto eldrazi",
+  "oracle_text": "Devoid (This card has no color.)\n{1}{G}: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)\nWhenever one or more +1/+1 counters are put on this creature, you may create a 0/1 colorless Eldrazi Spawn creature token with \"Sacrifice this token: Add {C}.\"",
+  "printed_text": "Vacío. (Esta carta no tiene ningún color.)\n{1}{G}: Adaptar 1. (Si esta criatura no tiene contadores +1/+1 sobre ella, pon un contador +1/+1 sobre ella.)\nSiempre que se pongan uno o más contadores +1/+1 sobre el Escamoso asoleándose, puedes crear una ficha de criatura Engendro Eldrazi incolora 0/1 con \"Sacrificar esta criatura: Agrega {C}\".",
+  "power": "2",
+  "toughness": "2",
+  "colors": [],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Devoid",
+    "Adapt"
+  ],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "banned",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/962ec4d9-a5ff-4d29-9248-018e410ec656/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa7c69802-99c4-4778-934e-cc09ba58c267&unique=prints",
+  "collector_number": "145",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Caio Monteiro",
+  "artist_ids": [
+    "d5053eb6-af72-47a0-b6e8-023cc3b9aefb"
+  ],
+  "illustration_id": "d1b7bd61-dcdb-48a4-840a-cf11be95b48e",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "devoid"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3033,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662769&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBasking%2BBroodscale",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBasking%2BBroodscale",
+    "edhrec": "https://edhrec.com/route/?cc=Basking+Broodscale"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBasking%2BBroodscale%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Basking+Broodscale&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Basking+Broodscale&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

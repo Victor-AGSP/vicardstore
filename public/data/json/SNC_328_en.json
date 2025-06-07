@@ -1,0 +1,173 @@
+{
+  "object": "card",
+  "id": "2258b7b6-e679-4fcf-9cfe-2ff01a8996dc",
+  "oracle_id": "7db1402e-a434-45d2-9d21-9e0faeeaff10",
+  "multiverse_ids": [
+    558726
+  ],
+  "arena_id": 80506,
+  "tcgplayer_id": 268740,
+  "cardmarket_id": 651873,
+  "name": "Rakish Revelers",
+  "lang": "en",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/2258b7b6-e679-4fcf-9cfe-2ff01a8996dc",
+  "scryfall_uri": "https://scryfall.com/card/snc/328/rakish-revelers?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/2/2258b7b6-e679-4fcf-9cfe-2ff01a8996dc.jpg?1664415627",
+    "normal": "https://cards.scryfall.io/normal/front/2/2/2258b7b6-e679-4fcf-9cfe-2ff01a8996dc.jpg?1664415627",
+    "large": "https://cards.scryfall.io/large/front/2/2/2258b7b6-e679-4fcf-9cfe-2ff01a8996dc.jpg?1664415627",
+    "png": "https://cards.scryfall.io/png/front/2/2/2258b7b6-e679-4fcf-9cfe-2ff01a8996dc.png?1664415627",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/2/2258b7b6-e679-4fcf-9cfe-2ff01a8996dc.jpg?1664415627",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/2/2258b7b6-e679-4fcf-9cfe-2ff01a8996dc.jpg?1664415627"
+  },
+  "mana_cost": "{2}{R}{G}{W}",
+  "cmc": 5,
+  "type_line": "Creature — Elf Druid Rogue",
+  "oracle_text": "When this creature enters, create a 1/1 green and white Citizen creature token.\n{2}, Exile this card from your hand: Target land gains \"{T}: Add {R}, {G}, or {W}\" until this card is cast from exile. You may cast this card for as long as it remains exiled.",
+  "power": "5",
+  "toughness": "3",
+  "colors": [
+    "G",
+    "R",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "R",
+    "W"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "G",
+    "R",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "4be3c9b0-88fa-441a-a61d-ba7e00760117",
+      "component": "combo_piece",
+      "name": "Rakish Revelers",
+      "type_line": "Creature — Elf Druid Rogue",
+      "uri": "https://api.scryfall.com/cards/4be3c9b0-88fa-441a-a61d-ba7e00760117"
+    },
+    {
+      "object": "related_card",
+      "id": "b799b01d-2e9b-4ef0-b518-bb3684cd524d",
+      "component": "combo_piece",
+      "name": "A-Rakish Revelers",
+      "type_line": "Creature — Elf Druid Rogue",
+      "uri": "https://api.scryfall.com/cards/b799b01d-2e9b-4ef0-b518-bb3684cd524d"
+    },
+    {
+      "object": "related_card",
+      "id": "3f03e9fe-cb71-498e-bf16-5af6af37a192",
+      "component": "token",
+      "name": "Citizen",
+      "type_line": "Token Creature — Citizen",
+      "uri": "https://api.scryfall.com/cards/3f03e9fe-cb71-498e-bf16-5af6af37a192"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+  "set": "snc",
+  "set_name": "Streets of New Capenna",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2258b7b6-e679-4fcf-9cfe-2ff01a8996dc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7db1402e-a434-45d2-9d21-9e0faeeaff10&unique=prints",
+  "collector_number": "328",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Benjamin Ee",
+  "artist_ids": [
+    "7bb27cca-e4ee-43b9-be92-a181c9164204"
+  ],
+  "illustration_id": "e1983d29-52ec-42b4-ae1b-56d77af305e5",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 18520,
+  "penny_rank": 13862,
+  "preview": {
+    "source": "The Games Capital",
+    "source_uri": "https://thegamescapital.com.au/pages/exclusive-streets-of-new-capenna-preview",
+    "previewed_at": "2022-04-11"
+  },
+  "prices": {
+    "usd": "0.03",
+    "usd_foil": "0.07",
+    "usd_etched": null,
+    "eur": "0.04",
+    "eur_foil": "0.09",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=558726&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRakish%2BRevelers",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRakish%2BRevelers",
+    "edhrec": "https://edhrec.com/route/?cc=Rakish+Revelers"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268740%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna-Extras/Rakish-Revelers-V1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rakish+Revelers&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "692267f1-c816-4eec-9933-cb1fc5706b4f",
+  "oracle_id": "371da0d8-3845-458e-9b0a-6477017b890e",
+  "multiverse_ids": [
+    662758
+  ],
+  "name": "Reiterating Bolt",
+  "printed_name": "Rayo reiterativo",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/692267f1-c816-4eec-9933-cb1fc5706b4f",
+  "scryfall_uri": "https://scryfall.com/card/mh3/134/es/rayo-reiterativo-(reiterating-bolt)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/9/692267f1-c816-4eec-9933-cb1fc5706b4f.jpg?1730222580",
+    "normal": "https://cards.scryfall.io/normal/front/6/9/692267f1-c816-4eec-9933-cb1fc5706b4f.jpg?1730222580",
+    "large": "https://cards.scryfall.io/large/front/6/9/692267f1-c816-4eec-9933-cb1fc5706b4f.jpg?1730222580",
+    "png": "https://cards.scryfall.io/png/front/6/9/692267f1-c816-4eec-9933-cb1fc5706b4f.png?1730222580",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/9/692267f1-c816-4eec-9933-cb1fc5706b4f.jpg?1730222580",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/9/692267f1-c816-4eec-9933-cb1fc5706b4f.jpg?1730222580"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "printed_type_line": "Conjuro",
+  "oracle_text": "Replicate—Pay {E}{E}{E}. (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)\nReiterating Bolt deals 3 damage to target creature or planeswalker.",
+  "printed_text": "Reproducir—Pagar {E}{E}{E}. (Cuando lances este hechizo, cópialo por cada vez que pagaste su coste de reproducir. Puedes elegir nuevos objetivos para las copias.)\nEl Rayo reiterativo hace 3 puntos de daño a la criatura o planeswalker objetivo.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Replicate"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/692267f1-c816-4eec-9933-cb1fc5706b4f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A371da0d8-3845-458e-9b0a-6477017b890e&unique=prints",
+  "collector_number": "134",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"¡Eureka! ¡Ahora a demostrar a esos necios de la Academia lo fácil que es reproducir estos resultados!\".",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "G-host Lee",
+  "artist_ids": [
+    "009fe350-a82b-430f-92bc-04fe08d78f50"
+  ],
+  "illustration_id": "fcec3270-7af8-497a-af14-82de48d2e83c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 16516,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662758&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DReiterating%2BBolt",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DReiterating%2BBolt",
+    "edhrec": "https://edhrec.com/route/?cc=Reiterating+Bolt"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DReiterating%2BBolt%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Reiterating+Bolt&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Reiterating+Bolt&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

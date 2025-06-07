@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "4b05cacb-1f62-46ca-90a0-202d4adcff2c",
+  "oracle_id": "676c0315-1cb3-4d80-b136-16d88fd612cb",
+  "multiverse_ids": [
+    657798
+  ],
+  "mtgo_id": 123673,
+  "arena_id": 90753,
+  "tcgplayer_id": 544819,
+  "cardmarket_id": 764188,
+  "name": "Savage Smash",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/4b05cacb-1f62-46ca-90a0-202d4adcff2c",
+  "scryfall_uri": "https://scryfall.com/card/otp/53/savage-smash?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/b/4b05cacb-1f62-46ca-90a0-202d4adcff2c.jpg?1712353613",
+    "normal": "https://cards.scryfall.io/normal/front/4/b/4b05cacb-1f62-46ca-90a0-202d4adcff2c.jpg?1712353613",
+    "large": "https://cards.scryfall.io/large/front/4/b/4b05cacb-1f62-46ca-90a0-202d4adcff2c.jpg?1712353613",
+    "png": "https://cards.scryfall.io/png/front/4/b/4b05cacb-1f62-46ca-90a0-202d4adcff2c.png?1712353613",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/b/4b05cacb-1f62-46ca-90a0-202d4adcff2c.jpg?1712353613",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/b/4b05cacb-1f62-46ca-90a0-202d4adcff2c.jpg?1712353613"
+  },
+  "mana_cost": "{1}{R}{G}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "oracle_text": "Target creature you control gets +2/+2 until end of turn. It fights target creature you don't control. (Each deals damage equal to its power to the other.)",
+  "colors": [
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [
+    "Fight"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8b51294d-fc54-410c-83b2-0168837ede87",
+  "set": "otp",
+  "set_name": "Breaking News",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/8b51294d-fc54-410c-83b2-0168837ede87",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4b05cacb-1f62-46ca-90a0-202d4adcff2c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A676c0315-1cb3-4d80-b136-16d88fd612cb&unique=prints",
+  "collector_number": "53",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Rolling Thunder! Angry Armadillo Assaults Architecture",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Magnus Jansson",
+  "artist_ids": [
+    "a04ded22-6fe3-46e4-a2a4-5360e2483224"
+  ],
+  "illustration_id": "3c8649ac-f8e0-45f6-9dcc-1ad256502e72",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 14459,
+  "prices": {
+    "usd": "0.05",
+    "usd_foil": "0.10",
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": "0.23",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=657798&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSavage%2BSmash",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSavage%2BSmash",
+    "edhrec": "https://edhrec.com/route/?cc=Savage+Smash"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544819%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Breaking-News/Savage-Smash?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/123673?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

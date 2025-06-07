@@ -1,0 +1,131 @@
+{
+  "object": "card",
+  "id": "1324df1f-249d-497c-9c2f-2006c7f64923",
+  "oracle_id": "889d26d6-9e6c-4cc0-8e8e-dd932f705a20",
+  "multiverse_ids": [
+    694251
+  ],
+  "name": "Temur Tawnyback",
+  "printed_name": "Lomipardo temur",
+  "lang": "es",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/1324df1f-249d-497c-9c2f-2006c7f64923",
+  "scryfall_uri": "https://scryfall.com/card/tdm/229/es/lomipardo-temur-(temur-tawnyback)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/3/1324df1f-249d-497c-9c2f-2006c7f64923.jpg?1744679047",
+    "normal": "https://cards.scryfall.io/normal/front/1/3/1324df1f-249d-497c-9c2f-2006c7f64923.jpg?1744679047",
+    "large": "https://cards.scryfall.io/large/front/1/3/1324df1f-249d-497c-9c2f-2006c7f64923.jpg?1744679047",
+    "png": "https://cards.scryfall.io/png/front/1/3/1324df1f-249d-497c-9c2f-2006c7f64923.png?1744679047",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/3/1324df1f-249d-497c-9c2f-2006c7f64923.jpg?1744679047",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/3/1324df1f-249d-497c-9c2f-2006c7f64923.jpg?1744679047"
+  },
+  "mana_cost": "{2/G}{2/U}{2/R}",
+  "cmc": 6,
+  "type_line": "Creature — Beast",
+  "printed_type_line": "Criatura — Bestia",
+  "oracle_text": "When this creature enters, draw a card, then discard a card.",
+  "printed_text": "Cuando esta criatura entre, roba una carta y luego descarta una carta.",
+  "power": "4",
+  "toughness": "3",
+  "colors": [
+    "G",
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "G",
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set": "tdm",
+  "set_name": "Tarkir: Dragonstorm",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1324df1f-249d-497c-9c2f-2006c7f64923/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A889d26d6-9e6c-4cc0-8e8e-dd932f705a20&unique=prints",
+  "collector_number": "229",
+  "digital": false,
+  "rarity": "common",
+  "watermark": "temur",
+  "flavor_text": "\"Un día me siguió a casa. ¿Cómo iba a decirle que no a esta carita?\".\n—Karasi, abastecedor de Vaharina",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Brian Valeza",
+  "artist_ids": [
+    "bb2a9339-bbe4-445f-9736-3c43379ee076"
+  ],
+  "illustration_id": "778fdf85-baca-455f-b04d-f9aac19d6846",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 22414,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694251&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTemur%2BTawnyback",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTemur%2BTawnyback",
+    "edhrec": "https://edhrec.com/route/?cc=Temur+Tawnyback"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DTemur%2BTawnyback%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Temur+Tawnyback&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Temur+Tawnyback&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

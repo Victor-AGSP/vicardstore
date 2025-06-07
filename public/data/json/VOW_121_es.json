@@ -1,0 +1,168 @@
+{
+  "object": "card",
+  "id": "98d58c2a-6d31-4342-b72c-6f5344125650",
+  "oracle_id": "7950a7ff-7c2e-40fe-b64a-324f4fbcf528",
+  "multiverse_ids": [
+    541602
+  ],
+  "cardmarket_id": 581679,
+  "name": "Innocent Traveler // Malicious Invader",
+  "lang": "es",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/98d58c2a-6d31-4342-b72c-6f5344125650",
+  "scryfall_uri": "https://scryfall.com/card/vow/121/es/viajera-inocente-invasora-vil-(innocent-traveler-malicious-invader)?utm_source=api",
+  "layout": "transform",
+  "highres_image": false,
+  "image_status": "lowres",
+  "cmc": 4,
+  "type_line": "Creature — Human // Creature — Vampire",
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying",
+    "Transform"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Innocent Traveler",
+      "printed_name": "Viajera inocente",
+      "mana_cost": "{2}{B}{B}",
+      "type_line": "Creature — Human",
+      "printed_type_line": "Criatura — Humano",
+      "oracle_text": "At the beginning of your upkeep, any opponent may sacrifice a creature of their choice. If no one does, transform this creature.",
+      "printed_text": "Al comienzo de tu mantenimiento, cualquier oponente puede sacrificar una criatura. Si nadie lo hace, transforma a la Viajera inocente.",
+      "colors": [
+        "B"
+      ],
+      "power": "1",
+      "toughness": "3",
+      "flavor_text": "\"¿No vas a invitarme a pasar?\".",
+      "artist": "Cristi Balanescu",
+      "artist_id": "c09ede88-a1b5-4a18-9895-dc8a965d28a5",
+      "illustration_id": "b8e2d62e-db41-4d51-ac78-d1386e5df106",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/9/8/98d58c2a-6d31-4342-b72c-6f5344125650.jpg?1741130540",
+        "normal": "https://cards.scryfall.io/normal/front/9/8/98d58c2a-6d31-4342-b72c-6f5344125650.jpg?1741130540",
+        "large": "https://cards.scryfall.io/large/front/9/8/98d58c2a-6d31-4342-b72c-6f5344125650.jpg?1741130540",
+        "png": "https://cards.scryfall.io/png/front/9/8/98d58c2a-6d31-4342-b72c-6f5344125650.png?1741130540",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/9/8/98d58c2a-6d31-4342-b72c-6f5344125650.jpg?1741130540",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/9/8/98d58c2a-6d31-4342-b72c-6f5344125650.jpg?1741130540"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Malicious Invader",
+      "printed_name": "Invasora vil",
+      "mana_cost": "",
+      "type_line": "Creature — Vampire",
+      "printed_type_line": "Criatura — Vampiro",
+      "oracle_text": "Flying\nThis creature gets +2/+0 as long as an opponent controls a Human.",
+      "printed_text": "Vuela.\nLa Invasora vil obtiene +2/+0 mientras un oponente controle un Humano.",
+      "colors": [
+        "B"
+      ],
+      "color_indicator": [
+        "B"
+      ],
+      "power": "3",
+      "toughness": "3",
+      "flavor_text": "\"¿No vas a ofrecerme algo de beber?\".",
+      "artist": "Cristi Balanescu",
+      "artist_id": "c09ede88-a1b5-4a18-9895-dc8a965d28a5",
+      "illustration_id": "f5acaeb1-3fc1-4365-8398-ba9fad71912b",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/9/8/98d58c2a-6d31-4342-b72c-6f5344125650.jpg?1741130540",
+        "normal": "https://cards.scryfall.io/normal/back/9/8/98d58c2a-6d31-4342-b72c-6f5344125650.jpg?1741130540",
+        "large": "https://cards.scryfall.io/large/back/9/8/98d58c2a-6d31-4342-b72c-6f5344125650.jpg?1741130540",
+        "png": "https://cards.scryfall.io/png/back/9/8/98d58c2a-6d31-4342-b72c-6f5344125650.png?1741130540",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/9/8/98d58c2a-6d31-4342-b72c-6f5344125650.jpg?1741130540",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/9/8/98d58c2a-6d31-4342-b72c-6f5344125650.jpg?1741130540"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/98d58c2a-6d31-4342-b72c-6f5344125650/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7950a7ff-7c2e-40fe-b64a-324f4fbcf528&unique=prints",
+  "collector_number": "121",
+  "digital": false,
+  "rarity": "uncommon",
+  "artist": "Cristi Balanescu",
+  "artist_ids": [
+    "c09ede88-a1b5-4a18-9895-dc8a965d28a5"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 18278,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.14",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541602&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DInnocent%2BTraveler%2B%252F%252F%2BMalicious%2BInvader",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DInnocent%2BTraveler%2B%252F%252F%2BMalicious%2BInvader",
+    "edhrec": "https://edhrec.com/route/?cc=Innocent+Traveler"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DInnocent%2BTraveler%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Innistrad-Crimson-Vow/Innocent-Traveler-Malicious-Invader?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Innocent+Traveler&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

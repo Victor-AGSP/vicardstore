@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "88b85495-c3bc-4fcb-b648-1fa46bc492a5",
+  "oracle_id": "202091b2-9e08-47c1-9099-628b21d8ac12",
+  "multiverse_ids": [
+    662684
+  ],
+  "name": "Electrozoa",
+  "printed_name": "Electrozoa",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/88b85495-c3bc-4fcb-b648-1fa46bc492a5",
+  "scryfall_uri": "https://scryfall.com/card/mh3/60/es/electrozoa-(electrozoa)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/8/88b85495-c3bc-4fcb-b648-1fa46bc492a5.jpg?1730222169",
+    "normal": "https://cards.scryfall.io/normal/front/8/8/88b85495-c3bc-4fcb-b648-1fa46bc492a5.jpg?1730222169",
+    "large": "https://cards.scryfall.io/large/front/8/8/88b85495-c3bc-4fcb-b648-1fa46bc492a5.jpg?1730222169",
+    "png": "https://cards.scryfall.io/png/front/8/8/88b85495-c3bc-4fcb-b648-1fa46bc492a5.png?1730222169",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/8/88b85495-c3bc-4fcb-b648-1fa46bc492a5.jpg?1730222169",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/8/88b85495-c3bc-4fcb-b648-1fa46bc492a5.jpg?1730222169"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Creature — Jellyfish",
+  "printed_type_line": "Criatura — Medusa",
+  "oracle_text": "Flash\nFlying\nWhen this creature enters, you get {E}{E} (two energy counters).\nAt the beginning of your first main phase, tap this creature unless you pay {E}.",
+  "printed_text": "Destello.\nVuela.\nCuando la Electrozoa entre al campo de batalla, obtienes {E}{E} (dos contadores de energía).\nAl comienzo de tu fase principal precombate, gira la Electrozoa a menos que pagues {E}.",
+  "power": "3",
+  "toughness": "1",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying",
+    "Flash"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/88b85495-c3bc-4fcb-b648-1fa46bc492a5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A202091b2-9e08-47c1-9099-628b21d8ac12&unique=prints",
+  "collector_number": "60",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steve Ellis",
+  "artist_ids": [
+    "39d8411c-2187-426c-8ad3-d4f688b22db1"
+  ],
+  "illustration_id": "6bb65e3c-d6c2-4577-8450-abfbc6615105",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 24215,
+  "penny_rank": 3371,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662684&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DElectrozoa",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DElectrozoa",
+    "edhrec": "https://edhrec.com/route/?cc=Electrozoa"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DElectrozoa%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Electrozoa&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Electrozoa&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "689b7172-4b40-4a97-8eaa-59eafef9ad3e",
+  "oracle_id": "bd9c5b53-9666-45ee-8f9d-ee1ae74111b6",
+  "multiverse_ids": [
+    264969
+  ],
+  "name": "Hideous Visage",
+  "printed_name": "Máscara espantosa",
+  "lang": "es",
+  "released_at": "2011-07-15",
+  "uri": "https://api.scryfall.com/cards/689b7172-4b40-4a97-8eaa-59eafef9ad3e",
+  "scryfall_uri": "https://scryfall.com/card/m12/100/es/m%C3%A1scara-espantosa-(hideous-visage)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/8/689b7172-4b40-4a97-8eaa-59eafef9ad3e.jpg?1562645818",
+    "normal": "https://cards.scryfall.io/normal/front/6/8/689b7172-4b40-4a97-8eaa-59eafef9ad3e.jpg?1562645818",
+    "large": "https://cards.scryfall.io/large/front/6/8/689b7172-4b40-4a97-8eaa-59eafef9ad3e.jpg?1562645818",
+    "png": "https://cards.scryfall.io/png/front/6/8/689b7172-4b40-4a97-8eaa-59eafef9ad3e.png?1562645818",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/8/689b7172-4b40-4a97-8eaa-59eafef9ad3e.jpg?1562645818",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/8/689b7172-4b40-4a97-8eaa-59eafef9ad3e.jpg?1562645818"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "printed_type_line": "Conjuro",
+  "oracle_text": "Creatures you control gain intimidate until end of turn. (Each of those creatures can't be blocked except by artifact creatures and/or creatures that share a color with it.)",
+  "printed_text": "Las criaturas que controlas ganan la habilidad de intimidar hasta el final del turno. (Esas criaturas no pueden ser bloqueadas excepto por criaturas artefacto y/o criaturas que compartan un color con ellas.)",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "5cdd2643-229c-4441-a62a-c34e4b531e1c",
+  "set": "m12",
+  "set_name": "Magic 2012",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/5cdd2643-229c-4441-a62a-c34e4b531e1c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am12&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/m12?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/689b7172-4b40-4a97-8eaa-59eafef9ad3e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abd9c5b53-9666-45ee-8f9d-ee1ae74111b6&unique=prints",
+  "collector_number": "100",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Verte huir de mí es su propia recompensa.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nils Hamm",
+  "artist_ids": [
+    "c540d1fc-1500-457f-93cf-d6069ee66546"
+  ],
+  "illustration_id": "23253d15-a55e-4f35-8ae7-0ffcdcb07372",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 23102,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=264969&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHideous%2BVisage",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHideous%2BVisage",
+    "edhrec": "https://edhrec.com/route/?cc=Hideous+Visage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DHideous%2BVisage%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hideous+Visage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hideous+Visage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

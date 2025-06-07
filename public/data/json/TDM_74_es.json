@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "e947c7b8-14fd-4df7-94c4-2a8f802cd02c",
+  "oracle_id": "c4023e1f-26e3-4225-98d0-3d33f6654616",
+  "multiverse_ids": [
+    694096
+  ],
+  "name": "Caustic Exhale",
+  "printed_name": "Exhalación cáustica",
+  "lang": "es",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/e947c7b8-14fd-4df7-94c4-2a8f802cd02c",
+  "scryfall_uri": "https://scryfall.com/card/tdm/74/es/exhalaci%C3%B3n-c%C3%A1ustica-(caustic-exhale)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/9/e947c7b8-14fd-4df7-94c4-2a8f802cd02c.jpg?1744675658",
+    "normal": "https://cards.scryfall.io/normal/front/e/9/e947c7b8-14fd-4df7-94c4-2a8f802cd02c.jpg?1744675658",
+    "large": "https://cards.scryfall.io/large/front/e/9/e947c7b8-14fd-4df7-94c4-2a8f802cd02c.jpg?1744675658",
+    "png": "https://cards.scryfall.io/png/front/e/9/e947c7b8-14fd-4df7-94c4-2a8f802cd02c.png?1744675658",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/9/e947c7b8-14fd-4df7-94c4-2a8f802cd02c.jpg?1744675658",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/9/e947c7b8-14fd-4df7-94c4-2a8f802cd02c.jpg?1744675658"
+  },
+  "mana_cost": "{B}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "printed_type_line": "Instantáneo",
+  "oracle_text": "As an additional cost to cast this spell, behold a Dragon or pay {1}. (To behold a Dragon, choose a Dragon you control or reveal a Dragon card from your hand.)\nTarget creature gets -3/-3 until end of turn.",
+  "printed_text": "Como coste adicional para lanzar este hechizo, contempla un Dragón o paga {1}. (Para contemplar un Dragón, elige un Dragón que controlas o muestra una carta de Dragón de tu mano.)\nLa criatura objetivo obtiene -3/-3 hasta el final del turno.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Behold"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set": "tdm",
+  "set_name": "Tarkir: Dragonstorm",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e947c7b8-14fd-4df7-94c4-2a8f802cd02c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac4023e1f-26e3-4225-98d0-3d33f6654616&unique=prints",
+  "collector_number": "74",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Camille Alquier",
+  "artist_ids": [
+    "a0670296-0225-4630-95c6-feab68d14df4"
+  ],
+  "illustration_id": "6b981f47-b5b4-4b91-8710-1caf98aa934c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 18852,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694096&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCaustic%2BExhale",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCaustic%2BExhale",
+    "edhrec": "https://edhrec.com/route/?cc=Caustic+Exhale"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DCaustic%2BExhale%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Caustic+Exhale&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Caustic+Exhale&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

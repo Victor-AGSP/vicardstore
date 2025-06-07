@@ -1,0 +1,169 @@
+{
+  "object": "card",
+  "id": "8ad5624b-2fce-425a-839c-09fc611a6104",
+  "oracle_id": "bdcf0af3-3976-400d-a8b7-15e959e2b255",
+  "multiverse_ids": [
+    541676
+  ],
+  "cardmarket_id": 581342,
+  "name": "Weary Prisoner // Wrathful Jailbreaker",
+  "lang": "es",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/8ad5624b-2fce-425a-839c-09fc611a6104",
+  "scryfall_uri": "https://scryfall.com/card/vow/184/es/prisionera-exhausta-fugada-iracunda-(weary-prisoner-wrathful-jailbreaker)?utm_source=api",
+  "layout": "transform",
+  "highres_image": false,
+  "image_status": "lowres",
+  "cmc": 4,
+  "type_line": "Creature — Human Werewolf // Creature — Werewolf",
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Daybound",
+    "Nightbound",
+    "Defender"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Weary Prisoner",
+      "printed_name": "Prisionera exhausta",
+      "mana_cost": "{3}{R}",
+      "type_line": "Creature — Human Werewolf",
+      "printed_type_line": "Criatura — Licántropo humano",
+      "oracle_text": "Defender\nDaybound (If a player casts no spells during their own turn, it becomes night next turn.)",
+      "printed_text": "Defensor.\nDiurno. (Si un jugador no lanza ningún hechizo durante su propio turno, se hace de noche al turno siguiente.)",
+      "colors": [
+        "R"
+      ],
+      "power": "2",
+      "toughness": "6",
+      "flavor_text": "\"Tu guardia me atacó. Se llevó su merecido\".",
+      "artist": "Jason Rainville",
+      "artist_id": "6ed7e669-579b-443d-b223-e5cbcb2a7483",
+      "illustration_id": "37655844-7bf5-416d-8447-1dc0d17870a6",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/8/a/8ad5624b-2fce-425a-839c-09fc611a6104.jpg?1741132695",
+        "normal": "https://cards.scryfall.io/normal/front/8/a/8ad5624b-2fce-425a-839c-09fc611a6104.jpg?1741132695",
+        "large": "https://cards.scryfall.io/large/front/8/a/8ad5624b-2fce-425a-839c-09fc611a6104.jpg?1741132695",
+        "png": "https://cards.scryfall.io/png/front/8/a/8ad5624b-2fce-425a-839c-09fc611a6104.png?1741132695",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/8/a/8ad5624b-2fce-425a-839c-09fc611a6104.jpg?1741132695",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/8/a/8ad5624b-2fce-425a-839c-09fc611a6104.jpg?1741132695"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Wrathful Jailbreaker",
+      "printed_name": "Fugada iracunda",
+      "mana_cost": "",
+      "type_line": "Creature — Werewolf",
+      "printed_type_line": "Criatura — Licántropo",
+      "oracle_text": "This creature attacks each combat if able.\nNightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)",
+      "printed_text": "La Fugada iracunda ataca cada combate si puede.\nNocturno. (Si un jugador lanza al menos dos hechizos durante su propio turno, se hace de día al turno siguiente.)",
+      "colors": [
+        "R"
+      ],
+      "color_indicator": [
+        "R"
+      ],
+      "power": "6",
+      "toughness": "6",
+      "flavor_text": "\"¡Y ahora voy a por ti!\".",
+      "artist": "Jason Rainville",
+      "artist_id": "6ed7e669-579b-443d-b223-e5cbcb2a7483",
+      "illustration_id": "dc81fc01-7455-40dc-af42-19da409adafc",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/8/a/8ad5624b-2fce-425a-839c-09fc611a6104.jpg?1741132695",
+        "normal": "https://cards.scryfall.io/normal/back/8/a/8ad5624b-2fce-425a-839c-09fc611a6104.jpg?1741132695",
+        "large": "https://cards.scryfall.io/large/back/8/a/8ad5624b-2fce-425a-839c-09fc611a6104.jpg?1741132695",
+        "png": "https://cards.scryfall.io/png/back/8/a/8ad5624b-2fce-425a-839c-09fc611a6104.png?1741132695",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/8/a/8ad5624b-2fce-425a-839c-09fc611a6104.jpg?1741132695",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/8/a/8ad5624b-2fce-425a-839c-09fc611a6104.jpg?1741132695"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8ad5624b-2fce-425a-839c-09fc611a6104/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abdcf0af3-3976-400d-a8b7-15e959e2b255&unique=prints",
+  "collector_number": "184",
+  "digital": false,
+  "rarity": "common",
+  "artist": "Jason Rainville",
+  "artist_ids": [
+    "6ed7e669-579b-443d-b223-e5cbcb2a7483"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 18771,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.06",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541676&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWeary%2BPrisoner%2B%252F%252F%2BWrathful%2BJailbreaker",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWeary%2BPrisoner%2B%252F%252F%2BWrathful%2BJailbreaker",
+    "edhrec": "https://edhrec.com/route/?cc=Weary+Prisoner"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DWeary%2BPrisoner%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Innistrad-Crimson-Vow/Weary-Prisoner-Wrathful-Jailbreaker?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Weary+Prisoner&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

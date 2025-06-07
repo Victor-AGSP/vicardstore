@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "6d550bc9-2cb5-4947-a48d-2c92b5c72541",
+  "oracle_id": "4a59d86e-405d-4c70-b2a5-c64f5cecfd9e",
+  "multiverse_ids": [
+    657768
+  ],
+  "mtgo_id": 123609,
+  "arena_id": 90721,
+  "tcgplayer_id": 544884,
+  "cardmarket_id": 764161,
+  "name": "Electrodominance",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/6d550bc9-2cb5-4947-a48d-2c92b5c72541",
+  "scryfall_uri": "https://scryfall.com/card/otp/23/electrodominance?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/d/6d550bc9-2cb5-4947-a48d-2c92b5c72541.jpg?1712353482",
+    "normal": "https://cards.scryfall.io/normal/front/6/d/6d550bc9-2cb5-4947-a48d-2c92b5c72541.jpg?1712353482",
+    "large": "https://cards.scryfall.io/large/front/6/d/6d550bc9-2cb5-4947-a48d-2c92b5c72541.jpg?1712353482",
+    "png": "https://cards.scryfall.io/png/front/6/d/6d550bc9-2cb5-4947-a48d-2c92b5c72541.png?1712353482",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/d/6d550bc9-2cb5-4947-a48d-2c92b5c72541.jpg?1712353482",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/d/6d550bc9-2cb5-4947-a48d-2c92b5c72541.jpg?1712353482"
+  },
+  "mana_cost": "{X}{R}{R}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "oracle_text": "Electrodominance deals X damage to any target. You may cast a spell with mana value X or less from your hand without paying its mana cost.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8b51294d-fc54-410c-83b2-0168837ede87",
+  "set": "otp",
+  "set_name": "Breaking News",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/8b51294d-fc54-410c-83b2-0168837ede87",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6d550bc9-2cb5-4947-a48d-2c92b5c72541/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4a59d86e-405d-4c70-b2a5-c64f5cecfd9e&unique=prints",
+  "collector_number": "23",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Where There's Thunder, There's Lightning—Blaster Disaster Vaporizes Safety Inspector!",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mark A. Nelson",
+  "artist_ids": [
+    "a10f59a4-36fd-4ef3-966b-5570ca118062"
+  ],
+  "illustration_id": "de48b9d8-43bc-4c56-ae71-308fdbb107be",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 2006,
+  "penny_rank": 1613,
+  "prices": {
+    "usd": "0.25",
+    "usd_foil": "0.52",
+    "usd_etched": null,
+    "eur": "0.30",
+    "eur_foil": "0.75",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=657768&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DElectrodominance",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DElectrodominance",
+    "edhrec": "https://edhrec.com/route/?cc=Electrodominance"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544884%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Breaking-News/Electrodominance?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/123609?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

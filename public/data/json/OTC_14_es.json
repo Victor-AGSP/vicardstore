@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "c92a0a60-1cd7-4b0d-a9fa-ba90a1285fe1",
+  "oracle_id": "118da256-d1ea-44e8-9026-317e49694d29",
+  "multiverse_ids": [
+    658398
+  ],
+  "name": "Forger's Foundry",
+  "printed_name": "Fundición de falsificador",
+  "lang": "es",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/c92a0a60-1cd7-4b0d-a9fa-ba90a1285fe1",
+  "scryfall_uri": "https://scryfall.com/card/otc/14/es/fundici%C3%B3n-de-falsificador-(forgers-foundry)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/9/c92a0a60-1cd7-4b0d-a9fa-ba90a1285fe1.jpg?1730248060",
+    "normal": "https://cards.scryfall.io/normal/front/c/9/c92a0a60-1cd7-4b0d-a9fa-ba90a1285fe1.jpg?1730248060",
+    "large": "https://cards.scryfall.io/large/front/c/9/c92a0a60-1cd7-4b0d-a9fa-ba90a1285fe1.jpg?1730248060",
+    "png": "https://cards.scryfall.io/png/front/c/9/c92a0a60-1cd7-4b0d-a9fa-ba90a1285fe1.png?1730248060",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/9/c92a0a60-1cd7-4b0d-a9fa-ba90a1285fe1.jpg?1730248060",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/9/c92a0a60-1cd7-4b0d-a9fa-ba90a1285fe1.jpg?1730248060"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Artifact",
+  "printed_type_line": "Artefacto",
+  "oracle_text": "{T}: Add {U}. When you spend this mana to cast an instant or sorcery spell with mana value 3 or less, you may exile that spell instead of putting it into its owner's graveyard as it resolves.\n{3}{U}{U}, {T}: You may cast any number of spells from among cards exiled with this artifact without paying their mana costs. Activate only as a sorcery.",
+  "printed_text": "{T}: Agrega {U}. Cuando uses este maná para lanzar un hechizo de instantáneo o de conjuro con valor de maná de 3 o menos, puedes exiliar ese hechizo en vez de ponerlo en el cementerio de su propietario en cuanto se resuelve.\n{3}{U}{U}, {T}: Puedes lanzar cualquier cantidad de hechizos de entre las cartas exiliadas con la Fundición de falsificador sin pagar sus costes de maná. Activa esto solo como un conjuro.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "U"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c92a0a60-1cd7-4b0d-a9fa-ba90a1285fe1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A118da256-d1ea-44e8-9026-317e49694d29&unique=prints",
+  "collector_number": "14",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Rockey Chen",
+  "artist_ids": [
+    "5f92512a-2da0-4d91-8aaf-ac8d2404d776"
+  ],
+  "illustration_id": "822e2127-b57d-49f4-ae15-01dffd73e26a",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 7703,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=658398&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DForger%2527s%2BFoundry",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DForger%2527s%2BFoundry",
+    "edhrec": "https://edhrec.com/route/?cc=Forger%27s+Foundry"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DForger%2527s%2BFoundry%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Forger%27s+Foundry&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Forger%27s+Foundry&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

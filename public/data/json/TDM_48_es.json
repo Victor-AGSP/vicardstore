@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "c50b4362-595a-4ba9-9fc3-d0c133feec9a",
+  "oracle_id": "013bcab8-e527-4700-82c9-4cb9cb8a4807",
+  "multiverse_ids": [
+    694070
+  ],
+  "name": "Humbling Elder",
+  "printed_name": "Anciana aleccionadora",
+  "lang": "es",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/c50b4362-595a-4ba9-9fc3-d0c133feec9a",
+  "scryfall_uri": "https://scryfall.com/card/tdm/48/es/anciana-aleccionadora-(humbling-elder)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/5/c50b4362-595a-4ba9-9fc3-d0c133feec9a.jpg?1744675019",
+    "normal": "https://cards.scryfall.io/normal/front/c/5/c50b4362-595a-4ba9-9fc3-d0c133feec9a.jpg?1744675019",
+    "large": "https://cards.scryfall.io/large/front/c/5/c50b4362-595a-4ba9-9fc3-d0c133feec9a.jpg?1744675019",
+    "png": "https://cards.scryfall.io/png/front/c/5/c50b4362-595a-4ba9-9fc3-d0c133feec9a.png?1744675019",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/5/c50b4362-595a-4ba9-9fc3-d0c133feec9a.jpg?1744675019",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/5/c50b4362-595a-4ba9-9fc3-d0c133feec9a.jpg?1744675019"
+  },
+  "mana_cost": "{U}",
+  "cmc": 1,
+  "type_line": "Creature — Human Monk",
+  "printed_type_line": "Criatura — Monje humano",
+  "oracle_text": "Flash\nWhen this creature enters, target creature an opponent controls gets -2/-0 until end of turn.",
+  "printed_text": "Destello.\nCuando esta criatura entre, la criatura objetivo que controla un oponente obtiene -2/-0 hasta el final del turno.",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flash"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set": "tdm",
+  "set_name": "Tarkir: Dragonstorm",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c50b4362-595a-4ba9-9fc3-d0c133feec9a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A013bcab8-e527-4700-82c9-4cb9cb8a4807&unique=prints",
+  "collector_number": "48",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"No hay mejor forma de medir la verdadera personalidad de alguien que dejarle pensar que está por encima de ti\".\n—Maestra Xian",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yohann Schepacz",
+  "artist_ids": [
+    "c40c8ec8-d8b3-48a5-8de2-a7c96cbded5b"
+  ],
+  "illustration_id": "b243ceac-c57b-43cf-9a6a-958dfeb74956",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 24322,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694070&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHumbling%2BElder",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHumbling%2BElder",
+    "edhrec": "https://edhrec.com/route/?cc=Humbling+Elder"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DHumbling%2BElder%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Humbling+Elder&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Humbling+Elder&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

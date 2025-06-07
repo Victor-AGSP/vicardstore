@@ -1,0 +1,139 @@
+{
+  "object": "card",
+  "id": "9f640d69-b690-4262-b3d8-e9e28c813f94",
+  "oracle_id": "abd839ab-8b08-4bc0-900a-3a161c62b06c",
+  "multiverse_ids": [
+    558719
+  ],
+  "arena_id": 80499,
+  "tcgplayer_id": 268442,
+  "cardmarket_id": 651385,
+  "name": "Nimble Larcenist",
+  "lang": "en",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/9f640d69-b690-4262-b3d8-e9e28c813f94",
+  "scryfall_uri": "https://scryfall.com/card/snc/321/nimble-larcenist?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/f/9f640d69-b690-4262-b3d8-e9e28c813f94.jpg?1664415512",
+    "normal": "https://cards.scryfall.io/normal/front/9/f/9f640d69-b690-4262-b3d8-e9e28c813f94.jpg?1664415512",
+    "large": "https://cards.scryfall.io/large/front/9/f/9f640d69-b690-4262-b3d8-e9e28c813f94.jpg?1664415512",
+    "png": "https://cards.scryfall.io/png/front/9/f/9f640d69-b690-4262-b3d8-e9e28c813f94.png?1664415512",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/f/9f640d69-b690-4262-b3d8-e9e28c813f94.jpg?1664415512",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/f/9f640d69-b690-4262-b3d8-e9e28c813f94.jpg?1664415512"
+  },
+  "mana_cost": "{W}{U}{B}",
+  "cmc": 3,
+  "type_line": "Creature — Bird Rogue",
+  "oracle_text": "Flying\nWhen this creature enters, target opponent reveals their hand. You choose an artifact, instant, or sorcery card from it and exile that card.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "B",
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+  "set": "snc",
+  "set_name": "Streets of New Capenna",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9f640d69-b690-4262-b3d8-e9e28c813f94/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aabd839ab-8b08-4bc0-900a-3a161c62b06c&unique=prints",
+  "collector_number": "321",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Meel Tamphanon",
+  "artist_ids": [
+    "2238e3ab-8c32-4693-9588-a2feedfdc08e"
+  ],
+  "illustration_id": "c44c7ef6-1af2-4be5-84f7-2f1e3a6fb764",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "inverted"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 19154,
+  "penny_rank": 4971,
+  "prices": {
+    "usd": "0.03",
+    "usd_foil": "0.09",
+    "usd_etched": null,
+    "eur": "0.02",
+    "eur_foil": "0.11",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=558719&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNimble%2BLarcenist",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNimble%2BLarcenist",
+    "edhrec": "https://edhrec.com/route/?cc=Nimble+Larcenist"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F268442%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Streets-of-New-Capenna-Extras/Nimble-Larcenist-V1?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nimble+Larcenist&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

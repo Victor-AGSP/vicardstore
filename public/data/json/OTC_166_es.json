@@ -1,0 +1,122 @@
+{
+  "object": "card",
+  "id": "4e815994-9310-40aa-a123-21a7ecbda550",
+  "oracle_id": "d6fafb50-9531-4fbf-bb1e-ebb4dd39281c",
+  "multiverse_ids": [
+    659142
+  ],
+  "name": "Finale of Promise",
+  "printed_name": "Final de promesa",
+  "lang": "es",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/4e815994-9310-40aa-a123-21a7ecbda550",
+  "scryfall_uri": "https://scryfall.com/card/otc/166/es/final-de-promesa-(finale-of-promise)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/e/4e815994-9310-40aa-a123-21a7ecbda550.jpg?1730248103",
+    "normal": "https://cards.scryfall.io/normal/front/4/e/4e815994-9310-40aa-a123-21a7ecbda550.jpg?1730248103",
+    "large": "https://cards.scryfall.io/large/front/4/e/4e815994-9310-40aa-a123-21a7ecbda550.jpg?1730248103",
+    "png": "https://cards.scryfall.io/png/front/4/e/4e815994-9310-40aa-a123-21a7ecbda550.png?1730248103",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/e/4e815994-9310-40aa-a123-21a7ecbda550.jpg?1730248103",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/e/4e815994-9310-40aa-a123-21a7ecbda550.jpg?1730248103"
+  },
+  "mana_cost": "{X}{R}{R}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "printed_type_line": "Conjuro",
+  "oracle_text": "You may cast up to one target instant card and/or up to one target sorcery card from your graveyard each with mana value X or less without paying their mana costs. If a spell cast this way would be put into your graveyard, exile it instead. If X is 10 or more, copy each of those spells twice. You may choose new targets for the copies.",
+  "printed_text": "Puedes lanzar hasta una carta de instantáneo objetivo y/o hasta una carta de conjuro objetivo desde tu cementerio, cada una con valor de maná de X o menos, sin pagar sus costes de maná. Si un hechizo lanzado de esta manera fuera a ir a tu cementerio, en vez de eso, exílialo. Si X es 10 o más, copia cada uno de esos hechizos dos veces. Puedes elegir nuevos objetivos para las copias.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4e815994-9310-40aa-a123-21a7ecbda550/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad6fafb50-9531-4fbf-bb1e-ebb4dd39281c&unique=prints",
+  "collector_number": "166",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jaime Jones",
+  "artist_ids": [
+    "92f6c2c1-fa57-4b52-99c4-0fd866c13dc9"
+  ],
+  "illustration_id": "d50de204-339e-45aa-aa45-09f21c243fc3",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 4565,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=659142&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFinale%2Bof%2BPromise",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFinale%2Bof%2BPromise",
+    "edhrec": "https://edhrec.com/route/?cc=Finale+of+Promise"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DFinale%2Bof%2BPromise%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Finale+of+Promise&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Finale+of+Promise&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

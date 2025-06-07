@@ -1,0 +1,159 @@
+{
+  "object": "card",
+  "id": "7a16ca40-2210-4f94-bfb1-960b34a7d98e",
+  "oracle_id": "5aa76c5d-8046-42ce-b61d-cc9b4806c11a",
+  "multiverse_ids": [
+    636516
+  ],
+  "mtgo_id": 117508,
+  "tcgplayer_id": 524216,
+  "cardmarket_id": 740902,
+  "name": "Saheeli, the Sun's Brilliance",
+  "lang": "en",
+  "released_at": "2023-11-17",
+  "uri": "https://api.scryfall.com/cards/7a16ca40-2210-4f94-bfb1-960b34a7d98e",
+  "scryfall_uri": "https://scryfall.com/card/lci/308/saheeli-the-suns-brilliance?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/a/7a16ca40-2210-4f94-bfb1-960b34a7d98e.jpg?1699044782",
+    "normal": "https://cards.scryfall.io/normal/front/7/a/7a16ca40-2210-4f94-bfb1-960b34a7d98e.jpg?1699044782",
+    "large": "https://cards.scryfall.io/large/front/7/a/7a16ca40-2210-4f94-bfb1-960b34a7d98e.jpg?1699044782",
+    "png": "https://cards.scryfall.io/png/front/7/a/7a16ca40-2210-4f94-bfb1-960b34a7d98e.png?1699044782",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/a/7a16ca40-2210-4f94-bfb1-960b34a7d98e.jpg?1699044782",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/a/7a16ca40-2210-4f94-bfb1-960b34a7d98e.jpg?1699044782"
+  },
+  "mana_cost": "{U}{R}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Human Artificer",
+  "oracle_text": "{U}{R}, {T}: Create a token that's a copy of another target creature or artifact you control, except it's an artifact in addition to its other types. It gains haste. Sacrifice it at the beginning of the next end step.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "7a16ca40-2210-4f94-bfb1-960b34a7d98e",
+      "component": "combo_piece",
+      "name": "Saheeli, the Sun's Brilliance",
+      "type_line": "Legendary Creature — Human Artificer",
+      "uri": "https://api.scryfall.com/cards/7a16ca40-2210-4f94-bfb1-960b34a7d98e"
+    },
+    {
+      "object": "related_card",
+      "id": "01c3b739-89b3-4ad8-aab9-76e8f87cf123",
+      "component": "token",
+      "name": "Copy",
+      "type_line": "Token",
+      "uri": "https://api.scryfall.com/cards/01c3b739-89b3-4ad8-aab9-76e8f87cf123"
+    }
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "70169a6e-89d1-4a3a-aef7-3152958d55ac",
+  "set": "lci",
+  "set_name": "The Lost Caverns of Ixalan",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/70169a6e-89d1-4a3a-aef7-3152958d55ac",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Alci&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/lci?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7a16ca40-2210-4f94-bfb1-960b34a7d98e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5aa76c5d-8046-42ce-b61d-cc9b4806c11a&unique=prints",
+  "collector_number": "308",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Richard Luong",
+  "artist_ids": [
+    "9e4c54c6-1f28-4ae7-8c85-f9c6787145c2"
+  ],
+  "illustration_id": "e0ca12fc-20c1-469b-8d80-6b0d236fd74d",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase",
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 4569,
+  "penny_rank": 9244,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.youtube.com/watch?v=Szm0yzSUUm0",
+    "previewed_at": "2023-10-24"
+  },
+  "prices": {
+    "usd": "0.86",
+    "usd_foil": "1.49",
+    "usd_etched": null,
+    "eur": "0.97",
+    "eur_foil": "1.81",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=636516&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSaheeli%252C%2Bthe%2BSun%2527s%2BBrilliance",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSaheeli%252C%2Bthe%2BSun%2527s%2BBrilliance",
+    "edhrec": "https://edhrec.com/route/?cc=Saheeli%2C+the+Sun%27s+Brilliance"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F524216%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/The-Lost-Caverns-of-Ixalan-Extras/Saheeli-the-Suns-Brilliance?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/117508?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

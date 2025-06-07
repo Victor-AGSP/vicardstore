@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "797482a1-f7cc-4813-be8a-6cc12f9255fb",
+  "oracle_id": "364fc1a7-b91d-470b-80fe-275828f36cfc",
+  "multiverse_ids": [
+    662750
+  ],
+  "name": "Inventor's Axe",
+  "printed_name": "Hacha del inventor",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/797482a1-f7cc-4813-be8a-6cc12f9255fb",
+  "scryfall_uri": "https://scryfall.com/card/mh3/126/es/hacha-del-inventor-(inventors-axe)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/9/797482a1-f7cc-4813-be8a-6cc12f9255fb.jpg?1730222532",
+    "normal": "https://cards.scryfall.io/normal/front/7/9/797482a1-f7cc-4813-be8a-6cc12f9255fb.jpg?1730222532",
+    "large": "https://cards.scryfall.io/large/front/7/9/797482a1-f7cc-4813-be8a-6cc12f9255fb.jpg?1730222532",
+    "png": "https://cards.scryfall.io/png/front/7/9/797482a1-f7cc-4813-be8a-6cc12f9255fb.png?1730222532",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/9/797482a1-f7cc-4813-be8a-6cc12f9255fb.jpg?1730222532",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/9/797482a1-f7cc-4813-be8a-6cc12f9255fb.jpg?1730222532"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1,
+  "type_line": "Artifact — Equipment",
+  "printed_type_line": "Artefacto — Equipo",
+  "oracle_text": "Flash\nWhen this Equipment enters, you get {E}{E} (two energy counters).\nWhen this Equipment enters, attach it to target creature you control.\nEquipped creature gets +2/+0.\nEquip—Pay {E}{E}.",
+  "printed_text": "Destello.\nCuando el Hacha del inventor entre al campo de batalla, obtienes {E}{E} (dos contadores de energía).\nCuando el Hacha del inventor entre al campo de batalla, anéxala a la criatura objetivo que controlas.\nLa criatura equipada obtiene +2/+0.\nEquipar—Pagar {E}{E}.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Equip",
+    "Flash"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/797482a1-f7cc-4813-be8a-6cc12f9255fb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A364fc1a7-b91d-470b-80fe-275828f36cfc&unique=prints",
+  "collector_number": "126",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Filipe Pagliuso",
+  "artist_ids": [
+    "64c537b4-a864-4051-9a24-fbdd22cb40b4"
+  ],
+  "illustration_id": "600cf35b-8b82-41df-9b0b-ca95f6bf26d2",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 16176,
+  "penny_rank": 4598,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662750&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DInventor%2527s%2BAxe",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DInventor%2527s%2BAxe",
+    "edhrec": "https://edhrec.com/route/?cc=Inventor%27s+Axe"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DInventor%2527s%2BAxe%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Inventor%27s+Axe&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Inventor%27s+Axe&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

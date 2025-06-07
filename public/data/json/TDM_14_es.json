@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "6c13747c-b8d0-4528-9537-0394ac8d51c2",
+  "oracle_id": "601b7481-19fc-4779-950e-883a9a22aec3",
+  "multiverse_ids": [
+    694036
+  ],
+  "name": "Lightfoot Technique",
+  "printed_name": "Técnica del piesligeros",
+  "lang": "es",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/6c13747c-b8d0-4528-9537-0394ac8d51c2",
+  "scryfall_uri": "https://scryfall.com/card/tdm/14/es/t%C3%A9cnica-del-piesligeros-(lightfoot-technique)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/c/6c13747c-b8d0-4528-9537-0394ac8d51c2.jpg?1744674256",
+    "normal": "https://cards.scryfall.io/normal/front/6/c/6c13747c-b8d0-4528-9537-0394ac8d51c2.jpg?1744674256",
+    "large": "https://cards.scryfall.io/large/front/6/c/6c13747c-b8d0-4528-9537-0394ac8d51c2.jpg?1744674256",
+    "png": "https://cards.scryfall.io/png/front/6/c/6c13747c-b8d0-4528-9537-0394ac8d51c2.png?1744674256",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/c/6c13747c-b8d0-4528-9537-0394ac8d51c2.jpg?1744674256",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/c/6c13747c-b8d0-4528-9537-0394ac8d51c2.jpg?1744674256"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "printed_type_line": "Instantáneo",
+  "oracle_text": "Put a +1/+1 counter on target creature. It gains flying and indestructible until end of turn. (Damage and effects that say \"destroy\" don't destroy it.)",
+  "printed_text": "Pon un contador +1/+1 sobre la criatura objetivo. Gana las habilidades de volar e indestructible hasta el final del turno. (El daño y los efectos que dicen \"destruir\" no la destruyen.)",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set": "tdm",
+  "set_name": "Tarkir: Dragonstorm",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6c13747c-b8d0-4528-9537-0394ac8d51c2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A601b7481-19fc-4779-950e-883a9a22aec3&unique=prints",
+  "collector_number": "14",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Los monjes jeskai que difunden la sabiduría en territorios abzanos desarrollan reflejos rápidos o se encuentran con que sus viajes llegan a su fin antes de lo esperado.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Craig J Spearing",
+  "artist_ids": [
+    "b0f15e74-0dd6-4156-959e-c5e30c5cdc52"
+  ],
+  "illustration_id": "967b3aeb-1651-44ed-8c6c-3eab81dcd4e0",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 14742,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694036&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLightfoot%2BTechnique",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLightfoot%2BTechnique",
+    "edhrec": "https://edhrec.com/route/?cc=Lightfoot+Technique"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DLightfoot%2BTechnique%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lightfoot+Technique&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lightfoot+Technique&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

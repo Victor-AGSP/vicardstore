@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "4fda97ca-391a-46b7-9c45-888fcfcf9a95",
+  "oracle_id": "bcfe1653-e602-4d38-abe7-bfcc7f203f9d",
+  "multiverse_ids": [
+    662845
+  ],
+  "name": "Foreboding Landscape",
+  "printed_name": "Paisaje aciago",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/4fda97ca-391a-46b7-9c45-888fcfcf9a95",
+  "scryfall_uri": "https://scryfall.com/card/mh3/221/es/paisaje-aciago-(foreboding-landscape)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/f/4fda97ca-391a-46b7-9c45-888fcfcf9a95.jpg?1730223069",
+    "normal": "https://cards.scryfall.io/normal/front/4/f/4fda97ca-391a-46b7-9c45-888fcfcf9a95.jpg?1730223069",
+    "large": "https://cards.scryfall.io/large/front/4/f/4fda97ca-391a-46b7-9c45-888fcfcf9a95.jpg?1730223069",
+    "png": "https://cards.scryfall.io/png/front/4/f/4fda97ca-391a-46b7-9c45-888fcfcf9a95.png?1730223069",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/f/4fda97ca-391a-46b7-9c45-888fcfcf9a95.jpg?1730223069",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/f/4fda97ca-391a-46b7-9c45-888fcfcf9a95.jpg?1730223069"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "printed_type_line": "Tierra",
+  "oracle_text": "{T}: Add {C}.\n{T}, Sacrifice this land: Search your library for a basic Swamp, Forest, or Island card, put it onto the battlefield tapped, then shuffle.\nCycling {B}{G}{U} ({B}{G}{U}, Discard this card: Draw a card.)",
+  "printed_text": "{T}: Agrega {C}.\n{T}, sacrificar el Paisaje aciago: Busca en tu biblioteca una carta de Pantano, Bosque o Isla básica, ponla en el campo de batalla girada y luego baraja.\nCiclo {B}{G}{U}. ({B}{G}{U}, descartar esta carta: Roba una carta.)",
+  "colors": [],
+  "color_identity": [
+    "B",
+    "G",
+    "U"
+  ],
+  "keywords": [
+    "Cycling"
+  ],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4fda97ca-391a-46b7-9c45-888fcfcf9a95/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abcfe1653-e602-4d38-abe7-bfcc7f203f9d&unique=prints",
+  "collector_number": "221",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Erikas Perl",
+  "artist_ids": [
+    "39cb50cf-0223-43c7-bd96-afb5f05c7e43"
+  ],
+  "illustration_id": "650a6a45-346e-4fe0-bad9-add2a02b167c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2173,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662845&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DForeboding%2BLandscape",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DForeboding%2BLandscape",
+    "edhrec": "https://edhrec.com/route/?cc=Foreboding+Landscape"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DForeboding%2BLandscape%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Foreboding+Landscape&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Foreboding+Landscape&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "2f6b6cbc-b25c-4221-ae65-a29fcf504f2f",
+  "oracle_id": "e15060c3-3773-4548-8747-ff59dcf2b519",
+  "multiverse_ids": [
+    447211
+  ],
+  "mtgo_id": 68311,
+  "arena_id": 67830,
+  "tcgplayer_id": 168453,
+  "cardmarket_id": 359600,
+  "name": "Snapping Drake",
+  "lang": "en",
+  "released_at": "2018-07-13",
+  "uri": "https://api.scryfall.com/cards/2f6b6cbc-b25c-4221-ae65-a29fcf504f2f",
+  "scryfall_uri": "https://scryfall.com/card/m19/75/snapping-drake?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/f/2f6b6cbc-b25c-4221-ae65-a29fcf504f2f.jpg?1562301220",
+    "normal": "https://cards.scryfall.io/normal/front/2/f/2f6b6cbc-b25c-4221-ae65-a29fcf504f2f.jpg?1562301220",
+    "large": "https://cards.scryfall.io/large/front/2/f/2f6b6cbc-b25c-4221-ae65-a29fcf504f2f.jpg?1562301220",
+    "png": "https://cards.scryfall.io/png/front/2/f/2f6b6cbc-b25c-4221-ae65-a29fcf504f2f.png?1562301220",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/f/2f6b6cbc-b25c-4221-ae65-a29fcf504f2f.jpg?1562301220",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/f/2f6b6cbc-b25c-4221-ae65-a29fcf504f2f.jpg?1562301220"
+  },
+  "mana_cost": "{3}{U}",
+  "cmc": 4,
+  "type_line": "Creature — Drake",
+  "oracle_text": "Flying (This creature can't be blocked except by creatures with flying or reach.)",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "2f5f2509-56db-414d-9a7e-6e312ec3760c",
+  "set": "m19",
+  "set_name": "Core Set 2019",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/2f5f2509-56db-414d-9a7e-6e312ec3760c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am19&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/m19?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2f6b6cbc-b25c-4221-ae65-a29fcf504f2f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae15060c3-3773-4548-8747-ff59dcf2b519&unique=prints",
+  "collector_number": "75",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Foul-tempered, poorly trained, and mule-stubborn, the drake is the perfect test of the master's will.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Todd Lockwood",
+  "artist_ids": [
+    "d0b9f3cc-13fb-42b6-bc43-b034728e5c7b"
+  ],
+  "illustration_id": "57964414-5542-4e3d-b1ca-fe11d1eb0135",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 26697,
+  "penny_rank": 14947,
+  "prices": {
+    "usd": "0.03",
+    "usd_foil": "0.17",
+    "usd_etched": null,
+    "eur": "0.02",
+    "eur_foil": "0.11",
+    "tix": "0.05"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447211&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSnapping%2BDrake",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSnapping%2BDrake",
+    "edhrec": "https://edhrec.com/route/?cc=Snapping+Drake"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F168453%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Core-2019/Snapping-Drake?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/68311?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "4e4882e6-a2c4-486e-b9f5-995a38197005",
+  "oracle_id": "1244902e-1a4e-4d3c-9a55-9be4602e3d2d",
+  "multiverse_ids": [
+    662772
+  ],
+  "name": "Colossal Dreadmask",
+  "printed_name": "Máscara pavorosa colosal",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/4e4882e6-a2c4-486e-b9f5-995a38197005",
+  "scryfall_uri": "https://scryfall.com/card/mh3/148/es/m%C3%A1scara-pavorosa-colosal-(colossal-dreadmask)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/e/4e4882e6-a2c4-486e-b9f5-995a38197005.jpg?1730222658",
+    "normal": "https://cards.scryfall.io/normal/front/4/e/4e4882e6-a2c4-486e-b9f5-995a38197005.jpg?1730222658",
+    "large": "https://cards.scryfall.io/large/front/4/e/4e4882e6-a2c4-486e-b9f5-995a38197005.jpg?1730222658",
+    "png": "https://cards.scryfall.io/png/front/4/e/4e4882e6-a2c4-486e-b9f5-995a38197005.png?1730222658",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/e/4e4882e6-a2c4-486e-b9f5-995a38197005.jpg?1730222658",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/e/4e4882e6-a2c4-486e-b9f5-995a38197005.jpg?1730222658"
+  },
+  "mana_cost": "{4}{G}{G}",
+  "cmc": 6,
+  "type_line": "Artifact — Equipment",
+  "printed_type_line": "Artefacto — Equipo",
+  "oracle_text": "Living weapon (When this Equipment enters, create a 0/0 black Phyrexian Germ creature token, then attach this to it.)\nEquipped creature gets +6/+6 and has trample.\nEquip {3}{G}{G}",
+  "printed_text": "Arma viviente. (Cuando este Equipo entre al campo de batalla, crea una ficha de criatura Germen Pirexiano negra 0/0 y luego anéxalo a ella.)\nLa criatura equipada obtiene +6/+6 y tiene la habilidad de arrollar.\nEquipar {3}{G}{G}.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Equip",
+    "Living weapon"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4e4882e6-a2c4-486e-b9f5-995a38197005/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1244902e-1a4e-4d3c-9a55-9be4602e3d2d&unique=prints",
+  "collector_number": "148",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Sin patas con las que mover la tierra, sin pulmones con los que rugir, pero si le ves los dientes, sigue siendo demasiado tarde.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Caio Monteiro",
+  "artist_ids": [
+    "d5053eb6-af72-47a0-b6e8-023cc3b9aefb"
+  ],
+  "illustration_id": "2291e351-faa3-4fde-be65-504c3beb4144",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 13760,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662772&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DColossal%2BDreadmask",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DColossal%2BDreadmask",
+    "edhrec": "https://edhrec.com/route/?cc=Colossal+Dreadmask"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DColossal%2BDreadmask%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Colossal+Dreadmask&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Colossal+Dreadmask&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

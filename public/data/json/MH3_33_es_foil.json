@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "6fcc3b77-9576-4351-ac2d-1c6ce799f912",
+  "oracle_id": "4306a9e5-6845-4fd4-96ad-8888147612aa",
+  "multiverse_ids": [
+    662657
+  ],
+  "name": "Jolted Awake",
+  "printed_name": "Calambre reanimador",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/6fcc3b77-9576-4351-ac2d-1c6ce799f912",
+  "scryfall_uri": "https://scryfall.com/card/mh3/33/es/calambre-reanimador-(jolted-awake)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/f/6fcc3b77-9576-4351-ac2d-1c6ce799f912.jpg?1730222034",
+    "normal": "https://cards.scryfall.io/normal/front/6/f/6fcc3b77-9576-4351-ac2d-1c6ce799f912.jpg?1730222034",
+    "large": "https://cards.scryfall.io/large/front/6/f/6fcc3b77-9576-4351-ac2d-1c6ce799f912.jpg?1730222034",
+    "png": "https://cards.scryfall.io/png/front/6/f/6fcc3b77-9576-4351-ac2d-1c6ce799f912.png?1730222034",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/f/6fcc3b77-9576-4351-ac2d-1c6ce799f912.jpg?1730222034",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/f/6fcc3b77-9576-4351-ac2d-1c6ce799f912.jpg?1730222034"
+  },
+  "mana_cost": "{W}",
+  "cmc": 1,
+  "type_line": "Sorcery",
+  "printed_type_line": "Conjuro",
+  "oracle_text": "Choose up to one target artifact or creature card in your graveyard. You get {E}{E} (two energy counters). Then you may pay an amount of {E} equal to that card's mana value. If you do, return it from your graveyard to the battlefield.\nCycling {2} ({2}, Discard this card: Draw a card.)",
+  "printed_text": "Elige hasta una carta de artefacto o criatura objetivo en tu cementerio. Obtienes {E}{E} (dos contadores de energía). Luego puedes pagar una cantidad de {E} igual al valor de maná de esa carta. Si lo haces, regrésala de tu cementerio al campo de batalla.\nCiclo {2}. ({2}, descartar esta carta: Roba una carta.)",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Cycling"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6fcc3b77-9576-4351-ac2d-1c6ce799f912/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4306a9e5-6845-4fd4-96ad-8888147612aa&unique=prints",
+  "collector_number": "33",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Steven Russell Black",
+  "artist_ids": [
+    "bce268fd-2967-4927-b79e-d8289badc6ed"
+  ],
+  "illustration_id": "b2413a03-65b6-4e86-8f8f-e2e7fa4bd3a8",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6498,
+  "penny_rank": 929,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662657&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJolted%2BAwake",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJolted%2BAwake",
+    "edhrec": "https://edhrec.com/route/?cc=Jolted+Awake"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DJolted%2BAwake%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Jolted+Awake&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jolted+Awake&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

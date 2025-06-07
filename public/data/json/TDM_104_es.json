@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "57ec366a-0a43-4c21-aafd-528eba1f04a2",
+  "oracle_id": "f7620c46-b3d8-4694-ac7c-a43933c86c22",
+  "multiverse_ids": [
+    694126
+  ],
+  "name": "Devoted Duelist",
+  "printed_name": "Duelista devoto",
+  "lang": "es",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/57ec366a-0a43-4c21-aafd-528eba1f04a2",
+  "scryfall_uri": "https://scryfall.com/card/tdm/104/es/duelista-devoto-(devoted-duelist)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/7/57ec366a-0a43-4c21-aafd-528eba1f04a2.jpg?1744676299",
+    "normal": "https://cards.scryfall.io/normal/front/5/7/57ec366a-0a43-4c21-aafd-528eba1f04a2.jpg?1744676299",
+    "large": "https://cards.scryfall.io/large/front/5/7/57ec366a-0a43-4c21-aafd-528eba1f04a2.jpg?1744676299",
+    "png": "https://cards.scryfall.io/png/front/5/7/57ec366a-0a43-4c21-aafd-528eba1f04a2.png?1744676299",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/7/57ec366a-0a43-4c21-aafd-528eba1f04a2.jpg?1744676299",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/7/57ec366a-0a43-4c21-aafd-528eba1f04a2.jpg?1744676299"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Creature — Goblin Monk",
+  "printed_type_line": "Criatura — Monje trasgo",
+  "oracle_text": "Haste\nFlurry — Whenever you cast your second spell each turn, this creature deals 1 damage to each opponent.",
+  "printed_text": "Prisa.\nRáfaga —Siempre que lances tu segundo hechizo cada turno, esta criatura hace 1 punto de daño a cada oponente.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Flurry",
+    "Haste"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set": "tdm",
+  "set_name": "Tarkir: Dragonstorm",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/57ec366a-0a43-4c21-aafd-528eba1f04a2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af7620c46-b3d8-4694-ac7c-a43933c86c22&unique=prints",
+  "collector_number": "104",
+  "digital": false,
+  "rarity": "common",
+  "watermark": "jeskai",
+  "flavor_text": "\"¿Flechas? ¡Ja! ¿Madera y plumas? ¡Juguetes!\".",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nathaniel Himawan",
+  "artist_ids": [
+    "ae1e4729-d4ec-4d0f-8c71-883fc7358005"
+  ],
+  "illustration_id": "c54d676d-7b98-4589-b91c-aa820a68ef88",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 16153,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694126&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDevoted%2BDuelist",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDevoted%2BDuelist",
+    "edhrec": "https://edhrec.com/route/?cc=Devoted+Duelist"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DDevoted%2BDuelist%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Devoted+Duelist&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Devoted+Duelist&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "76f83a1d-c7a7-4e32-89eb-9358f706fd4d",
+  "oracle_id": "d9763c75-75f7-4766-8cca-84c899796e3c",
+  "multiverse_ids": [
+    541605
+  ],
+  "name": "Parasitic Grasp",
+  "printed_name": "Agarre parasitario",
+  "lang": "es",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/76f83a1d-c7a7-4e32-89eb-9358f706fd4d",
+  "scryfall_uri": "https://scryfall.com/card/vow/123/es/agarre-parasitario-(parasitic-grasp)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/6/76f83a1d-c7a7-4e32-89eb-9358f706fd4d.jpg?1741130602",
+    "normal": "https://cards.scryfall.io/normal/front/7/6/76f83a1d-c7a7-4e32-89eb-9358f706fd4d.jpg?1741130602",
+    "large": "https://cards.scryfall.io/large/front/7/6/76f83a1d-c7a7-4e32-89eb-9358f706fd4d.jpg?1741130602",
+    "png": "https://cards.scryfall.io/png/front/7/6/76f83a1d-c7a7-4e32-89eb-9358f706fd4d.png?1741130602",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/6/76f83a1d-c7a7-4e32-89eb-9358f706fd4d.jpg?1741130602",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/6/76f83a1d-c7a7-4e32-89eb-9358f706fd4d.jpg?1741130602"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "printed_type_line": "Instantáneo",
+  "oracle_text": "Cleave {1}{B}{B} (You may cast this spell for its cleave cost. If you do, remove the words in square brackets.)\nParasitic Grasp deals 3 damage to target [Human] creature. You gain 3 life.",
+  "printed_text": "Recortar {1}{B}{B}. (Puedes lanzar este hechizo pagando su coste de recortar. Si lo haces, elimina las palabras que hay entre corchetes.)\nEl Agarre parasitario hace 3 puntos de daño a la criatura Humano objetivo. Ganas 3 vidas.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Cleave"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/76f83a1d-c7a7-4e32-89eb-9358f706fd4d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad9763c75-75f7-4766-8cca-84c899796e3c&unique=prints",
+  "collector_number": "123",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Algunas almas pérfidas solo persisten para consumir la calidez de la vida.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Rovina Cai",
+  "artist_ids": [
+    "b64d0979-4028-4409-8285-eec2fa282dd4"
+  ],
+  "illustration_id": "c7433758-a16b-48b0-827a-6b1016e5c95b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 21762,
+  "penny_rank": 6341,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541605&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DParasitic%2BGrasp",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DParasitic%2BGrasp",
+    "edhrec": "https://edhrec.com/route/?cc=Parasitic+Grasp"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DParasitic%2BGrasp%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Parasitic+Grasp&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Parasitic+Grasp&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

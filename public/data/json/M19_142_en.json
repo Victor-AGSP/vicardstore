@@ -1,0 +1,146 @@
+{
+  "object": "card",
+  "id": "90cef94d-d941-4e08-afec-a116626b74fb",
+  "oracle_id": "8b022754-6d16-470e-b754-4df6e4f4709e",
+  "multiverse_ids": [
+    447278
+  ],
+  "mtgo_id": 68445,
+  "arena_id": 67964,
+  "tcgplayer_id": 166706,
+  "cardmarket_id": 360288,
+  "name": "Goblin Instigator",
+  "lang": "en",
+  "released_at": "2018-07-13",
+  "uri": "https://api.scryfall.com/cards/90cef94d-d941-4e08-afec-a116626b74fb",
+  "scryfall_uri": "https://scryfall.com/card/m19/142/goblin-instigator?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/0/90cef94d-d941-4e08-afec-a116626b74fb.jpg?1562302971",
+    "normal": "https://cards.scryfall.io/normal/front/9/0/90cef94d-d941-4e08-afec-a116626b74fb.jpg?1562302971",
+    "large": "https://cards.scryfall.io/large/front/9/0/90cef94d-d941-4e08-afec-a116626b74fb.jpg?1562302971",
+    "png": "https://cards.scryfall.io/png/front/9/0/90cef94d-d941-4e08-afec-a116626b74fb.png?1562302971",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/0/90cef94d-d941-4e08-afec-a116626b74fb.jpg?1562302971",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/0/90cef94d-d941-4e08-afec-a116626b74fb.jpg?1562302971"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Creature — Goblin Rogue",
+  "oracle_text": "When this creature enters, create a 1/1 red Goblin creature token.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "4f736760-60d5-412d-9877-753eb7b5f926",
+      "component": "token",
+      "name": "Goblin",
+      "type_line": "Token Creature — Goblin",
+      "uri": "https://api.scryfall.com/cards/4f736760-60d5-412d-9877-753eb7b5f926"
+    },
+    {
+      "object": "related_card",
+      "id": "90cef94d-d941-4e08-afec-a116626b74fb",
+      "component": "combo_piece",
+      "name": "Goblin Instigator",
+      "type_line": "Creature — Goblin Rogue",
+      "uri": "https://api.scryfall.com/cards/90cef94d-d941-4e08-afec-a116626b74fb"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "2f5f2509-56db-414d-9a7e-6e312ec3760c",
+  "set": "m19",
+  "set_name": "Core Set 2019",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/2f5f2509-56db-414d-9a7e-6e312ec3760c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am19&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/m19?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/90cef94d-d941-4e08-afec-a116626b74fb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8b022754-6d16-470e-b754-4df6e4f4709e&unique=prints",
+  "collector_number": "142",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"We can take 'em. You go first!\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Filip Burburan",
+  "artist_ids": [
+    "66082c3b-a623-4d34-be51-2475214b85d3"
+  ],
+  "illustration_id": "706b123b-a1f8-43ee-b91c-cdbab183be34",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2901,
+  "penny_rank": 1778,
+  "prices": {
+    "usd": "0.15",
+    "usd_foil": "4.71",
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": "5.00",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447278&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGoblin%2BInstigator",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGoblin%2BInstigator",
+    "edhrec": "https://edhrec.com/route/?cc=Goblin+Instigator"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F166706%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Core-2019/Goblin-Instigator?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/68445?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

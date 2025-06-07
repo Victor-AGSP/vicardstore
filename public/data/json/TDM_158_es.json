@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "b235ed07-db1f-42ef-acdf-d037c5240f20",
+  "oracle_id": "30f058f8-5777-4c25-b881-8f1d0ce17d3a",
+  "multiverse_ids": [
+    694180
+  ],
+  "name": "Sarkhan's Resolve",
+  "printed_name": "Determinación de Sarkhan",
+  "lang": "es",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/b235ed07-db1f-42ef-acdf-d037c5240f20",
+  "scryfall_uri": "https://scryfall.com/card/tdm/158/es/determinaci%C3%B3n-de-sarkhan-(sarkhans-resolve)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/2/b235ed07-db1f-42ef-acdf-d037c5240f20.jpg?1744677492",
+    "normal": "https://cards.scryfall.io/normal/front/b/2/b235ed07-db1f-42ef-acdf-d037c5240f20.jpg?1744677492",
+    "large": "https://cards.scryfall.io/large/front/b/2/b235ed07-db1f-42ef-acdf-d037c5240f20.jpg?1744677492",
+    "png": "https://cards.scryfall.io/png/front/b/2/b235ed07-db1f-42ef-acdf-d037c5240f20.png?1744677492",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/2/b235ed07-db1f-42ef-acdf-d037c5240f20.jpg?1744677492",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/2/b235ed07-db1f-42ef-acdf-d037c5240f20.jpg?1744677492"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "printed_type_line": "Instantáneo",
+  "oracle_text": "Choose one —\n• Target creature gets +3/+3 until end of turn.\n• Destroy target creature with flying.",
+  "printed_text": "Elige uno:\n• La criatura objetivo obtiene +3/+3 hasta el final del turno.\n• Destruye la criatura objetivo con la habilidad de volar.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set": "tdm",
+  "set_name": "Tarkir: Dragonstorm",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b235ed07-db1f-42ef-acdf-d037c5240f20/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A30f058f8-5777-4c25-b881-8f1d0ce17d3a&unique=prints",
+  "collector_number": "158",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Con Taigam susurrándole palabras de ánimo al oído, Sarkhan despejó sus dudas. El ritual le devolvería su antigua gloria; todo lo que necesitaba era el corazón de un dragón.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Billy Christian",
+  "artist_ids": [
+    "10f26f94-64fc-4174-856e-701bea4f1521"
+  ],
+  "illustration_id": "02b329a9-c76a-43f6-8376-dec048b02ed9",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": true,
+  "edhrec_rank": 18277,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694180&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSarkhan%2527s%2BResolve",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSarkhan%2527s%2BResolve",
+    "edhrec": "https://edhrec.com/route/?cc=Sarkhan%27s+Resolve"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSarkhan%2527s%2BResolve%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sarkhan%27s+Resolve&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sarkhan%27s+Resolve&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

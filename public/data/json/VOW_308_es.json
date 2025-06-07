@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "a297a353-634e-4785-9026-c332a2824117",
+  "oracle_id": "cef82674-1f61-407b-801b-a76a3803e598",
+  "multiverse_ids": [
+    545319
+  ],
+  "name": "Voldaren Epicure",
+  "printed_name": "Sibarita de Voldaren",
+  "lang": "es",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/a297a353-634e-4785-9026-c332a2824117",
+  "scryfall_uri": "https://scryfall.com/card/vow/308/es/sibarita-de-voldaren-(voldaren-epicure)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/2/a297a353-634e-4785-9026-c332a2824117.jpg?1741137458",
+    "normal": "https://cards.scryfall.io/normal/front/a/2/a297a353-634e-4785-9026-c332a2824117.jpg?1741137458",
+    "large": "https://cards.scryfall.io/large/front/a/2/a297a353-634e-4785-9026-c332a2824117.jpg?1741137458",
+    "png": "https://cards.scryfall.io/png/front/a/2/a297a353-634e-4785-9026-c332a2824117.png?1741137458",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/2/a297a353-634e-4785-9026-c332a2824117.jpg?1741137458",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/2/a297a353-634e-4785-9026-c332a2824117.jpg?1741137458"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1,
+  "type_line": "Creature — Vampire",
+  "printed_type_line": "Criatura — Vampiro",
+  "oracle_text": "When this creature enters, it deals 1 damage to each opponent. Create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\")",
+  "printed_text": "Cuando el Sibarita de Voldaren entre al campo de batalla, hace 1 punto de daño a cada oponente. Crea una ficha de Sangre.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a297a353-634e-4785-9026-c332a2824117/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acef82674-1f61-407b-801b-a76a3803e598&unique=prints",
+  "collector_number": "308",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Vi Szendrey (Cashile)",
+  "artist_ids": [
+    "8829e1b9-e609-4989-b602-55859a9f2f09"
+  ],
+  "illustration_id": "94858b6d-0293-41e1-bd3e-fc971bc1553f",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 4662,
+  "penny_rank": 512,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=545319&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVoldaren%2BEpicure",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVoldaren%2BEpicure",
+    "edhrec": "https://edhrec.com/route/?cc=Voldaren+Epicure"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DVoldaren%2BEpicure%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Voldaren+Epicure&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Voldaren+Epicure&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

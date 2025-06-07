@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "12c9764c-7a51-4261-8cc2-999d2b30267f",
+  "oracle_id": "6c75b92a-4fc1-4f26-95be-1b92f462c111",
+  "multiverse_ids": [
+    575126
+  ],
+  "name": "Flowstone Infusion",
+  "printed_name": "Infusión de piedra variable",
+  "lang": "es",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/12c9764c-7a51-4261-8cc2-999d2b30267f",
+  "scryfall_uri": "https://scryfall.com/card/dmu/124/es/infusi%C3%B3n-de-piedra-variable-(flowstone-infusion)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/2/12c9764c-7a51-4261-8cc2-999d2b30267f.jpg?1663217689",
+    "normal": "https://cards.scryfall.io/normal/front/1/2/12c9764c-7a51-4261-8cc2-999d2b30267f.jpg?1663217689",
+    "large": "https://cards.scryfall.io/large/front/1/2/12c9764c-7a51-4261-8cc2-999d2b30267f.jpg?1663217689",
+    "png": "https://cards.scryfall.io/png/front/1/2/12c9764c-7a51-4261-8cc2-999d2b30267f.png?1663217689",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/2/12c9764c-7a51-4261-8cc2-999d2b30267f.jpg?1663217689",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/2/12c9764c-7a51-4261-8cc2-999d2b30267f.jpg?1663217689"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "printed_type_line": "Instantáneo",
+  "oracle_text": "Target creature gets +2/-2 until end of turn.",
+  "printed_text": "La criatura objetivo obtiene +2/-2 hasta el final del turno.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dmu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/12c9764c-7a51-4261-8cc2-999d2b30267f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6c75b92a-4fc1-4f26-95be-1b92f462c111&unique=prints",
+  "collector_number": "124",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Los agentes durmientes pirexianos eran los principales responsables de extender el rumor de que las piedras variables servían para desenmascararlos.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Allen Williams",
+  "artist_ids": [
+    "8a56d854-b424-45ec-9262-e993a382a961"
+  ],
+  "illustration_id": "f079a64f-c7c1-4460-a736-b6c5f7f9c90c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 21660,
+  "penny_rank": 13579,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=575126&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFlowstone%2BInfusion",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFlowstone%2BInfusion",
+    "edhrec": "https://edhrec.com/route/?cc=Flowstone+Infusion"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DFlowstone%2BInfusion%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Flowstone+Infusion&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Flowstone+Infusion&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

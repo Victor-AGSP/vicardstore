@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "59ee8f11-66e3-44a3-bc36-dad549bff60b",
+  "oracle_id": "822b6d56-939a-42b9-b50c-9a8ba50ec3ad",
+  "multiverse_ids": [
+    541552
+  ],
+  "name": "Serpentine Ambush",
+  "printed_name": "Emboscada serpentina",
+  "lang": "es",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/59ee8f11-66e3-44a3-bc36-dad549bff60b",
+  "scryfall_uri": "https://scryfall.com/card/vow/77/es/emboscada-serpentina-(serpentine-ambush)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/9/59ee8f11-66e3-44a3-bc36-dad549bff60b.jpg?1741129051",
+    "normal": "https://cards.scryfall.io/normal/front/5/9/59ee8f11-66e3-44a3-bc36-dad549bff60b.jpg?1741129051",
+    "large": "https://cards.scryfall.io/large/front/5/9/59ee8f11-66e3-44a3-bc36-dad549bff60b.jpg?1741129051",
+    "png": "https://cards.scryfall.io/png/front/5/9/59ee8f11-66e3-44a3-bc36-dad549bff60b.png?1741129051",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/9/59ee8f11-66e3-44a3-bc36-dad549bff60b.jpg?1741129051",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/9/59ee8f11-66e3-44a3-bc36-dad549bff60b.jpg?1741129051"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "printed_type_line": "Instantáneo",
+  "oracle_text": "Until end of turn, target creature becomes a blue Serpent with base power and toughness 5/5.",
+  "printed_text": "Hasta el final del turno, la criatura objetivo se convierte en una Serpiente azul con fuerza y resistencia base de 5/5.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/59ee8f11-66e3-44a3-bc36-dad549bff60b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A822b6d56-939a-42b9-b50c-9a8ba50ec3ad&unique=prints",
+  "collector_number": "77",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "El mercader le garantizó que el cebo nuevo atraería algo enorme, ciertamente...",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jokubas Uogintas",
+  "artist_ids": [
+    "2c14303e-97a3-45fa-9bd8-59e5332a65f9"
+  ],
+  "illustration_id": "a3b29b0d-3b8c-451c-8867-4700063ea480",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 16349,
+  "penny_rank": 4665,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541552&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSerpentine%2BAmbush",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSerpentine%2BAmbush",
+    "edhrec": "https://edhrec.com/route/?cc=Serpentine+Ambush"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSerpentine%2BAmbush%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Serpentine+Ambush&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Serpentine+Ambush&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

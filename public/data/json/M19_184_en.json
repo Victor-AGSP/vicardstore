@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "c0338075-5e84-4a37-957a-9cf23ac261ab",
+  "oracle_id": "43a86d36-9653-4498-a533-8b30b919cdbf",
+  "multiverse_ids": [
+    447320
+  ],
+  "mtgo_id": 68529,
+  "arena_id": 68048,
+  "tcgplayer_id": 169332,
+  "cardmarket_id": 360279,
+  "name": "Gift of Paradise",
+  "lang": "en",
+  "released_at": "2018-07-13",
+  "uri": "https://api.scryfall.com/cards/c0338075-5e84-4a37-957a-9cf23ac261ab",
+  "scryfall_uri": "https://scryfall.com/card/m19/184/gift-of-paradise?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/0/c0338075-5e84-4a37-957a-9cf23ac261ab.jpg?1562303930",
+    "normal": "https://cards.scryfall.io/normal/front/c/0/c0338075-5e84-4a37-957a-9cf23ac261ab.jpg?1562303930",
+    "large": "https://cards.scryfall.io/large/front/c/0/c0338075-5e84-4a37-957a-9cf23ac261ab.jpg?1562303930",
+    "png": "https://cards.scryfall.io/png/front/c/0/c0338075-5e84-4a37-957a-9cf23ac261ab.png?1562303930",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/0/c0338075-5e84-4a37-957a-9cf23ac261ab.jpg?1562303930",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/0/c0338075-5e84-4a37-957a-9cf23ac261ab.jpg?1562303930"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Enchantment — Aura",
+  "oracle_text": "Enchant land\nWhen this Aura enters, you gain 3 life.\nEnchanted land has \"{T}: Add two mana of any one color.\"",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Enchant"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "2f5f2509-56db-414d-9a7e-6e312ec3760c",
+  "set": "m19",
+  "set_name": "Core Set 2019",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/2f5f2509-56db-414d-9a7e-6e312ec3760c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am19&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/m19?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c0338075-5e84-4a37-957a-9cf23ac261ab/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A43a86d36-9653-4498-a533-8b30b919cdbf&unique=prints",
+  "collector_number": "184",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ryan Pancoast",
+  "artist_ids": [
+    "89cc9475-dda2-4d13-bf88-54b92867a25c"
+  ],
+  "illustration_id": "d1f7315e-baf4-4faf-a57f-138373344b7d",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 5288,
+  "penny_rank": 5633,
+  "prices": {
+    "usd": "0.07",
+    "usd_foil": "0.27",
+    "usd_etched": null,
+    "eur": "0.08",
+    "eur_foil": "0.32",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447320&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGift%2Bof%2BParadise",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGift%2Bof%2BParadise",
+    "edhrec": "https://edhrec.com/route/?cc=Gift+of+Paradise"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F169332%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Core-2019/Gift-of-Paradise?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/68529?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

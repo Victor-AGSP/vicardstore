@@ -1,0 +1,165 @@
+{
+  "object": "card",
+  "id": "d06a1a70-aa26-4178-8486-e0a25c907cdb",
+  "oracle_id": "8e5e8bca-b52a-4178-ab53-bdd0e0e11dc1",
+  "multiverse_ids": [
+    657759
+  ],
+  "mtgo_id": 123591,
+  "arena_id": 90712,
+  "tcgplayer_id": 544872,
+  "cardmarket_id": 764153,
+  "name": "Heartless Pillage",
+  "lang": "en",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/d06a1a70-aa26-4178-8486-e0a25c907cdb",
+  "scryfall_uri": "https://scryfall.com/card/otp/14/heartless-pillage?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/0/d06a1a70-aa26-4178-8486-e0a25c907cdb.jpg?1712353444",
+    "normal": "https://cards.scryfall.io/normal/front/d/0/d06a1a70-aa26-4178-8486-e0a25c907cdb.jpg?1712353444",
+    "large": "https://cards.scryfall.io/large/front/d/0/d06a1a70-aa26-4178-8486-e0a25c907cdb.jpg?1712353444",
+    "png": "https://cards.scryfall.io/png/front/d/0/d06a1a70-aa26-4178-8486-e0a25c907cdb.png?1712353444",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/0/d06a1a70-aa26-4178-8486-e0a25c907cdb.jpg?1712353444",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/0/d06a1a70-aa26-4178-8486-e0a25c907cdb.jpg?1712353444"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3,
+  "type_line": "Sorcery",
+  "oracle_text": "Target opponent discards two cards.\nRaid — If you attacked this turn, create a Treasure token. (It's an artifact with \"{T}, Sacrifice this token: Add one mana of any color.\")",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Treasure",
+    "Raid"
+  ],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "7ec6f053-96f7-4e57-b2eb-4e7699a40a4f",
+      "component": "token",
+      "name": "Treasure",
+      "type_line": "Token Artifact — Treasure",
+      "uri": "https://api.scryfall.com/cards/7ec6f053-96f7-4e57-b2eb-4e7699a40a4f"
+    },
+    {
+      "object": "related_card",
+      "id": "d06a1a70-aa26-4178-8486-e0a25c907cdb",
+      "component": "combo_piece",
+      "name": "Heartless Pillage",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/d06a1a70-aa26-4178-8486-e0a25c907cdb"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "8b51294d-fc54-410c-83b2-0168837ede87",
+  "set": "otp",
+  "set_name": "Breaking News",
+  "set_type": "masterpiece",
+  "set_uri": "https://api.scryfall.com/sets/8b51294d-fc54-410c-83b2-0168837ede87",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotp&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otp?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d06a1a70-aa26-4178-8486-e0a25c907cdb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8e5e8bca-b52a-4178-ab53-bdd0e0e11dc1&unique=prints",
+  "collector_number": "14",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Homesteader Robbed for Third Time This Week",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mark A. Nelson",
+  "artist_ids": [
+    "a10f59a4-36fd-4ef3-966b-5570ca118062"
+  ],
+  "illustration_id": "8d47888f-72e0-408e-8014-a448c09b7a79",
+  "border_color": "borderless",
+  "frame": "2015",
+  "frame_effects": [
+    "showcase"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 13761,
+  "penny_rank": 10124,
+  "preview": {
+    "source": "Riley Knight",
+    "source_uri": "https://twitter.com/RLYKNGHT/status/1774603297925849436",
+    "previewed_at": "2024-03-31"
+  },
+  "prices": {
+    "usd": "0.08",
+    "usd_foil": "0.07",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.12",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=657759&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHeartless%2BPillage",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHeartless%2BPillage",
+    "edhrec": "https://edhrec.com/route/?cc=Heartless+Pillage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F544872%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Breaking-News/Heartless-Pillage?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/123591?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "589e5524-033d-46ff-a25a-ae2894d9b8d3",
+  "oracle_id": "d95e7282-b298-4410-baac-01766d6852e3",
+  "multiverse_ids": [
+    535467
+  ],
+  "name": "Phantom Carriage",
+  "printed_name": "Carroza fantasmal",
+  "lang": "es",
+  "released_at": "2021-09-24",
+  "uri": "https://api.scryfall.com/cards/589e5524-033d-46ff-a25a-ae2894d9b8d3",
+  "scryfall_uri": "https://scryfall.com/card/mid/70/es/carroza-fantasmal-(phantom-carriage)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/8/589e5524-033d-46ff-a25a-ae2894d9b8d3.jpg?1738116857",
+    "normal": "https://cards.scryfall.io/normal/front/5/8/589e5524-033d-46ff-a25a-ae2894d9b8d3.jpg?1738116857",
+    "large": "https://cards.scryfall.io/large/front/5/8/589e5524-033d-46ff-a25a-ae2894d9b8d3.jpg?1738116857",
+    "png": "https://cards.scryfall.io/png/front/5/8/589e5524-033d-46ff-a25a-ae2894d9b8d3.png?1738116857",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/8/589e5524-033d-46ff-a25a-ae2894d9b8d3.jpg?1738116857",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/8/589e5524-033d-46ff-a25a-ae2894d9b8d3.jpg?1738116857"
+  },
+  "mana_cost": "{4}{U}{U}",
+  "cmc": 6,
+  "type_line": "Creature — Spirit",
+  "printed_type_line": "Criatura — Espíritu",
+  "oracle_text": "Flying\nWhen this creature enters, you may search your library for a card with flashback or disturb, put it into your graveyard, then shuffle.",
+  "printed_text": "Vuela.\nCuando la Carroza fantasmal entre al campo de batalla, puedes buscar en tu biblioteca una carta con las habilidades de retrospectiva o perturbar, ponerla en tu cementerio y luego barajar.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+  "set": "mid",
+  "set_name": "Innistrad: Midnight Hunt",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amid&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mid?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/589e5524-033d-46ff-a25a-ae2894d9b8d3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad95e7282-b298-4410-baac-01766d6852e3&unique=prints",
+  "collector_number": "70",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "No cuesta nada ir hasta el abismo, pero el viaje de vuelta tiene un precio.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Igor Kieryluk",
+  "artist_ids": [
+    "9c3e9d17-509f-485c-9360-46d897ce716b"
+  ],
+  "illustration_id": "1f495622-538a-4522-ab40-570532d2e5c0",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 22727,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535467&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPhantom%2BCarriage",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPhantom%2BCarriage",
+    "edhrec": "https://edhrec.com/route/?cc=Phantom+Carriage"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DPhantom%2BCarriage%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Phantom+Carriage&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Phantom+Carriage&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

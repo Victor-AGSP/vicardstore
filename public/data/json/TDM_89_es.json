@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "85095093-e220-4a69-96ed-8e3a4344e749",
+  "oracle_id": "eae480fe-d9fe-4dbe-8b78-b65f398b0af3",
+  "multiverse_ids": [
+    694111
+  ],
+  "name": "Sandskitter Outrider",
+  "printed_name": "Batidora del arenerrante",
+  "lang": "es",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/85095093-e220-4a69-96ed-8e3a4344e749",
+  "scryfall_uri": "https://scryfall.com/card/tdm/89/es/batidora-del-arenerrante-(sandskitter-outrider)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/5/85095093-e220-4a69-96ed-8e3a4344e749.jpg?1744675990",
+    "normal": "https://cards.scryfall.io/normal/front/8/5/85095093-e220-4a69-96ed-8e3a4344e749.jpg?1744675990",
+    "large": "https://cards.scryfall.io/large/front/8/5/85095093-e220-4a69-96ed-8e3a4344e749.jpg?1744675990",
+    "png": "https://cards.scryfall.io/png/front/8/5/85095093-e220-4a69-96ed-8e3a4344e749.png?1744675990",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/5/85095093-e220-4a69-96ed-8e3a4344e749.jpg?1744675990",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/5/85095093-e220-4a69-96ed-8e3a4344e749.jpg?1744675990"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4,
+  "type_line": "Creature — Goblin Soldier",
+  "printed_type_line": "Criatura — Soldado trasgo",
+  "oracle_text": "Menace (This creature can't be blocked except by two or more creatures.)\nWhen this creature enters, it endures 2. (Put two +1/+1 counters on it or create a 2/2 white Spirit creature token.)",
+  "printed_text": "Amenaza. (Esta criatura no puede ser bloqueada excepto por dos o más criaturas.)\nCuando esta criatura entre, perdura 2. (Pon dos contadores +1/+1 sobre ella o crea una ficha de criatura Espíritu blanca 2/2.)",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Menace",
+    "Endure"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set": "tdm",
+  "set_name": "Tarkir: Dragonstorm",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/85095093-e220-4a69-96ed-8e3a4344e749/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aeae480fe-d9fe-4dbe-8b78-b65f398b0af3&unique=prints",
+  "collector_number": "89",
+  "digital": false,
+  "rarity": "common",
+  "watermark": "abzan",
+  "flavor_text": "\"Hay una nueva sima, unos treinta kilómetros al este. Me llevaré a Arañitos\".",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Arif Wijaya",
+  "artist_ids": [
+    "a1d47f27-cbf6-4a7b-bbbb-8f051c9069d6"
+  ],
+  "illustration_id": "c7b162fd-c3b6-444f-9a3b-300bc1d9349f",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 22278,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694111&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSandskitter%2BOutrider",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSandskitter%2BOutrider",
+    "edhrec": "https://edhrec.com/route/?cc=Sandskitter+Outrider"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSandskitter%2BOutrider%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sandskitter+Outrider&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sandskitter+Outrider&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

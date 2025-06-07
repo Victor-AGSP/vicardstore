@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "c5f942b1-40f7-48a5-8841-c09198d99321",
+  "oracle_id": "5669ea7c-c4fc-494c-896b-4bce9b494817",
+  "multiverse_ids": [
+    659068
+  ],
+  "name": "Curse of the Swine",
+  "printed_name": "Maldición porcina",
+  "lang": "es",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/c5f942b1-40f7-48a5-8841-c09198d99321",
+  "scryfall_uri": "https://scryfall.com/card/otc/92/es/maldici%C3%B3n-porcina-(curse-of-the-swine)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/5/c5f942b1-40f7-48a5-8841-c09198d99321.jpg?1730248076",
+    "normal": "https://cards.scryfall.io/normal/front/c/5/c5f942b1-40f7-48a5-8841-c09198d99321.jpg?1730248076",
+    "large": "https://cards.scryfall.io/large/front/c/5/c5f942b1-40f7-48a5-8841-c09198d99321.jpg?1730248076",
+    "png": "https://cards.scryfall.io/png/front/c/5/c5f942b1-40f7-48a5-8841-c09198d99321.png?1730248076",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/5/c5f942b1-40f7-48a5-8841-c09198d99321.jpg?1730248076",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/5/c5f942b1-40f7-48a5-8841-c09198d99321.jpg?1730248076"
+  },
+  "mana_cost": "{X}{U}{U}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "printed_type_line": "Conjuro",
+  "oracle_text": "Exile X target creatures. For each creature exiled this way, its controller creates a 2/2 green Boar creature token.",
+  "printed_text": "Exilia X criaturas objetivo. Por cada criatura exiliada de esta manera, su controlador crea una ficha de criatura Jabalí verde 2/2.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c5f942b1-40f7-48a5-8841-c09198d99321/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5669ea7c-c4fc-494c-896b-4bce9b494817&unique=prints",
+  "collector_number": "92",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Otra batalla inminente acallada por profusos gruñidos y hozares despreocupados.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "James Ryman",
+  "artist_ids": [
+    "3852bbc9-11c0-4fe3-8722-a06ad7e2bcc5"
+  ],
+  "illustration_id": "0a6d1a68-c309-473c-9481-db2931609c58",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 666,
+  "penny_rank": 7928,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=659068&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCurse%2Bof%2Bthe%2BSwine",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCurse%2Bof%2Bthe%2BSwine",
+    "edhrec": "https://edhrec.com/route/?cc=Curse+of+the+Swine"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DCurse%2Bof%2Bthe%2BSwine%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Curse+of+the+Swine&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Curse+of+the+Swine&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "object": "card",
+  "id": "8138fe63-05d1-4d3d-8309-f77483f0b5f2",
+  "oracle_id": "0b8517c0-0441-4fd9-99ec-2274e57c3cb6",
+  "multiverse_ids": [
+    659208
+  ],
+  "name": "Kaza, Roil Chaser",
+  "printed_name": "Kaza, seguidora de la Turbulencia",
+  "lang": "es",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/8138fe63-05d1-4d3d-8309-f77483f0b5f2",
+  "scryfall_uri": "https://scryfall.com/card/otc/232/es/kaza-seguidora-de-la-turbulencia-(kaza-roil-chaser)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/1/8138fe63-05d1-4d3d-8309-f77483f0b5f2.jpg?1730248128",
+    "normal": "https://cards.scryfall.io/normal/front/8/1/8138fe63-05d1-4d3d-8309-f77483f0b5f2.jpg?1730248128",
+    "large": "https://cards.scryfall.io/large/front/8/1/8138fe63-05d1-4d3d-8309-f77483f0b5f2.jpg?1730248128",
+    "png": "https://cards.scryfall.io/png/front/8/1/8138fe63-05d1-4d3d-8309-f77483f0b5f2.png?1730248128",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/1/8138fe63-05d1-4d3d-8309-f77483f0b5f2.jpg?1730248128",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/1/8138fe63-05d1-4d3d-8309-f77483f0b5f2.jpg?1730248128"
+  },
+  "mana_cost": "{U}{R}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Human Wizard",
+  "printed_type_line": "Criatura legendaria — Hechicero humano",
+  "oracle_text": "Flying, haste\n{T}: The next instant or sorcery spell you cast this turn costs {X} less to cast, where X is the number of Wizards you control as this ability resolves.",
+  "printed_text": "Vuela, prisa.\n{T}: Te cuesta {X} menos lanzar el siguiente hechizo de instantáneo o de conjuro que lances este turno, donde X es la cantidad de Hechiceros que controlas en cuanto esta habilidad se resuelve.",
+  "power": "1",
+  "toughness": "2",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [
+    "Flying",
+    "Haste"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8138fe63-05d1-4d3d-8309-f77483f0b5f2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0b8517c0-0441-4fd9-99ec-2274e57c3cb6&unique=prints",
+  "collector_number": "232",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"¿Qué vida es esa, la de ceñirse a lo que conoces y a lo que es seguro? No, gracias. Quiero estar en el centro de la acción\".",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ekaterina Burmak",
+  "artist_ids": [
+    "2a9f3780-fcc8-4ec5-b403-ee1d1370d3b4"
+  ],
+  "illustration_id": "c7b038fb-848b-4f85-8f83-b642539d47c3",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 8816,
+  "penny_rank": 9204,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=659208&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DKaza%252C%2BRoil%2BChaser",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DKaza%252C%2BRoil%2BChaser",
+    "edhrec": "https://edhrec.com/route/?cc=Kaza%2C+Roil+Chaser"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DKaza%252C%2BRoil%2BChaser%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kaza%2C+Roil+Chaser&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kaza%2C+Roil+Chaser&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

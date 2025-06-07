@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "7b6a3dfe-0324-4908-93d7-cc9cd502c8c5",
+  "oracle_id": "dcd4da46-5438-4454-8b1b-43ca51bda1f9",
+  "multiverse_ids": [
+    659078
+  ],
+  "name": "Murmuring Mystic",
+  "printed_name": "Místico murmurador",
+  "lang": "es",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/7b6a3dfe-0324-4908-93d7-cc9cd502c8c5",
+  "scryfall_uri": "https://scryfall.com/card/otc/102/es/m%C3%ADstico-murmurador-(murmuring-mystic)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/b/7b6a3dfe-0324-4908-93d7-cc9cd502c8c5.jpg?1730248079",
+    "normal": "https://cards.scryfall.io/normal/front/7/b/7b6a3dfe-0324-4908-93d7-cc9cd502c8c5.jpg?1730248079",
+    "large": "https://cards.scryfall.io/large/front/7/b/7b6a3dfe-0324-4908-93d7-cc9cd502c8c5.jpg?1730248079",
+    "png": "https://cards.scryfall.io/png/front/7/b/7b6a3dfe-0324-4908-93d7-cc9cd502c8c5.png?1730248079",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/b/7b6a3dfe-0324-4908-93d7-cc9cd502c8c5.jpg?1730248079",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/b/7b6a3dfe-0324-4908-93d7-cc9cd502c8c5.jpg?1730248079"
+  },
+  "mana_cost": "{3}{U}",
+  "cmc": 4,
+  "type_line": "Creature — Human Wizard",
+  "printed_type_line": "Criatura — Hechicero humano",
+  "oracle_text": "Whenever you cast an instant or sorcery spell, create a 1/1 blue Bird Illusion creature token with flying.",
+  "printed_text": "Siempre que lances un hechizo de instantáneo o de conjuro, crea una ficha de criatura Ilusión Ave azul 1/1 con la habilidad de volar.",
+  "power": "1",
+  "toughness": "5",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7b6a3dfe-0324-4908-93d7-cc9cd502c8c5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adcd4da46-5438-4454-8b1b-43ca51bda1f9&unique=prints",
+  "collector_number": "102",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Los rumores revolotean por la ciudad como cuervos, posándose sobre algunos ciudadanos al azar..., o eso parece.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mark Winters",
+  "artist_ids": [
+    "3d8a379d-f4e8-440d-99d5-5ec107757348"
+  ],
+  "illustration_id": "c4773a04-1364-4dd6-a62b-07da23a61a35",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1350,
+  "penny_rank": 1488,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=659078&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMurmuring%2BMystic",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMurmuring%2BMystic",
+    "edhrec": "https://edhrec.com/route/?cc=Murmuring+Mystic"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DMurmuring%2BMystic%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Murmuring+Mystic&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Murmuring+Mystic&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

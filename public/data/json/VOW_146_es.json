@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "29f1dc17-cce9-4cc6-9a20-78f7b75299d4",
+  "oracle_id": "219cf182-0942-4569-91e9-9bc9bb1d06d0",
+  "multiverse_ids": [
+    541633
+  ],
+  "name": "Blood Petal Celebrant",
+  "printed_name": "Celebrante de los pétalos de sangre",
+  "lang": "es",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/29f1dc17-cce9-4cc6-9a20-78f7b75299d4",
+  "scryfall_uri": "https://scryfall.com/card/vow/146/es/celebrante-de-los-p%C3%A9talos-de-sangre-(blood-petal-celebrant)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/9/29f1dc17-cce9-4cc6-9a20-78f7b75299d4.jpg?1741131398",
+    "normal": "https://cards.scryfall.io/normal/front/2/9/29f1dc17-cce9-4cc6-9a20-78f7b75299d4.jpg?1741131398",
+    "large": "https://cards.scryfall.io/large/front/2/9/29f1dc17-cce9-4cc6-9a20-78f7b75299d4.jpg?1741131398",
+    "png": "https://cards.scryfall.io/png/front/2/9/29f1dc17-cce9-4cc6-9a20-78f7b75299d4.png?1741131398",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/9/29f1dc17-cce9-4cc6-9a20-78f7b75299d4.jpg?1741131398",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/9/29f1dc17-cce9-4cc6-9a20-78f7b75299d4.jpg?1741131398"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Creature — Vampire",
+  "printed_type_line": "Criatura — Vampiro",
+  "oracle_text": "This creature has first strike as long as it's attacking.\nWhen this creature dies, create a Blood token. (It's an artifact with \"{1}, {T}, Discard a card, Sacrifice this token: Draw a card.\")",
+  "printed_text": "La Celebrante de los pétalos de sangre tiene la habilidad de dañar primero mientras esté atacando.\nCuando la Celebrante de los pétalos de sangre muera, crea una ficha de Sangre. (Es un artefacto con \"{1}, {T}, descartar una carta, sacrificar este artefacto: Roba una carta\".)",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/29f1dc17-cce9-4cc6-9a20-78f7b75299d4/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A219cf182-0942-4569-91e9-9bc9bb1d06d0&unique=prints",
+  "collector_number": "146",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Fajareka Setiawan",
+  "artist_ids": [
+    "0cc534e0-be18-4cb1-8521-50fabd0dac6f"
+  ],
+  "illustration_id": "911e15e4-edf6-430c-ad77-d080134bd91b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 12957,
+  "penny_rank": 12211,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541633&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlood%2BPetal%2BCelebrant",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlood%2BPetal%2BCelebrant",
+    "edhrec": "https://edhrec.com/route/?cc=Blood+Petal+Celebrant"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBlood%2BPetal%2BCelebrant%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Blood+Petal+Celebrant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Blood+Petal+Celebrant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

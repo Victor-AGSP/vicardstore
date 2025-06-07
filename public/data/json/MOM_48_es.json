@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "fafaa224-6ce7-4521-bd6f-79996704a135",
+  "oracle_id": "a054b6ed-f6ca-4436-a433-89771ffdd2d6",
+  "multiverse_ids": [
+    607742
+  ],
+  "name": "Astral Wingspan",
+  "printed_name": "Alas astrales",
+  "lang": "es",
+  "released_at": "2023-04-21",
+  "uri": "https://api.scryfall.com/cards/fafaa224-6ce7-4521-bd6f-79996704a135",
+  "scryfall_uri": "https://scryfall.com/card/mom/48/es/alas-astrales-(astral-wingspan)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/a/fafaa224-6ce7-4521-bd6f-79996704a135.jpg?1716762024",
+    "normal": "https://cards.scryfall.io/normal/front/f/a/fafaa224-6ce7-4521-bd6f-79996704a135.jpg?1716762024",
+    "large": "https://cards.scryfall.io/large/front/f/a/fafaa224-6ce7-4521-bd6f-79996704a135.jpg?1716762024",
+    "png": "https://cards.scryfall.io/png/front/f/a/fafaa224-6ce7-4521-bd6f-79996704a135.png?1716762024",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/a/fafaa224-6ce7-4521-bd6f-79996704a135.jpg?1716762024",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/a/fafaa224-6ce7-4521-bd6f-79996704a135.jpg?1716762024"
+  },
+  "mana_cost": "{4}{U}",
+  "cmc": 5,
+  "type_line": "Enchantment — Aura",
+  "printed_type_line": "Encantamiento — Aura",
+  "oracle_text": "Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)\nEnchant creature\nWhen this Aura enters, draw a card.\nEnchanted creature gets +2/+2 and has flying.",
+  "printed_text": "Convocar. (Tus criaturas pueden ayudar a lanzar este hechizo. Cada criatura que gires al lanzar este hechizo cuenta como un pago de {1} o de un maná del color de esa criatura.)\nEncantar criatura.\nCuando las Alas astrales entren al campo de batalla, roba una carta.\nLa criatura encantada obtiene +2/+2 y tiene la habilidad de volar.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Enchant",
+    "Convoke"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "392f7315-dc53-40a3-a2cc-5482dbd498b3",
+  "set": "mom",
+  "set_name": "March of the Machine",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/392f7315-dc53-40a3-a2cc-5482dbd498b3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mom?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fafaa224-6ce7-4521-bd6f-79996704a135/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa054b6ed-f6ca-4436-a433-89771ffdd2d6&unique=prints",
+  "collector_number": "48",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Joseph Weston",
+  "artist_ids": [
+    "50365a81-fa9f-4fcf-aa83-6a57c63ad43e"
+  ],
+  "illustration_id": "99b0fe3c-e178-462d-9ede-4da353cbae40",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 13006,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=607742&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAstral%2BWingspan",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAstral%2BWingspan",
+    "edhrec": "https://edhrec.com/route/?cc=Astral+Wingspan"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DAstral%2BWingspan%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Astral+Wingspan&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Astral+Wingspan&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

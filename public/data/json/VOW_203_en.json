@@ -1,0 +1,193 @@
+{
+  "object": "card",
+  "id": "54a4b031-0919-44aa-a35e-68da7a27235a",
+  "oracle_id": "52def237-0374-4ab0-8c01-d0d00aaa324f",
+  "multiverse_ids": [
+    541066,
+    541067
+  ],
+  "mtgo_id": 94760,
+  "arena_id": 79014,
+  "tcgplayer_id": 253739,
+  "cardmarket_id": 583527,
+  "name": "Hookhand Mariner // Riphook Raider",
+  "lang": "en",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/54a4b031-0919-44aa-a35e-68da7a27235a",
+  "scryfall_uri": "https://scryfall.com/card/vow/203/hookhand-mariner-riphook-raider?utm_source=api",
+  "layout": "transform",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "cmc": 4,
+  "type_line": "Creature — Human Werewolf // Creature — Werewolf",
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Daybound",
+    "Nightbound"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Hookhand Mariner",
+      "mana_cost": "{3}{G}",
+      "type_line": "Creature — Human Werewolf",
+      "oracle_text": "Daybound (If a player casts no spells during their own turn, it becomes night next turn.)",
+      "colors": [
+        "G"
+      ],
+      "power": "4",
+      "toughness": "4",
+      "flavor_text": "The local gossips swore Nesmith lost his hands in a fight with a werewolf.",
+      "artist": "Caio Monteiro",
+      "artist_id": "d5053eb6-af72-47a0-b6e8-023cc3b9aefb",
+      "illustration_id": "6231c33e-15f6-480b-9ea8-d7fa22835170",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/5/4/54a4b031-0919-44aa-a35e-68da7a27235a.jpg?1643592840",
+        "normal": "https://cards.scryfall.io/normal/front/5/4/54a4b031-0919-44aa-a35e-68da7a27235a.jpg?1643592840",
+        "large": "https://cards.scryfall.io/large/front/5/4/54a4b031-0919-44aa-a35e-68da7a27235a.jpg?1643592840",
+        "png": "https://cards.scryfall.io/png/front/5/4/54a4b031-0919-44aa-a35e-68da7a27235a.png?1643592840",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/5/4/54a4b031-0919-44aa-a35e-68da7a27235a.jpg?1643592840",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/5/4/54a4b031-0919-44aa-a35e-68da7a27235a.jpg?1643592840"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Riphook Raider",
+      "mana_cost": "",
+      "type_line": "Creature — Werewolf",
+      "oracle_text": "This creature can't be blocked by creatures with power 2 or less.\nNightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)",
+      "colors": [
+        "G"
+      ],
+      "color_indicator": [
+        "G"
+      ],
+      "power": "6",
+      "toughness": "4",
+      "flavor_text": "They weren't entirely wrong.",
+      "artist": "Caio Monteiro",
+      "artist_id": "d5053eb6-af72-47a0-b6e8-023cc3b9aefb",
+      "illustration_id": "ed6ac51a-6f5f-4a6d-b620-84087e23c45d",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/5/4/54a4b031-0919-44aa-a35e-68da7a27235a.jpg?1643592840",
+        "normal": "https://cards.scryfall.io/normal/back/5/4/54a4b031-0919-44aa-a35e-68da7a27235a.jpg?1643592840",
+        "large": "https://cards.scryfall.io/large/back/5/4/54a4b031-0919-44aa-a35e-68da7a27235a.jpg?1643592840",
+        "png": "https://cards.scryfall.io/png/back/5/4/54a4b031-0919-44aa-a35e-68da7a27235a.png?1643592840",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/5/4/54a4b031-0919-44aa-a35e-68da7a27235a.jpg?1643592840",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/5/4/54a4b031-0919-44aa-a35e-68da7a27235a.jpg?1643592840"
+      }
+    }
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "54a4b031-0919-44aa-a35e-68da7a27235a",
+      "component": "combo_piece",
+      "name": "Hookhand Mariner // Riphook Raider",
+      "type_line": "Creature — Human Werewolf // Creature — Werewolf",
+      "uri": "https://api.scryfall.com/cards/54a4b031-0919-44aa-a35e-68da7a27235a"
+    },
+    {
+      "object": "related_card",
+      "id": "dc26e13b-7a0f-4e7f-8593-4f22234f4517",
+      "component": "combo_piece",
+      "name": "Day // Night",
+      "type_line": "Card // Card",
+      "uri": "https://api.scryfall.com/cards/dc26e13b-7a0f-4e7f-8593-4f22234f4517"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/54a4b031-0919-44aa-a35e-68da7a27235a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A52def237-0374-4ab0-8c01-d0d00aaa324f&unique=prints",
+  "collector_number": "203",
+  "digital": false,
+  "rarity": "common",
+  "artist": "Caio Monteiro",
+  "artist_ids": [
+    "d5053eb6-af72-47a0-b6e8-023cc3b9aefb"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "sunmoondfc"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 17973,
+  "penny_rank": 14529,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/articles/archive/card-image-gallery/innistrad-crimson-vow",
+    "previewed_at": "2021-11-05"
+  },
+  "prices": {
+    "usd": "0.02",
+    "usd_foil": "0.09",
+    "usd_etched": null,
+    "eur": "0.03",
+    "eur_foil": "0.06",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541066&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHookhand%2BMariner%2B%252F%252F%2BRiphook%2BRaider",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHookhand%2BMariner%2B%252F%252F%2BRiphook%2BRaider",
+    "edhrec": "https://edhrec.com/route/?cc=Hookhand+Mariner"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F253739%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Innistrad-Crimson-Vow/Hookhand-Mariner-Riphook-Raider?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/94760?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

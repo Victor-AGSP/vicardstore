@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "72c65fe2-e6ac-46c8-ae2e-a8ce9d3f37d8",
+  "oracle_id": "c6bdaf76-6a03-4695-9c4b-f040e73435af",
+  "multiverse_ids": [
+    659145
+  ],
+  "name": "Guttersnipe",
+  "printed_name": "Disparacuneta",
+  "lang": "es",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/72c65fe2-e6ac-46c8-ae2e-a8ce9d3f37d8",
+  "scryfall_uri": "https://scryfall.com/card/otc/169/es/disparacuneta-(guttersnipe)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/2/72c65fe2-e6ac-46c8-ae2e-a8ce9d3f37d8.jpg?1730248105",
+    "normal": "https://cards.scryfall.io/normal/front/7/2/72c65fe2-e6ac-46c8-ae2e-a8ce9d3f37d8.jpg?1730248105",
+    "large": "https://cards.scryfall.io/large/front/7/2/72c65fe2-e6ac-46c8-ae2e-a8ce9d3f37d8.jpg?1730248105",
+    "png": "https://cards.scryfall.io/png/front/7/2/72c65fe2-e6ac-46c8-ae2e-a8ce9d3f37d8.png?1730248105",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/2/72c65fe2-e6ac-46c8-ae2e-a8ce9d3f37d8.jpg?1730248105",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/2/72c65fe2-e6ac-46c8-ae2e-a8ce9d3f37d8.jpg?1730248105"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3,
+  "type_line": "Creature — Goblin Shaman",
+  "printed_type_line": "Criatura — Chamán trasgo",
+  "oracle_text": "Whenever you cast an instant or sorcery spell, this creature deals 2 damage to each opponent.",
+  "printed_text": "Siempre que lances un hechizo de instantáneo o de conjuro, el Disparacuneta hace 2 puntos de daño a cada oponente.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/72c65fe2-e6ac-46c8-ae2e-a8ce9d3f37d8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac6bdaf76-6a03-4695-9c4b-f040e73435af&unique=prints",
+  "collector_number": "169",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"¡Fuego! ¡Fuego! ¡Fuego! ¡Qué alegría! ¡Menudo fuego! ¡Que arda todo!\".",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Andrey Kuzinskiy",
+  "artist_ids": [
+    "c04ff0b2-67a1-4238-82f7-6c67de734b56"
+  ],
+  "illustration_id": "2aedc3b2-76e4-4bf2-aad6-7c019b4104ec",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 393,
+  "penny_rank": 4289,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=659145&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGuttersnipe",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGuttersnipe",
+    "edhrec": "https://edhrec.com/route/?cc=Guttersnipe"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DGuttersnipe%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Guttersnipe&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Guttersnipe&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

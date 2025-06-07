@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "daedbf13-fe3c-4163-8dbf-a3c2cd371036",
+  "oracle_id": "41d16975-d6c0-4343-bea2-4f360ead9a1c",
+  "multiverse_ids": [
+    563809
+  ],
+  "name": "Wild Magic Surge",
+  "printed_name": "Sobrecarga de magia salvaje",
+  "lang": "es",
+  "released_at": "2022-06-10",
+  "uri": "https://api.scryfall.com/cards/daedbf13-fe3c-4163-8dbf-a3c2cd371036",
+  "scryfall_uri": "https://scryfall.com/card/clb/206/es/sobrecarga-de-magia-salvaje-(wild-magic-surge)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/a/daedbf13-fe3c-4163-8dbf-a3c2cd371036.jpg?1739408327",
+    "normal": "https://cards.scryfall.io/normal/front/d/a/daedbf13-fe3c-4163-8dbf-a3c2cd371036.jpg?1739408327",
+    "large": "https://cards.scryfall.io/large/front/d/a/daedbf13-fe3c-4163-8dbf-a3c2cd371036.jpg?1739408327",
+    "png": "https://cards.scryfall.io/png/front/d/a/daedbf13-fe3c-4163-8dbf-a3c2cd371036.png?1739408327",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/a/daedbf13-fe3c-4163-8dbf-a3c2cd371036.jpg?1739408327",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/a/daedbf13-fe3c-4163-8dbf-a3c2cd371036.jpg?1739408327"
+  },
+  "mana_cost": "{R}{R}",
+  "cmc": 2,
+  "type_line": "Instant",
+  "printed_type_line": "Instantáneo",
+  "oracle_text": "Destroy target permanent an opponent controls. Its controller reveals cards from the top of their library until they reveal a permanent card that shares a card type with that permanent. They put that card onto the battlefield and the rest on the bottom of their library in a random order.",
+  "printed_text": "Destruye el permanente objetivo que controla un oponente. Su controlador muestra cartas de la parte superior de su biblioteca hasta que muestre una carta de permanente que comparta un tipo de carta con ese permanente. Pone esa carta en el campo de batalla y el resto en el fondo de su biblioteca en un orden aleatorio.",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set": "clb",
+  "set_name": "Commander Legends: Battle for Baldur's Gate",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/5e4c3fe8-fd57-4b20-ad56-c03790a16cea",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aclb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/clb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/daedbf13-fe3c-4163-8dbf-a3c2cd371036/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A41d16975-d6c0-4343-bea2-4f360ead9a1c&unique=prints",
+  "collector_number": "206",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dave Greco",
+  "artist_ids": [
+    "2b466c0f-fad2-46fe-adc9-0007371d01bf"
+  ],
+  "illustration_id": "66b4e62f-b185-4b60-b432-b3c03c6ec972",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1352,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=563809&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWild%2BMagic%2BSurge",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWild%2BMagic%2BSurge",
+    "edhrec": "https://edhrec.com/route/?cc=Wild+Magic+Surge"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DWild%2BMagic%2BSurge%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wild+Magic+Surge&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wild+Magic+Surge&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

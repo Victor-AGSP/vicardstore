@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "7ad95522-8ea4-4b2c-8299-132dae09ecad",
+  "oracle_id": "058dae67-807e-4542-ae51-f2b1216ffaed",
+  "multiverse_ids": [
+    662730
+  ],
+  "name": "Retrofitted Transmogrant",
+  "printed_name": "Transmutado retroalimentado",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/7ad95522-8ea4-4b2c-8299-132dae09ecad",
+  "scryfall_uri": "https://scryfall.com/card/mh3/106/es/transmutado-retroalimentado-(retrofitted-transmogrant)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/a/7ad95522-8ea4-4b2c-8299-132dae09ecad.jpg?1730222414",
+    "normal": "https://cards.scryfall.io/normal/front/7/a/7ad95522-8ea4-4b2c-8299-132dae09ecad.jpg?1730222414",
+    "large": "https://cards.scryfall.io/large/front/7/a/7ad95522-8ea4-4b2c-8299-132dae09ecad.jpg?1730222414",
+    "png": "https://cards.scryfall.io/png/front/7/a/7ad95522-8ea4-4b2c-8299-132dae09ecad.png?1730222414",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/a/7ad95522-8ea4-4b2c-8299-132dae09ecad.jpg?1730222414",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/a/7ad95522-8ea4-4b2c-8299-132dae09ecad.jpg?1730222414"
+  },
+  "mana_cost": "{B}",
+  "cmc": 1,
+  "type_line": "Artifact Creature — Zombie",
+  "printed_type_line": "Criatura artefacto — Zombie",
+  "oracle_text": "{3}{B}: Return this card from your graveyard to the battlefield tapped with two +1/+1 counters on it.",
+  "printed_text": "{3}{B}: Regresa el Transmutado retroalimentado de tu cementerio al campo de batalla girado con dos contadores +1/+1 sobre él.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7ad95522-8ea4-4b2c-8299-132dae09ecad/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A058dae67-807e-4542-ae51-f2b1216ffaed&unique=prints",
+  "collector_number": "106",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"¡Repáralo de nuevo! Necesito refuerzos para mañana\".\n—Ashnod",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Kekai Kotaki",
+  "artist_ids": [
+    "4b771085-c049-4308-930d-ec9665f803a4"
+  ],
+  "illustration_id": "d1b9edad-f15a-4901-b2f2-700fe9864a6f",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 10633,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662730&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRetrofitted%2BTransmogrant",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRetrofitted%2BTransmogrant",
+    "edhrec": "https://edhrec.com/route/?cc=Retrofitted+Transmogrant"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DRetrofitted%2BTransmogrant%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Retrofitted+Transmogrant&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Retrofitted+Transmogrant&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "2fe0a591-2c39-420b-beb5-b4b6be7335c4",
+  "oracle_id": "6950ab0f-f448-4ed1-9dd4-868cc79a5982",
+  "multiverse_ids": [
+    535434
+  ],
+  "name": "Component Collector",
+  "printed_name": "Recolector de componentes",
+  "lang": "es",
+  "released_at": "2021-09-24",
+  "uri": "https://api.scryfall.com/cards/2fe0a591-2c39-420b-beb5-b4b6be7335c4",
+  "scryfall_uri": "https://scryfall.com/card/mid/43/es/recolector-de-componentes-(component-collector)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/f/2fe0a591-2c39-420b-beb5-b4b6be7335c4.jpg?1738115417",
+    "normal": "https://cards.scryfall.io/normal/front/2/f/2fe0a591-2c39-420b-beb5-b4b6be7335c4.jpg?1738115417",
+    "large": "https://cards.scryfall.io/large/front/2/f/2fe0a591-2c39-420b-beb5-b4b6be7335c4.jpg?1738115417",
+    "png": "https://cards.scryfall.io/png/front/2/f/2fe0a591-2c39-420b-beb5-b4b6be7335c4.png?1738115417",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/f/2fe0a591-2c39-420b-beb5-b4b6be7335c4.jpg?1738115417",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/f/2fe0a591-2c39-420b-beb5-b4b6be7335c4.jpg?1738115417"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3,
+  "type_line": "Creature — Homunculus",
+  "printed_type_line": "Criatura — Homúnculo",
+  "oracle_text": "If it's neither day nor night, it becomes day as this creature enters.\nWhenever day becomes night or night becomes day, you may tap or untap target nonland permanent.",
+  "printed_text": "Si no es ni de día ni de noche, se hace de día en cuanto el Recolector de componentes entre al campo de batalla.\nSiempre que se pase del día a la noche o de la noche al día, puedes girar o enderezar el permanente objetivo que no sea tierra.",
+  "power": "1",
+  "toughness": "4",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+  "set": "mid",
+  "set_name": "Innistrad: Midnight Hunt",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amid&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mid?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2fe0a591-2c39-420b-beb5-b4b6be7335c4/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6950ab0f-f448-4ed1-9dd4-868cc79a5982&unique=prints",
+  "collector_number": "43",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Mantener ocupada a la ama con trocitos o quizá ella pensar que yo también estar hecho de trocitos\".",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mark Behm",
+  "artist_ids": [
+    "ccf77963-723f-4137-b364-7417079e8ab9"
+  ],
+  "illustration_id": "61b0ac6d-d200-49d9-b964-54e425c62dcf",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 23657,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535434&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DComponent%2BCollector",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DComponent%2BCollector",
+    "edhrec": "https://edhrec.com/route/?cc=Component+Collector"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DComponent%2BCollector%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Component+Collector&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Component+Collector&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

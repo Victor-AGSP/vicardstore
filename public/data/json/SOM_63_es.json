@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "550c8c9a-f264-46ad-9be2-2422474d2479",
+  "oracle_id": "6556a15b-be4b-45ea-867d-3a8e26202b42",
+  "multiverse_ids": [
+    232601
+  ],
+  "name": "Fume Spitter",
+  "printed_name": "Escupidor de vapores",
+  "lang": "es",
+  "released_at": "2010-10-01",
+  "uri": "https://api.scryfall.com/cards/550c8c9a-f264-46ad-9be2-2422474d2479",
+  "scryfall_uri": "https://scryfall.com/card/som/63/es/escupidor-de-vapores-(fume-spitter)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/5/550c8c9a-f264-46ad-9be2-2422474d2479.jpg?1562817677",
+    "normal": "https://cards.scryfall.io/normal/front/5/5/550c8c9a-f264-46ad-9be2-2422474d2479.jpg?1562817677",
+    "large": "https://cards.scryfall.io/large/front/5/5/550c8c9a-f264-46ad-9be2-2422474d2479.jpg?1562817677",
+    "png": "https://cards.scryfall.io/png/front/5/5/550c8c9a-f264-46ad-9be2-2422474d2479.png?1562817677",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/5/550c8c9a-f264-46ad-9be2-2422474d2479.jpg?1562817677",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/5/550c8c9a-f264-46ad-9be2-2422474d2479.jpg?1562817677"
+  },
+  "mana_cost": "{B}",
+  "cmc": 1,
+  "type_line": "Creature — Phyrexian Horror",
+  "printed_type_line": "Criatura — Horror",
+  "oracle_text": "Sacrifice this creature: Put a -1/-1 counter on target creature.",
+  "printed_text": "Sacrificar el Escupidor de vapores: Pon un contador -1/-1 sobre la criatura objetivo.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8f403072-9b22-4e69-8d59-22dc4c97fd8d",
+  "set": "som",
+  "set_name": "Scars of Mirrodin",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8f403072-9b22-4e69-8d59-22dc4c97fd8d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asom&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/som?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/550c8c9a-f264-46ad-9be2-2422474d2479/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6556a15b-be4b-45ea-867d-3a8e26202b42&unique=prints",
+  "collector_number": "63",
+  "digital": false,
+  "rarity": "common",
+  "watermark": "phyrexian",
+  "flavor_text": "\"Nuestros arqueros lo cazaron mientras intentaba subir por el barranco de escoria. Cuando cayó creímos que estábamos a salvo, pero esa maldita cosa llevaba algo más que necrógeno.\" —Adaran, cazador de la Maraña",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nils Hamm",
+  "artist_ids": [
+    "c540d1fc-1500-457f-93cf-d6069ee66546"
+  ],
+  "illustration_id": "e4b71239-02ed-46c4-9e3b-ea948bee23bb",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 9430,
+  "penny_rank": 4025,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=232601&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFume%2BSpitter",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFume%2BSpitter",
+    "edhrec": "https://edhrec.com/route/?cc=Fume+Spitter"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DFume%2BSpitter%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fume+Spitter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Fume+Spitter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "dbc68a17-8d56-454d-87f4-61d3b18124ab",
+  "oracle_id": "08bc10fd-8901-4836-ad4d-a867e1bcba77",
+  "multiverse_ids": [
+    659198
+  ],
+  "name": "Epic Experiment",
+  "printed_name": "Experimento épico",
+  "lang": "es",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/dbc68a17-8d56-454d-87f4-61d3b18124ab",
+  "scryfall_uri": "https://scryfall.com/card/otc/222/es/experimento-%C3%A9pico-(epic-experiment)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/b/dbc68a17-8d56-454d-87f4-61d3b18124ab.jpg?1730248124",
+    "normal": "https://cards.scryfall.io/normal/front/d/b/dbc68a17-8d56-454d-87f4-61d3b18124ab.jpg?1730248124",
+    "large": "https://cards.scryfall.io/large/front/d/b/dbc68a17-8d56-454d-87f4-61d3b18124ab.jpg?1730248124",
+    "png": "https://cards.scryfall.io/png/front/d/b/dbc68a17-8d56-454d-87f4-61d3b18124ab.png?1730248124",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/b/dbc68a17-8d56-454d-87f4-61d3b18124ab.jpg?1730248124",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/b/dbc68a17-8d56-454d-87f4-61d3b18124ab.jpg?1730248124"
+  },
+  "mana_cost": "{X}{U}{R}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "printed_type_line": "Conjuro",
+  "oracle_text": "Exile the top X cards of your library. You may cast instant and sorcery spells with mana value X or less from among them without paying their mana costs. Then put all cards exiled this way that weren't cast into your graveyard.",
+  "printed_text": "Exilia las X primeras cartas de tu biblioteca. Puedes lanzar hechizos de instantáneo y de conjuro con valor de maná de X o menos de entre ellas sin pagar sus costes de maná. Luego, pon en tu cementerio todas las cartas exiliadas de esta manera que no fueron lanzadas.",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/dbc68a17-8d56-454d-87f4-61d3b18124ab/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A08bc10fd-8901-4836-ad4d-a867e1bcba77&unique=prints",
+  "collector_number": "222",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dan Murayama Scott",
+  "artist_ids": [
+    "f852fa13-137e-40f2-bbc1-0f01df09c0e0"
+  ],
+  "illustration_id": "a07a3815-15c6-4984-84f8-e177b062e2e2",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5108,
+  "penny_rank": 4457,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=659198&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DEpic%2BExperiment",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DEpic%2BExperiment",
+    "edhrec": "https://edhrec.com/route/?cc=Epic+Experiment"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DEpic%2BExperiment%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Epic+Experiment&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Epic+Experiment&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "9cd11004-5b8f-4c71-bde0-eb75eed869b0",
+  "oracle_id": "68c88a4c-8c2b-4e6f-b835-7e269eb073c8",
+  "multiverse_ids": [
+    447284
+  ],
+  "mtgo_id": 68457,
+  "arena_id": 67976,
+  "tcgplayer_id": 169291,
+  "cardmarket_id": 360286,
+  "name": "Inferno Hellion",
+  "lang": "en",
+  "released_at": "2018-07-13",
+  "uri": "https://api.scryfall.com/cards/9cd11004-5b8f-4c71-bde0-eb75eed869b0",
+  "scryfall_uri": "https://scryfall.com/card/m19/148/inferno-hellion?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/c/9cd11004-5b8f-4c71-bde0-eb75eed869b0.jpg?1562303373",
+    "normal": "https://cards.scryfall.io/normal/front/9/c/9cd11004-5b8f-4c71-bde0-eb75eed869b0.jpg?1562303373",
+    "large": "https://cards.scryfall.io/large/front/9/c/9cd11004-5b8f-4c71-bde0-eb75eed869b0.jpg?1562303373",
+    "png": "https://cards.scryfall.io/png/front/9/c/9cd11004-5b8f-4c71-bde0-eb75eed869b0.png?1562303373",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/c/9cd11004-5b8f-4c71-bde0-eb75eed869b0.jpg?1562303373",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/c/9cd11004-5b8f-4c71-bde0-eb75eed869b0.jpg?1562303373"
+  },
+  "mana_cost": "{3}{R}",
+  "cmc": 4,
+  "type_line": "Creature — Hellion",
+  "oracle_text": "Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)\nAt the beginning of each end step, if this creature attacked or blocked this turn, its owner shuffles it into their library.",
+  "power": "7",
+  "toughness": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Trample"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "2f5f2509-56db-414d-9a7e-6e312ec3760c",
+  "set": "m19",
+  "set_name": "Core Set 2019",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/2f5f2509-56db-414d-9a7e-6e312ec3760c",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Am19&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/m19?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9cd11004-5b8f-4c71-bde0-eb75eed869b0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A68c88a4c-8c2b-4e6f-b835-7e269eb073c8&unique=prints",
+  "collector_number": "148",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason A. Engle",
+  "artist_ids": [
+    "02e2b5de-4341-464c-8fdb-a1adbf873bc0"
+  ],
+  "illustration_id": "f45b1fcd-ac4c-419b-a4f5-c545a240ab0c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 22054,
+  "penny_rank": 14563,
+  "prices": {
+    "usd": "0.04",
+    "usd_foil": "0.48",
+    "usd_etched": null,
+    "eur": "0.12",
+    "eur_foil": "0.32",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=447284&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DInferno%2BHellion",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DInferno%2BHellion",
+    "edhrec": "https://edhrec.com/route/?cc=Inferno+Hellion"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F169291%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Core-2019/Inferno-Hellion?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/68457?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

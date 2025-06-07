@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "6177f746-73c7-4640-80a7-8710f66c4894",
+  "oracle_id": "cfdd5dc6-593e-495a-8cfe-3a56b3c4c7df",
+  "multiverse_ids": [
+    659310
+  ],
+  "name": "Temple of the False God",
+  "printed_name": "Templo de la diosa falsa",
+  "lang": "es",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/6177f746-73c7-4640-80a7-8710f66c4894",
+  "scryfall_uri": "https://scryfall.com/card/otc/334/es/templo-de-la-diosa-falsa-(temple-of-the-false-god)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/1/6177f746-73c7-4640-80a7-8710f66c4894.jpg?1730248166",
+    "normal": "https://cards.scryfall.io/normal/front/6/1/6177f746-73c7-4640-80a7-8710f66c4894.jpg?1730248166",
+    "large": "https://cards.scryfall.io/large/front/6/1/6177f746-73c7-4640-80a7-8710f66c4894.jpg?1730248166",
+    "png": "https://cards.scryfall.io/png/front/6/1/6177f746-73c7-4640-80a7-8710f66c4894.png?1730248166",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/1/6177f746-73c7-4640-80a7-8710f66c4894.jpg?1730248166",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/1/6177f746-73c7-4640-80a7-8710f66c4894.jpg?1730248166"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "printed_type_line": "Tierra",
+  "oracle_text": "{T}: Add {C}{C}. Activate only if you control five or more lands.",
+  "printed_text": "{T}: Agrega {C}{C}. Activa esto solo si controlas cinco o más tierras.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6177f746-73c7-4640-80a7-8710f66c4894/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acfdd5dc6-593e-495a-8cfe-3a56b3c4c7df&unique=prints",
+  "collector_number": "334",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Cuando los dioses caen en la apatía, la gente venera a quienquiera que responda a sus plegarias\".\n—Kiora",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "James Zapata",
+  "artist_ids": [
+    "c93d6885-ef0f-45cc-8339-423b6f86ab8d"
+  ],
+  "illustration_id": "b142c27f-c74e-4ad4-a60e-cf37864c063f",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 60,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=659310&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTemple%2Bof%2Bthe%2BFalse%2BGod",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTemple%2Bof%2Bthe%2BFalse%2BGod",
+    "edhrec": "https://edhrec.com/route/?cc=Temple+of+the+False+God"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DTemple%2Bof%2Bthe%2BFalse%2BGod%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Temple+of+the+False+God&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Temple+of+the+False+God&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

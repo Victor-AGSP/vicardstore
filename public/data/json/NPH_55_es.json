@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "26098878-6578-48bb-8009-5d74209965d2",
+  "oracle_id": "95c76175-e3a6-4bf4-a8da-d1179851efe5",
+  "multiverse_ids": [
+    248413
+  ],
+  "name": "Dementia Bat",
+  "printed_name": "Murciélago de demencia",
+  "lang": "es",
+  "released_at": "2011-05-13",
+  "uri": "https://api.scryfall.com/cards/26098878-6578-48bb-8009-5d74209965d2",
+  "scryfall_uri": "https://scryfall.com/card/nph/55/es/murci%C3%A9lago-de-demencia-(dementia-bat)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/6/26098878-6578-48bb-8009-5d74209965d2.jpg?1562876100",
+    "normal": "https://cards.scryfall.io/normal/front/2/6/26098878-6578-48bb-8009-5d74209965d2.jpg?1562876100",
+    "large": "https://cards.scryfall.io/large/front/2/6/26098878-6578-48bb-8009-5d74209965d2.jpg?1562876100",
+    "png": "https://cards.scryfall.io/png/front/2/6/26098878-6578-48bb-8009-5d74209965d2.png?1562876100",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/6/26098878-6578-48bb-8009-5d74209965d2.jpg?1562876100",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/6/26098878-6578-48bb-8009-5d74209965d2.jpg?1562876100"
+  },
+  "mana_cost": "{4}{B}",
+  "cmc": 5,
+  "type_line": "Creature — Phyrexian Bat",
+  "printed_type_line": "Criatura — Murciélago",
+  "oracle_text": "Flying\n{4}{B}, Sacrifice this creature: Target player discards two cards.",
+  "printed_text": "Vuela.\n{4}{B}, sacrificar el Murciélago de demencia: El jugador objetivo descarta dos cartas.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "e8e356d8-6d01-4dab-aa07-d0999dc9359f",
+  "set": "nph",
+  "set_name": "New Phyrexia",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/e8e356d8-6d01-4dab-aa07-d0999dc9359f",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Anph&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/nph?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/26098878-6578-48bb-8009-5d74209965d2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A95c76175-e3a6-4bf4-a8da-d1179851efe5&unique=prints",
+  "collector_number": "55",
+  "digital": false,
+  "rarity": "common",
+  "watermark": "phyrexian",
+  "flavor_text": "\"Cuando el terror anule todos los otros pensamientos, entenderán que soy el verdadero Padre de las Máquinas.\" —Azax-Azog, el barón demonio",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Daarken",
+  "artist_ids": [
+    "e607a0d4-fc12-4c01-9e3f-501f5269b9cb"
+  ],
+  "illustration_id": "a1a5b6ea-242a-4b3d-b629-801d9a380373",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 24902,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=248413&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DDementia%2BBat",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DDementia%2BBat",
+    "edhrec": "https://edhrec.com/route/?cc=Dementia+Bat"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DDementia%2BBat%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dementia+Bat&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dementia+Bat&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

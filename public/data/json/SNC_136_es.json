@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "8dddd55a-411c-4acb-95da-9f687dc2a832",
+  "oracle_id": "5e316864-d55c-496f-8f46-773567896864",
+  "multiverse_ids": [
+    555859
+  ],
+  "name": "Broken Wings",
+  "printed_name": "Alas rotas",
+  "lang": "es",
+  "released_at": "2022-04-29",
+  "uri": "https://api.scryfall.com/cards/8dddd55a-411c-4acb-95da-9f687dc2a832",
+  "scryfall_uri": "https://scryfall.com/card/snc/136/es/alas-rotas-(broken-wings)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/d/8dddd55a-411c-4acb-95da-9f687dc2a832.jpg?1651574703",
+    "normal": "https://cards.scryfall.io/normal/front/8/d/8dddd55a-411c-4acb-95da-9f687dc2a832.jpg?1651574703",
+    "large": "https://cards.scryfall.io/large/front/8/d/8dddd55a-411c-4acb-95da-9f687dc2a832.jpg?1651574703",
+    "png": "https://cards.scryfall.io/png/front/8/d/8dddd55a-411c-4acb-95da-9f687dc2a832.png?1651574703",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/d/8dddd55a-411c-4acb-95da-9f687dc2a832.jpg?1651574703",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/d/8dddd55a-411c-4acb-95da-9f687dc2a832.jpg?1651574703"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Instant",
+  "printed_type_line": "Instantáneo",
+  "oracle_text": "Destroy target artifact, enchantment, or creature with flying.",
+  "printed_text": "Destruye el artefacto, encantamiento o criatura con la habilidad de volar objetivo.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "df837242-8c15-42e4-b049-c933a02dc501",
+  "set": "snc",
+  "set_name": "Streets of New Capenna",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/df837242-8c15-42e4-b049-c933a02dc501",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Asnc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/snc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8dddd55a-411c-4acb-95da-9f687dc2a832/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5e316864-d55c-496f-8f46-773567896864&unique=prints",
+  "collector_number": "136",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Los maestros demoníacos de Nueva Capenna no tardan en eliminar cualquier atisbo del despertar del poder de los ángeles.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Irina Nordsol",
+  "artist_ids": [
+    "1e4cb52d-476e-4c68-ac87-2e620aede6d4"
+  ],
+  "illustration_id": "68257875-2d63-46cf-a144-a2e57c468a4a",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4126,
+  "penny_rank": 6196,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=555859&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBroken%2BWings",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBroken%2BWings",
+    "edhrec": "https://edhrec.com/route/?cc=Broken+Wings"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBroken%2BWings%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Broken+Wings&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Broken+Wings&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

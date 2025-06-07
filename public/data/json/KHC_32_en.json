@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "0034ed95-a296-44c1-a084-e03c57c1865f",
+  "oracle_id": "3029df1d-d02a-4fed-8ab4-000a2096f823",
+  "multiverse_ids": [
+    508322
+  ],
+  "mtgo_id": 87969,
+  "tcgplayer_id": 231274,
+  "cardmarket_id": 535163,
+  "name": "Return to Dust",
+  "lang": "en",
+  "released_at": "2021-02-05",
+  "uri": "https://api.scryfall.com/cards/0034ed95-a296-44c1-a084-e03c57c1865f",
+  "scryfall_uri": "https://scryfall.com/card/khc/32/return-to-dust?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/0/0034ed95-a296-44c1-a084-e03c57c1865f.jpg?1631234174",
+    "normal": "https://cards.scryfall.io/normal/front/0/0/0034ed95-a296-44c1-a084-e03c57c1865f.jpg?1631234174",
+    "large": "https://cards.scryfall.io/large/front/0/0/0034ed95-a296-44c1-a084-e03c57c1865f.jpg?1631234174",
+    "png": "https://cards.scryfall.io/png/front/0/0/0034ed95-a296-44c1-a084-e03c57c1865f.png?1631234174",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/0/0034ed95-a296-44c1-a084-e03c57c1865f.jpg?1631234174",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/0/0034ed95-a296-44c1-a084-e03c57c1865f.jpg?1631234174"
+  },
+  "mana_cost": "{2}{W}{W}",
+  "cmc": 4,
+  "type_line": "Instant",
+  "oracle_text": "Exile target artifact or enchantment. If you cast this spell during your main phase, you may exile up to one other target artifact or enchantment.",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d532ef25-e52b-4276-941a-3a1c095544b0",
+  "set": "khc",
+  "set_name": "Kaldheim Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d532ef25-e52b-4276-941a-3a1c095544b0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Akhc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/khc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0034ed95-a296-44c1-a084-e03c57c1865f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3029df1d-d02a-4fed-8ab4-000a2096f823&unique=prints",
+  "collector_number": "32",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Some timelines forever fray, branch, and intermingle. Others end abruptly.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Wayne Reynolds",
+  "artist_ids": [
+    "afc47cec-3ccc-404e-a8c6-4d83dd504271"
+  ],
+  "illustration_id": "d39e220c-6bfb-412b-802b-2343901947bb",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 937,
+  "penny_rank": 5940,
+  "prices": {
+    "usd": "0.07",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.12",
+    "eur_foil": null,
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=508322&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DReturn%2Bto%2BDust",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DReturn%2Bto%2BDust",
+    "edhrec": "https://edhrec.com/route/?cc=Return+to+Dust"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F231274%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Commander-Kaldheim/Return-to-Dust?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/87969?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

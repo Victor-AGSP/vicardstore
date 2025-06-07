@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "db154795-f810-41f8-b2d9-e2f5d4754db6",
+  "oracle_id": "4ab565bb-3188-4d23-93d8-5de67fc0d056",
+  "multiverse_ids": [
+    662723
+  ],
+  "name": "Lethal Throwdown",
+  "printed_name": "Lanzamiento letal",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/db154795-f810-41f8-b2d9-e2f5d4754db6",
+  "scryfall_uri": "https://scryfall.com/card/mh3/99/es/lanzamiento-letal-(lethal-throwdown)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/b/db154795-f810-41f8-b2d9-e2f5d4754db6.jpg?1730222375",
+    "normal": "https://cards.scryfall.io/normal/front/d/b/db154795-f810-41f8-b2d9-e2f5d4754db6.jpg?1730222375",
+    "large": "https://cards.scryfall.io/large/front/d/b/db154795-f810-41f8-b2d9-e2f5d4754db6.jpg?1730222375",
+    "png": "https://cards.scryfall.io/png/front/d/b/db154795-f810-41f8-b2d9-e2f5d4754db6.png?1730222375",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/b/db154795-f810-41f8-b2d9-e2f5d4754db6.jpg?1730222375",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/b/db154795-f810-41f8-b2d9-e2f5d4754db6.jpg?1730222375"
+  },
+  "mana_cost": "{B}",
+  "cmc": 1,
+  "type_line": "Sorcery",
+  "printed_type_line": "Conjuro",
+  "oracle_text": "As an additional cost to cast this spell, sacrifice a creature or sacrifice a modified creature. (Equipment, Auras you control, and counters are modifications.)\nDestroy target creature or planeswalker. If the modified creature was sacrificed, draw a card.",
+  "printed_text": "Como coste adicional para lanzar este hechizo, sacrifica una criatura o sacrifica una criatura modificada. (Las Auras que controlas, los Equipos y los contadores son modificaciones.)\nDestruye la criatura o planeswalker objetivo. Si se sacrificó la criatura modificada, roba una carta.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/db154795-f810-41f8-b2d9-e2f5d4754db6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A4ab565bb-3188-4d23-93d8-5de67fc0d056&unique=prints",
+  "collector_number": "99",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Aaron J. Riley",
+  "artist_ids": [
+    "f21b412c-aef5-4d15-88be-4f40615acde3"
+  ],
+  "illustration_id": "c25d0e63-f447-4594-a957-d66b5c3f72d1",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 15839,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662723&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLethal%2BThrowdown",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLethal%2BThrowdown",
+    "edhrec": "https://edhrec.com/route/?cc=Lethal+Throwdown"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DLethal%2BThrowdown%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Lethal+Throwdown&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Lethal+Throwdown&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

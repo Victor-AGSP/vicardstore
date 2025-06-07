@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "4da51183-6658-4bf3-b54e-330e2b3e8e22",
+  "oracle_id": "755bd5d8-67f1-4f24-a4e8-d98edf2f2e03",
+  "multiverse_ids": [
+    659073
+  ],
+  "name": "Finale of Revelation",
+  "printed_name": "Final de revelación",
+  "lang": "es",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/4da51183-6658-4bf3-b54e-330e2b3e8e22",
+  "scryfall_uri": "https://scryfall.com/card/otc/97/es/final-de-revelaci%C3%B3n-(finale-of-revelation)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/d/4da51183-6658-4bf3-b54e-330e2b3e8e22.jpg?1730248078",
+    "normal": "https://cards.scryfall.io/normal/front/4/d/4da51183-6658-4bf3-b54e-330e2b3e8e22.jpg?1730248078",
+    "large": "https://cards.scryfall.io/large/front/4/d/4da51183-6658-4bf3-b54e-330e2b3e8e22.jpg?1730248078",
+    "png": "https://cards.scryfall.io/png/front/4/d/4da51183-6658-4bf3-b54e-330e2b3e8e22.png?1730248078",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/d/4da51183-6658-4bf3-b54e-330e2b3e8e22.jpg?1730248078",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/d/4da51183-6658-4bf3-b54e-330e2b3e8e22.jpg?1730248078"
+  },
+  "mana_cost": "{X}{U}{U}",
+  "cmc": 2,
+  "type_line": "Sorcery",
+  "printed_type_line": "Conjuro",
+  "oracle_text": "Draw X cards. If X is 10 or more, instead shuffle your graveyard into your library, draw X cards, untap up to five lands, and you have no maximum hand size for the rest of the game.\nExile Finale of Revelation.",
+  "printed_text": "Roba X cartas. Si X es 10 o más, en vez de eso, baraja tu cementerio en tu biblioteca, roba X cartas, endereza hasta cinco tierras y tu mano no tiene tamaño máximo durante el resto del juego.\nExilia el Final de revelación.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4da51183-6658-4bf3-b54e-330e2b3e8e22/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A755bd5d8-67f1-4f24-a4e8-d98edf2f2e03&unique=prints",
+  "collector_number": "97",
+  "digital": false,
+  "rarity": "mythic",
+  "flavor_text": "Ugin vio que la gema que conectaba a Nicol Bolas con su Reino de Meditación sería la clave de la caída de su hermano.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Johann Bodin",
+  "artist_ids": [
+    "d92e2dd9-9ef6-43f6-81f8-df87f9066983"
+  ],
+  "illustration_id": "dda5c507-c1f2-4211-9892-dae19190c870",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1349,
+  "penny_rank": 2554,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=659073&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFinale%2Bof%2BRevelation",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFinale%2Bof%2BRevelation",
+    "edhrec": "https://edhrec.com/route/?cc=Finale+of+Revelation"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DFinale%2Bof%2BRevelation%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Finale+of+Revelation&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Finale+of+Revelation&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

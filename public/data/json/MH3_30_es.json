@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "3a76630e-e141-45f4-b593-e42b063f35f3",
+  "oracle_id": "0a467e75-f68d-4ad0-85ff-b8516de8d5bc",
+  "multiverse_ids": [
+    662654
+  ],
+  "name": "Hexgold Slith",
+  "printed_name": "Slit de hexoro",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/3a76630e-e141-45f4-b593-e42b063f35f3",
+  "scryfall_uri": "https://scryfall.com/card/mh3/30/es/slit-de-hexoro-(hexgold-slith)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/a/3a76630e-e141-45f4-b593-e42b063f35f3.jpg?1730222022",
+    "normal": "https://cards.scryfall.io/normal/front/3/a/3a76630e-e141-45f4-b593-e42b063f35f3.jpg?1730222022",
+    "large": "https://cards.scryfall.io/large/front/3/a/3a76630e-e141-45f4-b593-e42b063f35f3.jpg?1730222022",
+    "png": "https://cards.scryfall.io/png/front/3/a/3a76630e-e141-45f4-b593-e42b063f35f3.png?1730222022",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/a/3a76630e-e141-45f4-b593-e42b063f35f3.jpg?1730222022",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/a/3a76630e-e141-45f4-b593-e42b063f35f3.jpg?1730222022"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Creature — Slith",
+  "printed_type_line": "Criatura — Slit",
+  "oracle_text": "When this creature enters, you get {E}{E} (two energy counters).\nWhenever this creature attacks, you may pay {E}{E}. If you do, it gains first strike until end of turn.\nWhenever this creature deals combat damage to a player, put a +1/+1 counter on it.",
+  "printed_text": "Cuando el Slit de hexoro entre al campo de batalla, obtienes {E}{E} (dos contadores de energía).\nSiempre que el Slit de hexoro ataque, puedes pagar {E}{E}. Si lo haces, gana la habilidad de dañar primero hasta el final del turno.\nSiempre que el Slit de hexoro haga daño de combate a un jugador, pon un contador +1/+1 sobre él.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3a76630e-e141-45f4-b593-e42b063f35f3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0a467e75-f68d-4ad0-85ff-b8516de8d5bc&unique=prints",
+  "collector_number": "30",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Michele Giorgi",
+  "artist_ids": [
+    "60ff7459-c81d-41e6-bec1-4264c2161014"
+  ],
+  "illustration_id": "5440c3f9-77a3-4ebd-b217-c30f3c8a8a05",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 20612,
+  "penny_rank": 11521,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662654&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHexgold%2BSlith",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHexgold%2BSlith",
+    "edhrec": "https://edhrec.com/route/?cc=Hexgold+Slith"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DHexgold%2BSlith%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hexgold+Slith&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hexgold+Slith&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

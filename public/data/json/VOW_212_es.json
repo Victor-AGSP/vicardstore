@@ -1,0 +1,168 @@
+{
+  "object": "card",
+  "id": "516133dd-fef6-4598-a7eb-da29472b9e22",
+  "oracle_id": "1b639537-a8fe-4615-b937-afa478fdec0f",
+  "multiverse_ids": [
+    541710
+  ],
+  "cardmarket_id": 583226,
+  "name": "Oakshade Stalker // Moonlit Ambusher",
+  "lang": "es",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/516133dd-fef6-4598-a7eb-da29472b9e22",
+  "scryfall_uri": "https://scryfall.com/card/vow/212/es/acechador-sombrarroble-emboscador-bajo-la-luna-(oakshade-stalker-moonlit-ambusher)?utm_source=api",
+  "layout": "transform",
+  "highres_image": false,
+  "image_status": "lowres",
+  "cmc": 3,
+  "type_line": "Creature — Human Ranger Werewolf // Creature — Werewolf",
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Daybound",
+    "Nightbound"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Oakshade Stalker",
+      "printed_name": "Acechador sombrarroble",
+      "mana_cost": "{2}{G}",
+      "type_line": "Creature — Human Ranger Werewolf",
+      "printed_type_line": "Criatura — Guardabosque licántropo humano",
+      "oracle_text": "You may cast this spell as though it had flash if you pay {2} more to cast it.\nDaybound (If a player casts no spells during their own turn, it becomes night next turn.)",
+      "printed_text": "Puedes lanzar este hechizo como si tuviera la habilidad de destello si pagas {2} más para lanzarlo.\nDiurno. (Si un jugador no lanza ningún hechizo durante su propio turno, se hace de noche al turno siguiente.)",
+      "colors": [
+        "G"
+      ],
+      "power": "3",
+      "toughness": "3",
+      "flavor_text": "Se mimetiza completamente con el bosque y espera en silencio a su presa.",
+      "artist": "Alexander Mokhov",
+      "artist_id": "3a6a9d37-e62c-44bd-90f2-f5126324e3f0",
+      "illustration_id": "f3ebe86f-47c7-4a6c-97cc-f6fe07f47538",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/5/1/516133dd-fef6-4598-a7eb-da29472b9e22.jpg?1741133839",
+        "normal": "https://cards.scryfall.io/normal/front/5/1/516133dd-fef6-4598-a7eb-da29472b9e22.jpg?1741133839",
+        "large": "https://cards.scryfall.io/large/front/5/1/516133dd-fef6-4598-a7eb-da29472b9e22.jpg?1741133839",
+        "png": "https://cards.scryfall.io/png/front/5/1/516133dd-fef6-4598-a7eb-da29472b9e22.png?1741133839",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/5/1/516133dd-fef6-4598-a7eb-da29472b9e22.jpg?1741133839",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/5/1/516133dd-fef6-4598-a7eb-da29472b9e22.jpg?1741133839"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Moonlit Ambusher",
+      "printed_name": "Emboscador bajo la luna",
+      "mana_cost": "",
+      "type_line": "Creature — Werewolf",
+      "printed_type_line": "Criatura — Licántropo",
+      "oracle_text": "Nightbound (If a player casts at least two spells during their own turn, it becomes day next turn.)",
+      "printed_text": "Nocturno. (Si un jugador lanza al menos dos hechizos durante su propio turno, se hace de día al turno siguiente.)",
+      "colors": [
+        "G"
+      ],
+      "color_indicator": [
+        "G"
+      ],
+      "power": "6",
+      "toughness": "3",
+      "flavor_text": "Incluso cuando ataca, solo se oyen sus colmillos atravesando huesos.",
+      "artist": "Alexander Mokhov",
+      "artist_id": "3a6a9d37-e62c-44bd-90f2-f5126324e3f0",
+      "illustration_id": "37c0a47d-3350-42db-8ac1-1f68ff4eaa74",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/5/1/516133dd-fef6-4598-a7eb-da29472b9e22.jpg?1741133839",
+        "normal": "https://cards.scryfall.io/normal/back/5/1/516133dd-fef6-4598-a7eb-da29472b9e22.jpg?1741133839",
+        "large": "https://cards.scryfall.io/large/back/5/1/516133dd-fef6-4598-a7eb-da29472b9e22.jpg?1741133839",
+        "png": "https://cards.scryfall.io/png/back/5/1/516133dd-fef6-4598-a7eb-da29472b9e22.png?1741133839",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/5/1/516133dd-fef6-4598-a7eb-da29472b9e22.jpg?1741133839",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/5/1/516133dd-fef6-4598-a7eb-da29472b9e22.jpg?1741133839"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/516133dd-fef6-4598-a7eb-da29472b9e22/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1b639537-a8fe-4615-b937-afa478fdec0f&unique=prints",
+  "collector_number": "212",
+  "digital": false,
+  "rarity": "uncommon",
+  "artist": "Alexander Mokhov",
+  "artist_ids": [
+    "3a6a9d37-e62c-44bd-90f2-f5126324e3f0"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 20045,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.06",
+    "eur_foil": "0.10",
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541710&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DOakshade%2BStalker%2B%252F%252F%2BMoonlit%2BAmbusher",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DOakshade%2BStalker%2B%252F%252F%2BMoonlit%2BAmbusher",
+    "edhrec": "https://edhrec.com/route/?cc=Oakshade+Stalker"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DOakshade%2BStalker%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Innistrad-Crimson-Vow/Oakshade-Stalker-Moonlit-Ambusher?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Oakshade+Stalker&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

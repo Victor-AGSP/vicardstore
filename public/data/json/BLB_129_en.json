@@ -1,0 +1,136 @@
+{
+  "object": "card",
+  "id": "f41fc718-641b-4f32-a8c1-3e5591a05bf8",
+  "oracle_id": "a864b032-6e1a-4211-ad6e-54a5a5c7321b",
+  "multiverse_ids": [
+    669043
+  ],
+  "mtgo_id": 129503,
+  "arena_id": 91665,
+  "tcgplayer_id": 559070,
+  "cardmarket_id": 778102,
+  "name": "Byway Barterer",
+  "lang": "en",
+  "released_at": "2024-08-02",
+  "uri": "https://api.scryfall.com/cards/f41fc718-641b-4f32-a8c1-3e5591a05bf8",
+  "scryfall_uri": "https://scryfall.com/card/blb/129/byway-barterer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/4/f41fc718-641b-4f32-a8c1-3e5591a05bf8.jpg?1721426591",
+    "normal": "https://cards.scryfall.io/normal/front/f/4/f41fc718-641b-4f32-a8c1-3e5591a05bf8.jpg?1721426591",
+    "large": "https://cards.scryfall.io/large/front/f/4/f41fc718-641b-4f32-a8c1-3e5591a05bf8.jpg?1721426591",
+    "png": "https://cards.scryfall.io/png/front/f/4/f41fc718-641b-4f32-a8c1-3e5591a05bf8.png?1721426591",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/4/f41fc718-641b-4f32-a8c1-3e5591a05bf8.jpg?1721426591",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/4/f41fc718-641b-4f32-a8c1-3e5591a05bf8.jpg?1721426591"
+  },
+  "mana_cost": "{2}{R}",
+  "cmc": 3,
+  "type_line": "Creature — Raccoon Rogue",
+  "oracle_text": "Menace\nWhenever you expend 4, you may discard your hand. If you do, draw two cards. (You expend 4 as you spend your fourth total mana to cast spells during a turn.)",
+  "power": "3",
+  "toughness": "3",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Menace"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a2f58272-bba6-439d-871e-7a46686ac018",
+  "set": "blb",
+  "set_name": "Bloomburrow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/a2f58272-bba6-439d-871e-7a46686ac018",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Ablb&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/blb?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f41fc718-641b-4f32-a8c1-3e5591a05bf8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa864b032-6e1a-4211-ad6e-54a5a5c7321b&unique=prints",
+  "collector_number": "129",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"This trinket has saved my hide more times than I can count. I couldn't possibly let it go for less than say . . . four acorns.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Ryan Pancoast",
+  "artist_ids": [
+    "89cc9475-dda2-4d13-bf88-54b92867a25c"
+  ],
+  "illustration_id": "66a32957-1973-4a44-a305-f0090855c5cb",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 12036,
+  "penny_rank": 11084,
+  "preview": {
+    "source": "k0ppk0pp",
+    "source_uri": "https://twitter.com/k0ppk0pp/status/1811500013081756088",
+    "previewed_at": "2024-07-11"
+  },
+  "prices": {
+    "usd": "0.11",
+    "usd_foil": "0.17",
+    "usd_etched": null,
+    "eur": "0.20",
+    "eur_foil": "0.24",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=669043&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DByway%2BBarterer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DByway%2BBarterer",
+    "edhrec": "https://edhrec.com/route/?cc=Byway+Barterer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F559070%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Bloomburrow/Byway-Barterer?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/129503?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

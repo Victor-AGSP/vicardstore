@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "7325e2f9-8b86-471e-accd-cc4d0d70958c",
+  "oracle_id": "28196fd9-00c9-4cd0-b603-0eec8511ec79",
+  "multiverse_ids": [
+    662842
+  ],
+  "name": "Contaminated Landscape",
+  "printed_name": "Paisaje contaminado",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/7325e2f9-8b86-471e-accd-cc4d0d70958c",
+  "scryfall_uri": "https://scryfall.com/card/mh3/218/es/paisaje-contaminado-(contaminated-landscape)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/3/7325e2f9-8b86-471e-accd-cc4d0d70958c.jpg?1730223051",
+    "normal": "https://cards.scryfall.io/normal/front/7/3/7325e2f9-8b86-471e-accd-cc4d0d70958c.jpg?1730223051",
+    "large": "https://cards.scryfall.io/large/front/7/3/7325e2f9-8b86-471e-accd-cc4d0d70958c.jpg?1730223051",
+    "png": "https://cards.scryfall.io/png/front/7/3/7325e2f9-8b86-471e-accd-cc4d0d70958c.png?1730223051",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/3/7325e2f9-8b86-471e-accd-cc4d0d70958c.jpg?1730223051",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/3/7325e2f9-8b86-471e-accd-cc4d0d70958c.jpg?1730223051"
+  },
+  "mana_cost": "",
+  "cmc": 0,
+  "type_line": "Land",
+  "printed_type_line": "Tierra",
+  "oracle_text": "{T}: Add {C}.\n{T}, Sacrifice this land: Search your library for a basic Plains, Island, or Swamp card, put it onto the battlefield tapped, then shuffle.\nCycling {W}{U}{B} ({W}{U}{B}, Discard this card: Draw a card.)",
+  "printed_text": "{T}: Agrega {C}.\n{T}, sacrificar el Paisaje contaminado: Busca en tu biblioteca una carta de Llanura, Isla o Pantano básica, ponla en el campo de batalla girada y luego baraja.\nCiclo {W}{U}{B}. ({W}{U}{B}, descartar esta carta: Roba una carta.)",
+  "colors": [],
+  "color_identity": [
+    "B",
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Cycling"
+  ],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/7325e2f9-8b86-471e-accd-cc4d0d70958c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A28196fd9-00c9-4cd0-b603-0eec8511ec79&unique=prints",
+  "collector_number": "218",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Donato Giancola",
+  "artist_ids": [
+    "90332db2-aecb-4d79-917b-95cbeb8d0cb6"
+  ],
+  "illustration_id": "5bf903b9-626f-4d8f-ad9b-c6b81f3809f9",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2754,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662842&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DContaminated%2BLandscape",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DContaminated%2BLandscape",
+    "edhrec": "https://edhrec.com/route/?cc=Contaminated+Landscape"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DContaminated%2BLandscape%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Contaminated+Landscape&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Contaminated+Landscape&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

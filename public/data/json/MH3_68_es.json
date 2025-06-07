@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "cd4818fd-e7d8-4b02-b3cc-c2d0d4133748",
+  "oracle_id": "359a570e-92a7-4954-9a05-89cc75df57e7",
+  "multiverse_ids": [
+    662692
+  ],
+  "name": "Sage of the Unknowable",
+  "printed_name": "Sabia de lo desconocido",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/cd4818fd-e7d8-4b02-b3cc-c2d0d4133748",
+  "scryfall_uri": "https://scryfall.com/card/mh3/68/es/sabia-de-lo-desconocido-(sage-of-the-unknowable)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/d/cd4818fd-e7d8-4b02-b3cc-c2d0d4133748.jpg?1730222209",
+    "normal": "https://cards.scryfall.io/normal/front/c/d/cd4818fd-e7d8-4b02-b3cc-c2d0d4133748.jpg?1730222209",
+    "large": "https://cards.scryfall.io/large/front/c/d/cd4818fd-e7d8-4b02-b3cc-c2d0d4133748.jpg?1730222209",
+    "png": "https://cards.scryfall.io/png/front/c/d/cd4818fd-e7d8-4b02-b3cc-c2d0d4133748.png?1730222209",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/d/cd4818fd-e7d8-4b02-b3cc-c2d0d4133748.jpg?1730222209",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/d/cd4818fd-e7d8-4b02-b3cc-c2d0d4133748.jpg?1730222209"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Creature — Human Wizard",
+  "printed_type_line": "Criatura — Hechicero humano",
+  "oracle_text": "{T}: Add {C}. Spend this mana only to cast a colorless spell or to activate an ability.",
+  "printed_text": "{T}: Agrega {C}. Usa este maná solo para lanzar un hechizo incoloro o activar una habilidad.",
+  "power": "0",
+  "toughness": "4",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/cd4818fd-e7d8-4b02-b3cc-c2d0d4133748/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A359a570e-92a7-4954-9a05-89cc75df57e7&unique=prints",
+  "collector_number": "68",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Algún día caminaremos por la Eternidad Invisible y veremos las verdades que nos aguardan más allá del opresivo velo de la realidad\".",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Josu Hernaiz",
+  "artist_ids": [
+    "74246024-92b4-43d0-a5af-a3f9f2a35d5f"
+  ],
+  "illustration_id": "7d57c0a6-32cd-41c8-a85a-a891d8470f0b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 19323,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662692&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSage%2Bof%2Bthe%2BUnknowable",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSage%2Bof%2Bthe%2BUnknowable",
+    "edhrec": "https://edhrec.com/route/?cc=Sage+of+the+Unknowable"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSage%2Bof%2Bthe%2BUnknowable%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sage+of+the+Unknowable&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sage+of+the+Unknowable&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

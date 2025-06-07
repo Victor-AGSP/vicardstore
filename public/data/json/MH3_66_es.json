@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "2358a455-c0c8-4220-8f70-5c04ad16ff7c",
+  "oracle_id": "bd9b3009-f389-4831-b250-80c4bb8f25e5",
+  "multiverse_ids": [
+    662690
+  ],
+  "name": "Petrifying Meddler",
+  "printed_name": "Entrometido petrificador",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/2358a455-c0c8-4220-8f70-5c04ad16ff7c",
+  "scryfall_uri": "https://scryfall.com/card/mh3/66/es/entrometido-petrificador-(petrifying-meddler)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/3/2358a455-c0c8-4220-8f70-5c04ad16ff7c.jpg?1730222199",
+    "normal": "https://cards.scryfall.io/normal/front/2/3/2358a455-c0c8-4220-8f70-5c04ad16ff7c.jpg?1730222199",
+    "large": "https://cards.scryfall.io/large/front/2/3/2358a455-c0c8-4220-8f70-5c04ad16ff7c.jpg?1730222199",
+    "png": "https://cards.scryfall.io/png/front/2/3/2358a455-c0c8-4220-8f70-5c04ad16ff7c.png?1730222199",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/3/2358a455-c0c8-4220-8f70-5c04ad16ff7c.jpg?1730222199",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/3/2358a455-c0c8-4220-8f70-5c04ad16ff7c.jpg?1730222199"
+  },
+  "mana_cost": "{4}{U}",
+  "cmc": 5,
+  "type_line": "Creature — Eldrazi",
+  "printed_type_line": "Criatura — Eldrazi",
+  "oracle_text": "Devoid (This card has no color.)\nWhen you cast this spell, tap up to one target creature and put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)\nReach",
+  "printed_text": "Vacío. (Esta carta no tiene ningún color.)\nCuando lances este hechizo, gira hasta una criatura objetivo y pon un contador de aturdimiento sobre ella. (Si un permanente con un contador de aturdimiento fuera a enderezarse, en vez de eso, remueve uno de esos contadores de él.)\nAlcance.",
+  "power": "4",
+  "toughness": "5",
+  "colors": [],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Reach",
+    "Devoid"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2358a455-c0c8-4220-8f70-5c04ad16ff7c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abd9b3009-f389-4831-b250-80c4bb8f25e5&unique=prints",
+  "collector_number": "66",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mathias Kollros",
+  "artist_ids": [
+    "2ae0dd12-047c-4efb-80d7-bccc3bac5fba"
+  ],
+  "illustration_id": "0a8d2c4f-6f9a-4e68-a6a3-6c73c53ec73a",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "devoid"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 18037,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662690&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPetrifying%2BMeddler",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPetrifying%2BMeddler",
+    "edhrec": "https://edhrec.com/route/?cc=Petrifying+Meddler"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DPetrifying%2BMeddler%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Petrifying+Meddler&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Petrifying+Meddler&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

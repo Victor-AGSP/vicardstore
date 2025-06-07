@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "07fdb857-0efd-46bb-93db-cbf41fa736c0",
+  "oracle_id": "63765157-e2ba-4cec-9501-8a405259de5b",
+  "multiverse_ids": [
+    662701
+  ],
+  "name": "Unfathomable Truths",
+  "printed_name": "Verdades incomprensibles",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/07fdb857-0efd-46bb-93db-cbf41fa736c0",
+  "scryfall_uri": "https://scryfall.com/card/mh3/77/es/verdades-incomprensibles-(unfathomable-truths)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/7/07fdb857-0efd-46bb-93db-cbf41fa736c0.jpg?1730222248",
+    "normal": "https://cards.scryfall.io/normal/front/0/7/07fdb857-0efd-46bb-93db-cbf41fa736c0.jpg?1730222248",
+    "large": "https://cards.scryfall.io/large/front/0/7/07fdb857-0efd-46bb-93db-cbf41fa736c0.jpg?1730222248",
+    "png": "https://cards.scryfall.io/png/front/0/7/07fdb857-0efd-46bb-93db-cbf41fa736c0.png?1730222248",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/7/07fdb857-0efd-46bb-93db-cbf41fa736c0.jpg?1730222248",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/7/07fdb857-0efd-46bb-93db-cbf41fa736c0.jpg?1730222248"
+  },
+  "mana_cost": "{4}{U}",
+  "cmc": 5,
+  "type_line": "Instant",
+  "printed_type_line": "Instantáneo",
+  "oracle_text": "Devoid (This card has no color.)\nDraw three cards and create a 0/1 colorless Eldrazi Spawn creature token with \"Sacrifice this token: Add {C}.\"",
+  "printed_text": "Vacío. (Esta carta no tiene ningún color.)\nRoba tres cartas y crea una ficha de criatura Engendro Eldrazi incolora 0/1 con \"Sacrificar esta criatura: Agrega {C}\".",
+  "colors": [],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Devoid"
+  ],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/07fdb857-0efd-46bb-93db-cbf41fa736c0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A63765157-e2ba-4cec-9501-8a405259de5b&unique=prints",
+  "collector_number": "77",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Quizá todos seamos productos de la imaginación de Kozilek\".\n—Anowon, el Sabio de las Ruinas",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Drew Tucker",
+  "artist_ids": [
+    "22eef389-7b21-4dda-95dc-4c9a0f1bf4dd"
+  ],
+  "illustration_id": "55fde99d-99a7-45c7-a39b-326aa1f22958",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "devoid"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 9628,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662701&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DUnfathomable%2BTruths",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DUnfathomable%2BTruths",
+    "edhrec": "https://edhrec.com/route/?cc=Unfathomable+Truths"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DUnfathomable%2BTruths%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Unfathomable+Truths&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Unfathomable+Truths&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

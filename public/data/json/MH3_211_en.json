@@ -1,0 +1,151 @@
+{
+  "object": "card",
+  "id": "b87315b3-d3a3-4eef-8a20-90587b36f551",
+  "oracle_id": "cb377c27-39a6-42b4-8c89-80a9a2350e81",
+  "multiverse_ids": [
+    662363
+  ],
+  "mtgo_id": 126441,
+  "arena_id": 91062,
+  "tcgplayer_id": 552865,
+  "cardmarket_id": 772233,
+  "name": "Solar Transformer",
+  "lang": "en",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/b87315b3-d3a3-4eef-8a20-90587b36f551",
+  "scryfall_uri": "https://scryfall.com/card/mh3/211/solar-transformer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/8/b87315b3-d3a3-4eef-8a20-90587b36f551.jpg?1717012910",
+    "normal": "https://cards.scryfall.io/normal/front/b/8/b87315b3-d3a3-4eef-8a20-90587b36f551.jpg?1717012910",
+    "large": "https://cards.scryfall.io/large/front/b/8/b87315b3-d3a3-4eef-8a20-90587b36f551.jpg?1717012910",
+    "png": "https://cards.scryfall.io/png/front/b/8/b87315b3-d3a3-4eef-8a20-90587b36f551.png?1717012910",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/8/b87315b3-d3a3-4eef-8a20-90587b36f551.jpg?1717012910",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/8/b87315b3-d3a3-4eef-8a20-90587b36f551.jpg?1717012910"
+  },
+  "mana_cost": "{2}",
+  "cmc": 2,
+  "type_line": "Artifact",
+  "oracle_text": "This artifact enters tapped.\nWhen this artifact enters, you get {E}{E}{E} (three energy counters).\n{T}: Add {C}.\n{T}, Pay {E}: Add one mana of any color.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "C",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "1c516212-ad39-4396-8e05-ae57f100309f",
+      "component": "combo_piece",
+      "name": "Energy Reserve",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/1c516212-ad39-4396-8e05-ae57f100309f"
+    },
+    {
+      "object": "related_card",
+      "id": "64a2f68d-7192-407b-a59f-efa8578d9975",
+      "component": "combo_piece",
+      "name": "Solar Transformer",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/64a2f68d-7192-407b-a59f-efa8578d9975"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b87315b3-d3a3-4eef-8a20-90587b36f551/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acb377c27-39a6-42b4-8c89-80a9a2350e81&unique=prints",
+  "collector_number": "211",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mike Bierek",
+  "artist_ids": [
+    "e5f52ef5-1a2e-4128-90b0-ccc71cd47ea7"
+  ],
+  "illustration_id": "a545735b-f385-4f46-9b90-567a384299a5",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 3724,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://magic.wizards.com/en/products/modern-horizons-3/card-image-gallery",
+    "previewed_at": "2024-05-28"
+  },
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": "0.31",
+    "usd_etched": null,
+    "eur": "0.14",
+    "eur_foil": "0.29",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662363&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSolar%2BTransformer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSolar%2BTransformer",
+    "edhrec": "https://edhrec.com/route/?cc=Solar+Transformer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F552865%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Singles/Modern-Horizons-3/Solar-Transformer?referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/126441?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

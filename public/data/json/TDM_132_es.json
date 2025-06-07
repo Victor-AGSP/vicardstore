@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "c6107a93-c234-4bc9-877a-024c136d0dd0",
+  "oracle_id": "61978202-538b-4f92-acfc-e95f4a6ce466",
+  "multiverse_ids": [
+    694154
+  ],
+  "name": "Wild Ride",
+  "printed_name": "Descenso desenfrenado",
+  "lang": "es",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/c6107a93-c234-4bc9-877a-024c136d0dd0",
+  "scryfall_uri": "https://scryfall.com/card/tdm/132/es/descenso-desenfrenado-(wild-ride)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/6/c6107a93-c234-4bc9-877a-024c136d0dd0.jpg?1744676941",
+    "normal": "https://cards.scryfall.io/normal/front/c/6/c6107a93-c234-4bc9-877a-024c136d0dd0.jpg?1744676941",
+    "large": "https://cards.scryfall.io/large/front/c/6/c6107a93-c234-4bc9-877a-024c136d0dd0.jpg?1744676941",
+    "png": "https://cards.scryfall.io/png/front/c/6/c6107a93-c234-4bc9-877a-024c136d0dd0.png?1744676941",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/6/c6107a93-c234-4bc9-877a-024c136d0dd0.jpg?1744676941",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/6/c6107a93-c234-4bc9-877a-024c136d0dd0.jpg?1744676941"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1,
+  "type_line": "Sorcery",
+  "printed_type_line": "Conjuro",
+  "oracle_text": "Target creature gets +3/+0 and gains haste until end of turn.\nHarmonize {4}{R} (You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by {X}, where X is its power. Then exile this spell.)",
+  "printed_text": "La criatura objetivo obtiene +3/+0 y gana la habilidad de prisa hasta el final del turno.\nArmonizar {4}{R}. (Puedes lanzar esta carta desde tu cementerio pagando su coste de armonizar. Puedes girar una criatura que controlas para reducir ese coste en {X}, donde X es su fuerza. Luego, exilia este hechizo.)",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Harmonize"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set": "tdm",
+  "set_name": "Tarkir: Dragonstorm",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c6107a93-c234-4bc9-877a-024c136d0dd0/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A61978202-538b-4f92-acfc-e95f4a6ce466&unique=prints",
+  "collector_number": "132",
+  "digital": false,
+  "rarity": "common",
+  "watermark": "temur",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Filipe Pagliuso",
+  "artist_ids": [
+    "64c537b4-a864-4051-9a24-fbdd22cb40b4"
+  ],
+  "illustration_id": "c5a88511-30c6-43ca-aded-6583e7d43d0b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 12427,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694154&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWild%2BRide",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWild%2BRide",
+    "edhrec": "https://edhrec.com/route/?cc=Wild+Ride"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DWild%2BRide%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wild+Ride&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wild+Ride&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

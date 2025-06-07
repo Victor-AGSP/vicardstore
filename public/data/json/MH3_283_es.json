@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "6ed3a4e6-f12c-4592-a12a-6f6e6c6ffd3c",
+  "oracle_id": "c6a607f2-4228-4bcc-84ed-37bd362d7542",
+  "multiverse_ids": [
+    664146
+  ],
+  "name": "Meteoric Mace",
+  "printed_name": "Maza meteórica",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/6ed3a4e6-f12c-4592-a12a-6f6e6c6ffd3c",
+  "scryfall_uri": "https://scryfall.com/card/mh3/283/es/maza-mete%C3%B3rica-(meteoric-mace)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/e/6ed3a4e6-f12c-4592-a12a-6f6e6c6ffd3c.jpg?1730223463",
+    "normal": "https://cards.scryfall.io/normal/front/6/e/6ed3a4e6-f12c-4592-a12a-6f6e6c6ffd3c.jpg?1730223463",
+    "large": "https://cards.scryfall.io/large/front/6/e/6ed3a4e6-f12c-4592-a12a-6f6e6c6ffd3c.jpg?1730223463",
+    "png": "https://cards.scryfall.io/png/front/6/e/6ed3a4e6-f12c-4592-a12a-6f6e6c6ffd3c.png?1730223463",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/e/6ed3a4e6-f12c-4592-a12a-6f6e6c6ffd3c.jpg?1730223463",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/e/6ed3a4e6-f12c-4592-a12a-6f6e6c6ffd3c.jpg?1730223463"
+  },
+  "mana_cost": "{4}{R}{R}",
+  "cmc": 6,
+  "type_line": "Artifact — Equipment",
+  "printed_type_line": "Artefacto — Equipo",
+  "oracle_text": "Equipped creature gets +4/+0 and has trample.\nEquip {4}\nCascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)",
+  "printed_text": "La criatura equipada obtiene +4/+0 y tiene la habilidad de arrollar.\nEquipar {4}.\nCascada. (Cuando lances este hechizo, exilia cartas de la parte superior de tu biblioteca hasta que exilies una carta que no sea tierra y que cueste menos. Puedes lanzarla sin pagar su coste de maná. Pon las cartas exiliadas en el fondo en un orden aleatorio.)",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Equip",
+    "Cascade"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6ed3a4e6-f12c-4592-a12a-6f6e6c6ffd3c/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac6a607f2-4228-4bcc-84ed-37bd362d7542&unique=prints",
+  "collector_number": "283",
+  "digital": false,
+  "rarity": "uncommon",
+  "watermark": "set",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Randy Vargas",
+  "artist_ids": [
+    "d20672ca-0555-4238-a984-fd171d36b247"
+  ],
+  "illustration_id": "e1930893-e65c-4617-b8e1-39202fb4bce4",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 9061,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=664146&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMeteoric%2BMace",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMeteoric%2BMace",
+    "edhrec": "https://edhrec.com/route/?cc=Meteoric+Mace"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DMeteoric%2BMace%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Meteoric+Mace&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Meteoric+Mace&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

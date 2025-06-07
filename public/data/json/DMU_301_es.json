@@ -1,0 +1,135 @@
+{
+  "object": "card",
+  "id": "026e1622-90bf-4868-bc62-4c5108f83097",
+  "oracle_id": "83b9a734-ee92-44c8-bf47-ca69b6d6405e",
+  "multiverse_ids": [
+    578136
+  ],
+  "name": "Jhoira, Ageless Innovator",
+  "printed_name": "Jhoira, innovadora atemporal",
+  "lang": "es",
+  "released_at": "2022-09-09",
+  "uri": "https://api.scryfall.com/cards/026e1622-90bf-4868-bc62-4c5108f83097",
+  "scryfall_uri": "https://scryfall.com/card/dmu/301/es/jhoira-innovadora-atemporal-(jhoira-ageless-innovator)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/2/026e1622-90bf-4868-bc62-4c5108f83097.jpg?1663221364",
+    "normal": "https://cards.scryfall.io/normal/front/0/2/026e1622-90bf-4868-bc62-4c5108f83097.jpg?1663221364",
+    "large": "https://cards.scryfall.io/large/front/0/2/026e1622-90bf-4868-bc62-4c5108f83097.jpg?1663221364",
+    "png": "https://cards.scryfall.io/png/front/0/2/026e1622-90bf-4868-bc62-4c5108f83097.png?1663221364",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/2/026e1622-90bf-4868-bc62-4c5108f83097.jpg?1663221364",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/2/026e1622-90bf-4868-bc62-4c5108f83097.jpg?1663221364"
+  },
+  "mana_cost": "{U}{R}",
+  "cmc": 2,
+  "type_line": "Legendary Creature — Human Artificer",
+  "printed_type_line": "Criatura legendaria — Artífice humano",
+  "oracle_text": "{T}: Put two ingenuity counters on Jhoira, then you may put an artifact card with mana value X or less from your hand onto the battlefield, where X is the number of ingenuity counters on Jhoira.",
+  "printed_text": "{T}: Pon dos contadores de ingenio sobre Jhoira, innovadora atemporal. Luego, puedes poner en el campo de batalla una carta de artefacto con valor de maná de X o menos de tu mano, donde X es la cantidad de contadores de ingenio sobre Jhoira.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "R",
+    "U"
+  ],
+  "color_identity": [
+    "R",
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set": "dmu",
+  "set_name": "Dominaria United",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/4e47a6cd-cdeb-4b0f-8f24-cfe1a0127cb3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Admu&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dmu?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/026e1622-90bf-4868-bc62-4c5108f83097/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A83b9a734-ee92-44c8-bf47-ca69b6d6405e&unique=prints",
+  "collector_number": "301",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lisa Heidhoff",
+  "artist_ids": [
+    "6d0ce398-d3cb-4020-beda-b41938fea8ca"
+  ],
+  "illustration_id": "739213ee-0042-4713-8b7e-37d8a418a02b",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "boosterfun"
+  ],
+  "edhrec_rank": 8928,
+  "penny_rank": 9202,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=578136&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DJhoira%252C%2BAgeless%2BInnovator",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DJhoira%252C%2BAgeless%2BInnovator",
+    "edhrec": "https://edhrec.com/route/?cc=Jhoira%2C+Ageless+Innovator"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DJhoira%252C%2BAgeless%2BInnovator%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Jhoira%2C+Ageless+Innovator&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Jhoira%2C+Ageless+Innovator&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

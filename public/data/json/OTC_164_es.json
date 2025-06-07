@@ -1,0 +1,127 @@
+{
+  "object": "card",
+  "id": "9c3cb791-7d5d-453c-8441-8160adccbfad",
+  "oracle_id": "2fa94a07-c932-4f85-b6e0-a97d2b29eb52",
+  "multiverse_ids": [
+    659140
+  ],
+  "name": "Electrostatic Field",
+  "printed_name": "Campo electrostático",
+  "lang": "es",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/9c3cb791-7d5d-453c-8441-8160adccbfad",
+  "scryfall_uri": "https://scryfall.com/card/otc/164/es/campo-electrost%C3%A1tico-(electrostatic-field)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/c/9c3cb791-7d5d-453c-8441-8160adccbfad.jpg?1730248102",
+    "normal": "https://cards.scryfall.io/normal/front/9/c/9c3cb791-7d5d-453c-8441-8160adccbfad.jpg?1730248102",
+    "large": "https://cards.scryfall.io/large/front/9/c/9c3cb791-7d5d-453c-8441-8160adccbfad.jpg?1730248102",
+    "png": "https://cards.scryfall.io/png/front/9/c/9c3cb791-7d5d-453c-8441-8160adccbfad.png?1730248102",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/c/9c3cb791-7d5d-453c-8441-8160adccbfad.jpg?1730248102",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/c/9c3cb791-7d5d-453c-8441-8160adccbfad.jpg?1730248102"
+  },
+  "mana_cost": "{1}{R}",
+  "cmc": 2,
+  "type_line": "Creature — Wall",
+  "printed_type_line": "Criatura — Muro",
+  "oracle_text": "Defender\nWhenever you cast an instant or sorcery spell, this creature deals 1 damage to each opponent.",
+  "printed_text": "Defensor.\nSiempre que lances un hechizo de instantáneo o de conjuro, el Campo electrostático hace 1 punto de daño a cada oponente.",
+  "power": "0",
+  "toughness": "4",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Defender"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9c3cb791-7d5d-453c-8441-8160adccbfad/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2fa94a07-c932-4f85-b6e0-a97d2b29eb52&unique=prints",
+  "collector_number": "164",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"¡Es a la vez un mecanismo que impide la entrada y un bonito sistema de luces para el pasillo!\".\n—Dáxiver, electromante ízzet",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dan Murayama Scott",
+  "artist_ids": [
+    "f852fa13-137e-40f2-bbc1-0f01df09c0e0"
+  ],
+  "illustration_id": "3b66ea8b-15df-44fd-8578-599f9226b683",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 1234,
+  "penny_rank": 2744,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=659140&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DElectrostatic%2BField",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DElectrostatic%2BField",
+    "edhrec": "https://edhrec.com/route/?cc=Electrostatic+Field"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DElectrostatic%2BField%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Electrostatic+Field&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Electrostatic+Field&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

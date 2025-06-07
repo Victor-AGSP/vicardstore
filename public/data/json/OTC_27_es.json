@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "eb42a45b-0f32-4bce-8677-b23fd30afbf6",
+  "oracle_id": "8629fdef-dbbe-4a97-a7e1-6b1646f4ca0b",
+  "multiverse_ids": [
+    658411
+  ],
+  "name": "Elemental Eruption",
+  "printed_name": "Erupción elemental",
+  "lang": "es",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/eb42a45b-0f32-4bce-8677-b23fd30afbf6",
+  "scryfall_uri": "https://scryfall.com/card/otc/27/es/erupci%C3%B3n-elemental-(elemental-eruption)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/b/eb42a45b-0f32-4bce-8677-b23fd30afbf6.jpg?1730248066",
+    "normal": "https://cards.scryfall.io/normal/front/e/b/eb42a45b-0f32-4bce-8677-b23fd30afbf6.jpg?1730248066",
+    "large": "https://cards.scryfall.io/large/front/e/b/eb42a45b-0f32-4bce-8677-b23fd30afbf6.jpg?1730248066",
+    "png": "https://cards.scryfall.io/png/front/e/b/eb42a45b-0f32-4bce-8677-b23fd30afbf6.png?1730248066",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/b/eb42a45b-0f32-4bce-8677-b23fd30afbf6.jpg?1730248066",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/b/eb42a45b-0f32-4bce-8677-b23fd30afbf6.jpg?1730248066"
+  },
+  "mana_cost": "{4}{R}{R}",
+  "cmc": 6,
+  "type_line": "Sorcery",
+  "printed_type_line": "Conjuro",
+  "oracle_text": "Create a 4/4 red Dragon Elemental creature token with flying and prowess.\nStorm (When you cast this spell, copy it for each spell cast before it this turn.)",
+  "printed_text": "Crea una ficha de criatura Elemental Dragón roja 4/4 con las habilidades de volar y destreza.\nTormenta. (Cuando lances este hechizo, cópialo por cada hechizo lanzado antes que él en este turno.)",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Storm"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/eb42a45b-0f32-4bce-8677-b23fd30afbf6/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8629fdef-dbbe-4a97-a7e1-6b1646f4ca0b&unique=prints",
+  "collector_number": "27",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "El cráter lanzó un rugido al viento, y el viento llevó su voz ardiente a través del cielo.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Andrea Piparo",
+  "artist_ids": [
+    "e8ab9604-1b3c-4bb5-9290-dfb3fd3cf01d"
+  ],
+  "illustration_id": "0ff6c288-53e1-4e1c-bcd3-af6feb64a3be",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 5263,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=658411&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DElemental%2BEruption",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DElemental%2BEruption",
+    "edhrec": "https://edhrec.com/route/?cc=Elemental+Eruption"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DElemental%2BEruption%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Elemental+Eruption&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Elemental+Eruption&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

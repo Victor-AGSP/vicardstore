@@ -1,0 +1,159 @@
+{
+  "object": "card",
+  "id": "e15082d5-dd28-4155-8555-bc812972a950",
+  "oracle_id": "d54e4e37-042b-44a5-918d-757308545d4d",
+  "multiverse_ids": [
+    492294
+  ],
+  "name": "Sejiri Shelter // Sejiri Glacier",
+  "lang": "es",
+  "released_at": "2020-09-25",
+  "uri": "https://api.scryfall.com/cards/e15082d5-dd28-4155-8555-bc812972a950",
+  "scryfall_uri": "https://scryfall.com/card/znr/37/es/escudo-de-sejiri-glaciar-de-sejiri-(sejiri-shelter-sejiri-glacier)?utm_source=api",
+  "layout": "modal_dfc",
+  "highres_image": false,
+  "image_status": "lowres",
+  "cmc": 2,
+  "type_line": "Instant // Land",
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "W"
+  ],
+  "card_faces": [
+    {
+      "object": "card_face",
+      "name": "Sejiri Shelter",
+      "printed_name": "Escudo de Sejiri",
+      "mana_cost": "{1}{W}",
+      "type_line": "Instant",
+      "printed_type_line": "Instantáneo",
+      "oracle_text": "Target creature you control gains protection from the color of your choice until end of turn.",
+      "printed_text": "La criatura objetivo que controlas gana protección contra el color de tu elección hasta el final del turno.\nTierra\n{T}: Agrega {W}.",
+      "colors": [
+        "W"
+      ],
+      "flavor_text": "\"Protege de la sal que trae el viento y del aire helado, pero no de la soledad de Sejiri\".\n—Enwor, Casa expedicionaria de Portal Marino",
+      "artist": "Darek Zabrocki",
+      "artist_id": "904ed2e7-9850-4472-802f-2657c53dd4d8",
+      "illustration_id": "eddf2ffc-b412-4e5b-928f-c75e58953f06",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/front/e/1/e15082d5-dd28-4155-8555-bc812972a950.jpg?1645982676",
+        "normal": "https://cards.scryfall.io/normal/front/e/1/e15082d5-dd28-4155-8555-bc812972a950.jpg?1645982676",
+        "large": "https://cards.scryfall.io/large/front/e/1/e15082d5-dd28-4155-8555-bc812972a950.jpg?1645982676",
+        "png": "https://cards.scryfall.io/png/front/e/1/e15082d5-dd28-4155-8555-bc812972a950.png?1645982676",
+        "art_crop": "https://cards.scryfall.io/art_crop/front/e/1/e15082d5-dd28-4155-8555-bc812972a950.jpg?1645982676",
+        "border_crop": "https://cards.scryfall.io/border_crop/front/e/1/e15082d5-dd28-4155-8555-bc812972a950.jpg?1645982676"
+      }
+    },
+    {
+      "object": "card_face",
+      "name": "Sejiri Glacier",
+      "printed_name": "Glaciar de Sejiri",
+      "mana_cost": "",
+      "type_line": "Land",
+      "printed_type_line": "Tierra",
+      "oracle_text": "This land enters tapped.\n{T}: Add {W}.",
+      "printed_text": "El Glaciar de Sejiri entra al campo de batalla girado.\n{T}: Agrega {W}.\nInstantáneo\n{1}{W}",
+      "colors": [],
+      "flavor_text": "\"Este lugar no ofrece nada y lo quita todo\".\n—Enwor, Casa expedicionaria de Portal Marino",
+      "artist": "Darek Zabrocki",
+      "artist_id": "904ed2e7-9850-4472-802f-2657c53dd4d8",
+      "illustration_id": "8c305bbc-a0ce-419c-b1fb-352e01306b30",
+      "image_uris": {
+        "small": "https://cards.scryfall.io/small/back/e/1/e15082d5-dd28-4155-8555-bc812972a950.jpg?1645982676",
+        "normal": "https://cards.scryfall.io/normal/back/e/1/e15082d5-dd28-4155-8555-bc812972a950.jpg?1645982676",
+        "large": "https://cards.scryfall.io/large/back/e/1/e15082d5-dd28-4155-8555-bc812972a950.jpg?1645982676",
+        "png": "https://cards.scryfall.io/png/back/e/1/e15082d5-dd28-4155-8555-bc812972a950.png?1645982676",
+        "art_crop": "https://cards.scryfall.io/art_crop/back/e/1/e15082d5-dd28-4155-8555-bc812972a950.jpg?1645982676",
+        "border_crop": "https://cards.scryfall.io/border_crop/back/e/1/e15082d5-dd28-4155-8555-bc812972a950.jpg?1645982676"
+      }
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "f4e01fa7-b254-42dd-849f-69b58027a8c4",
+  "set": "znr",
+  "set_name": "Zendikar Rising",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/f4e01fa7-b254-42dd-849f-69b58027a8c4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aznr&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/znr?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e15082d5-dd28-4155-8555-bc812972a950/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad54e4e37-042b-44a5-918d-757308545d4d&unique=prints",
+  "collector_number": "37",
+  "digital": false,
+  "rarity": "uncommon",
+  "artist": "Darek Zabrocki",
+  "artist_ids": [
+    "904ed2e7-9850-4472-802f-2657c53dd4d8"
+  ],
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1021,
+  "penny_rank": 2342,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=492294&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSejiri%2BShelter%2B%252F%252F%2BSejiri%2BGlacier",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSejiri%2BShelter%2B%252F%252F%2BSejiri%2BGlacier",
+    "edhrec": "https://edhrec.com/route/?cc=Sejiri+Shelter"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSejiri%2BShelter%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sejiri+Shelter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sejiri+Shelter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

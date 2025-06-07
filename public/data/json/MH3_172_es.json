@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "851d45d5-a57d-4e34-86b0-8ab8eb7ae4e2",
+  "oracle_id": "07b0b2ad-4364-4a8d-94d5-8bf984b23d05",
+  "multiverse_ids": [
+    662796
+  ],
+  "name": "Temperamental Oozewagg",
+  "printed_name": "Lamamala temperamental",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/851d45d5-a57d-4e34-86b0-8ab8eb7ae4e2",
+  "scryfall_uri": "https://scryfall.com/card/mh3/172/es/lamamala-temperamental-(temperamental-oozewagg)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/5/851d45d5-a57d-4e34-86b0-8ab8eb7ae4e2.jpg?1730222784",
+    "normal": "https://cards.scryfall.io/normal/front/8/5/851d45d5-a57d-4e34-86b0-8ab8eb7ae4e2.jpg?1730222784",
+    "large": "https://cards.scryfall.io/large/front/8/5/851d45d5-a57d-4e34-86b0-8ab8eb7ae4e2.jpg?1730222784",
+    "png": "https://cards.scryfall.io/png/front/8/5/851d45d5-a57d-4e34-86b0-8ab8eb7ae4e2.png?1730222784",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/5/851d45d5-a57d-4e34-86b0-8ab8eb7ae4e2.jpg?1730222784",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/5/851d45d5-a57d-4e34-86b0-8ab8eb7ae4e2.jpg?1730222784"
+  },
+  "mana_cost": "{3}{G}",
+  "cmc": 4,
+  "type_line": "Creature — Ooze Brushwagg",
+  "printed_type_line": "Criatura — Yerbamala cieno",
+  "oracle_text": "{2}{G}: Adapt 2. (If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)\nModified creatures you control have trample. (Equipment, Auras you control, and counters are modifications.)",
+  "printed_text": "{2}{G}: Adaptar 2. (Si esta criatura no tiene contadores +1/+1 sobre ella, pon dos contadores +1/+1 sobre ella.)\nLas criaturas modificadas que controlas tienen la habilidad de arrollar. (Las Auras que controlas, los Equipos y los contadores son modificaciones.)",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Adapt"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/851d45d5-a57d-4e34-86b0-8ab8eb7ae4e2/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A07b0b2ad-4364-4a8d-94d5-8bf984b23d05&unique=prints",
+  "collector_number": "172",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Su posición en la cadena alimentaria causa una gran confusión a todo el mundo, desde cazadores hasta otros monstruos.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Pete Venters",
+  "artist_ids": [
+    "d54c4a1a-c0c5-4834-84db-125d341f3ad8"
+  ],
+  "illustration_id": "a92bd999-4cc5-4894-ad07-951b98d73431",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 11263,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662796&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTemperamental%2BOozewagg",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTemperamental%2BOozewagg",
+    "edhrec": "https://edhrec.com/route/?cc=Temperamental+Oozewagg"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DTemperamental%2BOozewagg%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Temperamental+Oozewagg&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Temperamental+Oozewagg&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

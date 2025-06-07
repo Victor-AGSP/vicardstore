@@ -1,0 +1,125 @@
+{
+  "object": "card",
+  "id": "5ac99e0a-7acd-4d3d-97c1-346f4ff3201d",
+  "oracle_id": "d53d5d03-b180-4bdb-8801-260f8a75644d",
+  "multiverse_ids": [
+    662696
+  ],
+  "name": "Tamiyo Meets the Story Circle",
+  "printed_name": "Tamiyo conoce al Círculo de crónicas",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/5ac99e0a-7acd-4d3d-97c1-346f4ff3201d",
+  "scryfall_uri": "https://scryfall.com/card/mh3/72/es/tamiyo-conoce-al-c%C3%ADrculo-de-cr%C3%B3nicas-(tamiyo-meets-the-story-circle)?utm_source=api",
+  "layout": "saga",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/a/5ac99e0a-7acd-4d3d-97c1-346f4ff3201d.jpg?1730222228",
+    "normal": "https://cards.scryfall.io/normal/front/5/a/5ac99e0a-7acd-4d3d-97c1-346f4ff3201d.jpg?1730222228",
+    "large": "https://cards.scryfall.io/large/front/5/a/5ac99e0a-7acd-4d3d-97c1-346f4ff3201d.jpg?1730222228",
+    "png": "https://cards.scryfall.io/png/front/5/a/5ac99e0a-7acd-4d3d-97c1-346f4ff3201d.png?1730222228",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/a/5ac99e0a-7acd-4d3d-97c1-346f4ff3201d.jpg?1730222228",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/a/5ac99e0a-7acd-4d3d-97c1-346f4ff3201d.jpg?1730222228"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Enchantment — Saga",
+  "printed_type_line": "Encantamiento — Saga",
+  "oracle_text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Until your next turn, whenever a creature attacks you or a planeswalker you control, it gets -2/-0 until end of turn.\nII — Discard any number of cards, then investigate twice for each card discarded this way.\nIII — Shuffle up to three target cards from your graveyard into your library.",
+  "printed_text": "(En cuanto esta Saga entre y después de tu paso de robar, agrega un contador de sabiduría. Sacrifícala después de III.)\nI — Hasta tu próximo turno, siempre que una criatura te ataque a ti o a un planeswalker que controlas, obtiene -2/-0 hasta el final del turno.\nII — Descarta cualquier cantidad de cartas y luego investiga dos veces por cada carta descartada de esta manera.\nIII — Baraja hasta tres cartas objetivo de tu cementerio en tu biblioteca.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Investigate"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5ac99e0a-7acd-4d3d-97c1-346f4ff3201d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad53d5d03-b180-4bdb-8801-260f8a75644d&unique=prints",
+  "collector_number": "72",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Xabi Gaztelua",
+  "artist_ids": [
+    "35b87e24-bfe0-43f4-83c3-2fa9574d6026"
+  ],
+  "illustration_id": "9c87d9e4-fb2a-41bc-a847-47a24c826df9",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 15256,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662696&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTamiyo%2BMeets%2Bthe%2BStory%2BCircle",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTamiyo%2BMeets%2Bthe%2BStory%2BCircle",
+    "edhrec": "https://edhrec.com/route/?cc=Tamiyo+Meets+the+Story+Circle"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DTamiyo%2BMeets%2Bthe%2BStory%2BCircle%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tamiyo+Meets+the+Story+Circle&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tamiyo+Meets+the+Story+Circle&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

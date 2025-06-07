@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "a6a1f90a-d945-46f1-8fa4-b69f5fb6701f",
+  "oracle_id": "83f87884-f0f9-482e-887e-35a8a5c20eb0",
+  "multiverse_ids": [
+    658414
+  ],
+  "name": "Smoldering Stagecoach",
+  "printed_name": "Diligencia ardiente",
+  "lang": "es",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/a6a1f90a-d945-46f1-8fa4-b69f5fb6701f",
+  "scryfall_uri": "https://scryfall.com/card/otc/30/es/diligencia-ardiente-(smoldering-stagecoach)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/6/a6a1f90a-d945-46f1-8fa4-b69f5fb6701f.jpg?1730248067",
+    "normal": "https://cards.scryfall.io/normal/front/a/6/a6a1f90a-d945-46f1-8fa4-b69f5fb6701f.jpg?1730248067",
+    "large": "https://cards.scryfall.io/large/front/a/6/a6a1f90a-d945-46f1-8fa4-b69f5fb6701f.jpg?1730248067",
+    "png": "https://cards.scryfall.io/png/front/a/6/a6a1f90a-d945-46f1-8fa4-b69f5fb6701f.png?1730248067",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/6/a6a1f90a-d945-46f1-8fa4-b69f5fb6701f.jpg?1730248067",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/6/a6a1f90a-d945-46f1-8fa4-b69f5fb6701f.jpg?1730248067"
+  },
+  "mana_cost": "{3}{R}",
+  "cmc": 4,
+  "type_line": "Artifact — Vehicle",
+  "printed_type_line": "Artefacto — Vehículo",
+  "oracle_text": "Smoldering Stagecoach's power is equal to the number of instant and sorcery cards in your graveyard.\nWhenever this Vehicle attacks, the next instant spell and the next sorcery spell you cast this turn each have cascade.\nCrew 2",
+  "printed_text": "La fuerza de la Diligencia ardiente es igual a la cantidad de cartas de instantáneo y de conjuro en tu cementerio.\nSiempre que la Diligencia ardiente ataque, el próximo hechizo de instantáneo y el próximo hechizo de conjuro que lances este turno tienen ambos la habilidad de cascada.\nTripular 2.",
+  "power": "*",
+  "toughness": "5",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Crew"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a6a1f90a-d945-46f1-8fa4-b69f5fb6701f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A83f87884-f0f9-482e-887e-35a8a5c20eb0&unique=prints",
+  "collector_number": "30",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Billy Christian",
+  "artist_ids": [
+    "10f26f94-64fc-4174-856e-701bea4f1521"
+  ],
+  "illustration_id": "d2a11e25-4199-4528-a4ef-3db2689e7bde",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 12666,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=658414&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSmoldering%2BStagecoach",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSmoldering%2BStagecoach",
+    "edhrec": "https://edhrec.com/route/?cc=Smoldering+Stagecoach"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSmoldering%2BStagecoach%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Smoldering+Stagecoach&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Smoldering+Stagecoach&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

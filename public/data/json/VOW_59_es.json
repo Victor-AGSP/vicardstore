@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "54f2c450-d71c-4c8b-90f4-c53ca190136d",
+  "oracle_id": "5187c0b2-1996-42ea-bd77-3031b3add596",
+  "multiverse_ids": [
+    541529
+  ],
+  "name": "Fear of Death",
+  "printed_name": "Miedo a la muerte",
+  "lang": "es",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/54f2c450-d71c-4c8b-90f4-c53ca190136d",
+  "scryfall_uri": "https://scryfall.com/card/vow/59/es/miedo-a-la-muerte-(fear-of-death)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/4/54f2c450-d71c-4c8b-90f4-c53ca190136d.jpg?1741128377",
+    "normal": "https://cards.scryfall.io/normal/front/5/4/54f2c450-d71c-4c8b-90f4-c53ca190136d.jpg?1741128377",
+    "large": "https://cards.scryfall.io/large/front/5/4/54f2c450-d71c-4c8b-90f4-c53ca190136d.jpg?1741128377",
+    "png": "https://cards.scryfall.io/png/front/5/4/54f2c450-d71c-4c8b-90f4-c53ca190136d.png?1741128377",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/4/54f2c450-d71c-4c8b-90f4-c53ca190136d.jpg?1741128377",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/4/54f2c450-d71c-4c8b-90f4-c53ca190136d.jpg?1741128377"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Enchantment — Aura",
+  "printed_type_line": "Encantamiento — Aura",
+  "oracle_text": "Enchant creature\nWhen this Aura enters, mill two cards. (Put the top two cards of your library into your graveyard.)\nEnchanted creature gets -X/-0, where X is the number of cards in your graveyard.",
+  "printed_text": "Encantar criatura.\nCuando el Miedo a la muerte entre al campo de batalla, muele dos cartas. (Pon las dos primeras cartas de tu biblioteca en tu cementerio.)\nLa criatura encantada obtiene -X/-0, donde X es la cantidad de cartas en tu cementerio.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Enchant",
+    "Mill"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/54f2c450-d71c-4c8b-90f4-c53ca190136d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5187c0b2-1996-42ea-bd77-3031b3add596&unique=prints",
+  "collector_number": "59",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Anato Finnstark",
+  "artist_ids": [
+    "05d233e7-4958-4f79-83e6-f9bf8b6ff78e"
+  ],
+  "illustration_id": "26ff5cc0-cb7e-4f15-bfb4-ca33d903a13a",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 21122,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541529&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFear%2Bof%2BDeath",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFear%2Bof%2BDeath",
+    "edhrec": "https://edhrec.com/route/?cc=Fear+of+Death"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DFear%2Bof%2BDeath%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Fear+of+Death&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Fear+of+Death&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

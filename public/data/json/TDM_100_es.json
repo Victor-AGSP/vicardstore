@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "1f7c9f94-df94-4ba5-84cc-734a4ab45885",
+  "oracle_id": "2321b4fc-6b73-4d1a-84cc-13524adb0899",
+  "multiverse_ids": [
+    694122
+  ],
+  "name": "Yathan Tombguard",
+  "printed_name": "Yathan velatumbas",
+  "lang": "es",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/1f7c9f94-df94-4ba5-84cc-734a4ab45885",
+  "scryfall_uri": "https://scryfall.com/card/tdm/100/es/yathan-velatumbas-(yathan-tombguard)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/f/1f7c9f94-df94-4ba5-84cc-734a4ab45885.jpg?1744676209",
+    "normal": "https://cards.scryfall.io/normal/front/1/f/1f7c9f94-df94-4ba5-84cc-734a4ab45885.jpg?1744676209",
+    "large": "https://cards.scryfall.io/large/front/1/f/1f7c9f94-df94-4ba5-84cc-734a4ab45885.jpg?1744676209",
+    "png": "https://cards.scryfall.io/png/front/1/f/1f7c9f94-df94-4ba5-84cc-734a4ab45885.png?1744676209",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/f/1f7c9f94-df94-4ba5-84cc-734a4ab45885.jpg?1744676209",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/f/1f7c9f94-df94-4ba5-84cc-734a4ab45885.jpg?1744676209"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3,
+  "type_line": "Creature — Human Warrior",
+  "printed_type_line": "Criatura — Guerrero humano",
+  "oracle_text": "Menace (This creature can't be blocked except by two or more creatures.)\nWhenever a creature you control with a counter on it deals combat damage to a player, you draw a card and you lose 1 life.",
+  "printed_text": "Amenaza. (Esta criatura no puede ser bloqueada excepto por dos o más criaturas.)\nSiempre que una criatura que controlas con un contador sobre ella haga daño de combate a un jugador, robas una carta y pierdes 1 vida.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Menace"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set": "tdm",
+  "set_name": "Tarkir: Dragonstorm",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1f7c9f94-df94-4ba5-84cc-734a4ab45885/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2321b4fc-6b73-4d1a-84cc-13524adb0899&unique=prints",
+  "collector_number": "100",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Nuestra kan sería misericordiosa contigo. Es demasiado inocente. Por desgracia para ti, no está con nosotros\".",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Xavier Ribeiro",
+  "artist_ids": [
+    "e17c2662-0491-47b2-bf1d-8c111a8ad3f8"
+  ],
+  "illustration_id": "174f83be-ee3e-418e-a18c-be5a53c5ae00",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 14488,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694122&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DYathan%2BTombguard",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DYathan%2BTombguard",
+    "edhrec": "https://edhrec.com/route/?cc=Yathan+Tombguard"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DYathan%2BTombguard%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Yathan+Tombguard&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Yathan+Tombguard&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

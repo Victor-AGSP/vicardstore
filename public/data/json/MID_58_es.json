@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "2b1a2e5d-f236-4171-924b-0c67f315ffa5",
+  "oracle_id": "61ab4548-5da9-4351-87e7-a3afc93d4bf5",
+  "multiverse_ids": [
+    535452
+  ],
+  "name": "Larder Zombie",
+  "printed_name": "Zombie muerto de hambre",
+  "lang": "es",
+  "released_at": "2021-09-24",
+  "uri": "https://api.scryfall.com/cards/2b1a2e5d-f236-4171-924b-0c67f315ffa5",
+  "scryfall_uri": "https://scryfall.com/card/mid/58/es/zombie-muerto-de-hambre-(larder-zombie)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/b/2b1a2e5d-f236-4171-924b-0c67f315ffa5.jpg?1738116168",
+    "normal": "https://cards.scryfall.io/normal/front/2/b/2b1a2e5d-f236-4171-924b-0c67f315ffa5.jpg?1738116168",
+    "large": "https://cards.scryfall.io/large/front/2/b/2b1a2e5d-f236-4171-924b-0c67f315ffa5.jpg?1738116168",
+    "png": "https://cards.scryfall.io/png/front/2/b/2b1a2e5d-f236-4171-924b-0c67f315ffa5.png?1738116168",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/b/2b1a2e5d-f236-4171-924b-0c67f315ffa5.jpg?1738116168",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/b/2b1a2e5d-f236-4171-924b-0c67f315ffa5.jpg?1738116168"
+  },
+  "mana_cost": "{U}",
+  "cmc": 1,
+  "type_line": "Creature — Zombie",
+  "printed_type_line": "Criatura — Zombie",
+  "oracle_text": "Defender\nTap three untapped creatures you control: Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)",
+  "printed_text": "Defensor.\nGirar tres criaturas enderezadas que controlas: Mira la primera carta de tu biblioteca. Puedes ponerla en tu cementerio.",
+  "power": "1",
+  "toughness": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Surveil",
+    "Defender"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+  "set": "mid",
+  "set_name": "Innistrad: Midnight Hunt",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/44b8eb8f-fa23-401a-98b5-1fbb9871128e",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amid&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mid?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/2b1a2e5d-f236-4171-924b-0c67f315ffa5/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A61ab4548-5da9-4351-87e7-a3afc93d4bf5&unique=prints",
+  "collector_number": "58",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Cuando los cátaros llegaron al laboratorio abandonado, se encontraron muchos proyectos sin acabar mordiéndose los unos a los otros.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "E. M. Gist",
+  "artist_ids": [
+    "7a9aaa63-73ae-492c-948e-7531415fdf31"
+  ],
+  "illustration_id": "ad97d730-edbd-4f0d-ab56-ed2410b47abf",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 16799,
+  "penny_rank": 12983,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=535452&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLarder%2BZombie",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLarder%2BZombie",
+    "edhrec": "https://edhrec.com/route/?cc=Larder+Zombie"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DLarder%2BZombie%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Larder+Zombie&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Larder+Zombie&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

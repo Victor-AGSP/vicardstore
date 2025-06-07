@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "957effb0-e331-4494-bd03-815b279354a9",
+  "oracle_id": "5c0ffe37-16ce-4788-a434-58b6fc34bd9c",
+  "multiverse_ids": [
+    662697
+  ],
+  "name": "Tempest Harvester",
+  "printed_name": "Cosechadora de tempestades",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/957effb0-e331-4494-bd03-815b279354a9",
+  "scryfall_uri": "https://scryfall.com/card/mh3/73/es/cosechadora-de-tempestades-(tempest-harvester)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/5/957effb0-e331-4494-bd03-815b279354a9.jpg?1730222228",
+    "normal": "https://cards.scryfall.io/normal/front/9/5/957effb0-e331-4494-bd03-815b279354a9.jpg?1730222228",
+    "large": "https://cards.scryfall.io/large/front/9/5/957effb0-e331-4494-bd03-815b279354a9.jpg?1730222228",
+    "png": "https://cards.scryfall.io/png/front/9/5/957effb0-e331-4494-bd03-815b279354a9.png?1730222228",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/5/957effb0-e331-4494-bd03-815b279354a9.jpg?1730222228",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/5/957effb0-e331-4494-bd03-815b279354a9.jpg?1730222228"
+  },
+  "mana_cost": "{1}{U}",
+  "cmc": 2,
+  "type_line": "Creature — Merfolk Wizard",
+  "printed_type_line": "Criatura — Hechicero tritón",
+  "oracle_text": "When this creature enters, you get {E}{E} (two energy counters).\n{T}, Pay {E}: Draw a card, then discard a card.",
+  "printed_text": "Cuando la Cosechadora de tempestades entre al campo de batalla, obtienes {E}{E} (dos contadores de energía).\n{T}, pagar {E}: Roba una carta y luego descarta una carta.",
+  "power": "2",
+  "toughness": "1",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/957effb0-e331-4494-bd03-815b279354a9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5c0ffe37-16ce-4788-a434-58b6fc34bd9c&unique=prints",
+  "collector_number": "73",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"La Ciudad Dorada no es nada comparada con el poder que se oculta bajo las olas\".",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Runa I. Rosenberger",
+  "artist_ids": [
+    "22ad62ca-3216-4184-a698-7a7a1c5dba18"
+  ],
+  "illustration_id": "179bcbed-f084-4a23-a1ba-16d11bc4125b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 14878,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662697&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTempest%2BHarvester",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTempest%2BHarvester",
+    "edhrec": "https://edhrec.com/route/?cc=Tempest+Harvester"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DTempest%2BHarvester%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Tempest+Harvester&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Tempest+Harvester&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

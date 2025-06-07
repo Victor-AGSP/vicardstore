@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "f0d0be13-0ed1-4b05-9a51-defe3c05983f",
+  "oracle_id": "7f32344f-06d8-4862-bfeb-f90a3e1d7fc2",
+  "multiverse_ids": [
+    662710
+  ],
+  "name": "The Creation of Avacyn",
+  "printed_name": "La creación de Avacyn",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/f0d0be13-0ed1-4b05-9a51-defe3c05983f",
+  "scryfall_uri": "https://scryfall.com/card/mh3/86/es/la-creaci%C3%B3n-de-avacyn-(the-creation-of-avacyn)?utm_source=api",
+  "layout": "saga",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/0/f0d0be13-0ed1-4b05-9a51-defe3c05983f.jpg?1730222295",
+    "normal": "https://cards.scryfall.io/normal/front/f/0/f0d0be13-0ed1-4b05-9a51-defe3c05983f.jpg?1730222295",
+    "large": "https://cards.scryfall.io/large/front/f/0/f0d0be13-0ed1-4b05-9a51-defe3c05983f.jpg?1730222295",
+    "png": "https://cards.scryfall.io/png/front/f/0/f0d0be13-0ed1-4b05-9a51-defe3c05983f.png?1730222295",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/0/f0d0be13-0ed1-4b05-9a51-defe3c05983f.jpg?1730222295",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/0/f0d0be13-0ed1-4b05-9a51-defe3c05983f.jpg?1730222295"
+  },
+  "mana_cost": "{1}{B}{B}",
+  "cmc": 3,
+  "type_line": "Enchantment — Saga",
+  "printed_type_line": "Encantamiento — Saga",
+  "oracle_text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)\nI — Search your library for a card, exile it face down, then shuffle.\nII — Turn the exiled card face up. If it's a creature card, you lose life equal to its mana value.\nIII — You may put the exiled card onto the battlefield if it's a creature card. If you don't put it onto the battlefield, put it into its owner's hand.",
+  "printed_text": "(En cuanto esta Saga entre y después de tu paso de robar, agrega un contador de sabiduría. Sacrifícala después de III.)\nI — Busca en tu biblioteca una carta, exíliala boca abajo y luego baraja.\nII — Pon la carta exiliada boca arriba. Si es una carta de criatura, pierdes una cantidad de vidas igual a su valor de maná.\nIII — Puedes poner la carta exiliada en el campo de batalla si es una carta de criatura. Si no la pones en el campo de batalla, ponla en la mano de su propietario.",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f0d0be13-0ed1-4b05-9a51-defe3c05983f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7f32344f-06d8-4862-bfeb-f90a3e1d7fc2&unique=prints",
+  "collector_number": "86",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Franz Vohwinkel",
+  "artist_ids": [
+    "3a243c17-3baa-4b53-9599-645311cd7d3d"
+  ],
+  "illustration_id": "69a2e4ad-cbe8-48ea-8e3e-617d384d0c88",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 9275,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662710&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BCreation%2Bof%2BAvacyn",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BCreation%2Bof%2BAvacyn",
+    "edhrec": "https://edhrec.com/route/?cc=The+Creation+of+Avacyn"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DThe%2BCreation%2Bof%2BAvacyn%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=The+Creation+of+Avacyn&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=The+Creation+of+Avacyn&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

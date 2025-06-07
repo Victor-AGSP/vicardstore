@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "9ddf51d3-9286-4240-b2cc-76e733c9c94f",
+  "oracle_id": "2c46bc05-1133-4eaf-8865-eb8a1d880bd9",
+  "multiverse_ids": [
+    370299
+  ],
+  "name": "Weapon Surge",
+  "printed_name": "Recarga del arma",
+  "lang": "es",
+  "released_at": "2013-05-03",
+  "uri": "https://api.scryfall.com/cards/9ddf51d3-9286-4240-b2cc-76e733c9c94f",
+  "scryfall_uri": "https://scryfall.com/card/dgm/40/es/recarga-del-arma-(weapon-surge)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/d/9ddf51d3-9286-4240-b2cc-76e733c9c94f.jpg?1562924386",
+    "normal": "https://cards.scryfall.io/normal/front/9/d/9ddf51d3-9286-4240-b2cc-76e733c9c94f.jpg?1562924386",
+    "large": "https://cards.scryfall.io/large/front/9/d/9ddf51d3-9286-4240-b2cc-76e733c9c94f.jpg?1562924386",
+    "png": "https://cards.scryfall.io/png/front/9/d/9ddf51d3-9286-4240-b2cc-76e733c9c94f.png?1562924386",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/d/9ddf51d3-9286-4240-b2cc-76e733c9c94f.jpg?1562924386",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/d/9ddf51d3-9286-4240-b2cc-76e733c9c94f.jpg?1562924386"
+  },
+  "mana_cost": "{R}",
+  "cmc": 1,
+  "type_line": "Instant",
+  "printed_type_line": "Instantáneo",
+  "oracle_text": "Target creature you control gets +1/+0 and gains first strike until end of turn.\nOverload {1}{R} (You may cast this spell for its overload cost. If you do, change \"target\" in its text to \"each.\")",
+  "printed_text": "La criatura objetivo que controlas obtiene +1/+0 y gana la habilidad de dañar primero hasta el final del turno.\nSobrecarga {1}{R}. (Puedes lanzar este hechizo por su coste de sobrecarga. Si lo haces, cambia su texto reemplazando \"la criatura objetivo\" por \"cada criatura\".)",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [
+    "Overload"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "c8bd8520-cd98-45cd-b533-8d40c2087426",
+  "set": "dgm",
+  "set_name": "Dragon's Maze",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/c8bd8520-cd98-45cd-b533-8d40c2087426",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Adgm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/dgm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9ddf51d3-9286-4240-b2cc-76e733c9c94f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A2c46bc05-1133-4eaf-8865-eb8a1d880bd9&unique=prints",
+  "collector_number": "40",
+  "digital": false,
+  "rarity": "common",
+  "watermark": "izzet",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jason Felix",
+  "artist_ids": [
+    "af42a44c-8ec3-47a7-9047-5d29ddad186d"
+  ],
+  "illustration_id": "28d8c44c-e28a-4286-afd7-8ae0b6c9a74b",
+  "border_color": "black",
+  "frame": "2003",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 16680,
+  "penny_rank": 9618,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=370299&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWeapon%2BSurge",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWeapon%2BSurge",
+    "edhrec": "https://edhrec.com/route/?cc=Weapon+Surge"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DWeapon%2BSurge%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Weapon+Surge&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Weapon+Surge&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

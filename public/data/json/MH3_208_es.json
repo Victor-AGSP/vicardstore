@@ -1,0 +1,133 @@
+{
+  "object": "card",
+  "id": "ef835ef1-47ab-488a-ba54-1629a0cc92a7",
+  "oracle_id": "d27bebc9-348d-4b8e-816a-a4da66fb5618",
+  "multiverse_ids": [
+    662832
+  ],
+  "name": "Writhing Chrysalis",
+  "printed_name": "Crisálida retorcida",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/ef835ef1-47ab-488a-ba54-1629a0cc92a7",
+  "scryfall_uri": "https://scryfall.com/card/mh3/208/es/cris%C3%A1lida-retorcida-(writhing-chrysalis)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/f/ef835ef1-47ab-488a-ba54-1629a0cc92a7.jpg?1730222993",
+    "normal": "https://cards.scryfall.io/normal/front/e/f/ef835ef1-47ab-488a-ba54-1629a0cc92a7.jpg?1730222993",
+    "large": "https://cards.scryfall.io/large/front/e/f/ef835ef1-47ab-488a-ba54-1629a0cc92a7.jpg?1730222993",
+    "png": "https://cards.scryfall.io/png/front/e/f/ef835ef1-47ab-488a-ba54-1629a0cc92a7.png?1730222993",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/f/ef835ef1-47ab-488a-ba54-1629a0cc92a7.jpg?1730222993",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/f/ef835ef1-47ab-488a-ba54-1629a0cc92a7.jpg?1730222993"
+  },
+  "mana_cost": "{2}{R}{G}",
+  "cmc": 4,
+  "type_line": "Creature — Eldrazi Drone",
+  "printed_type_line": "Criatura — Zángano eldrazi",
+  "oracle_text": "Devoid (This card has no color.)\nWhen you cast this spell, create two 0/1 colorless Eldrazi Spawn creature tokens with \"Sacrifice this token: Add {C}.\"\nReach\nWhenever you sacrifice another Eldrazi, put a +1/+1 counter on this creature.",
+  "printed_text": "Vacío. (Esta carta no tiene ningún color.)\nCuando lances este hechizo, crea dos fichas de criatura Engendro Eldrazi incoloras 0/1 con \"Sacrificar esta criatura: Agrega {C}\".\nAlcance.\nSiempre que sacrifiques otro Eldrazi, pon un contador +1/+1 sobre la Crisálida retorcida.",
+  "power": "2",
+  "toughness": "3",
+  "colors": [],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [
+    "Reach",
+    "Devoid"
+  ],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ef835ef1-47ab-488a-ba54-1629a0cc92a7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad27bebc9-348d-4b8e-816a-a4da66fb5618&unique=prints",
+  "collector_number": "208",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Domenico Cava",
+  "artist_ids": [
+    "15eda809-1e56-4583-89e6-c9ccda740e16"
+  ],
+  "illustration_id": "12342ce6-3e32-4c4a-aba9-897979b42f1d",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "devoid"
+  ],
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6826,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662832&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DWrithing%2BChrysalis",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DWrithing%2BChrysalis",
+    "edhrec": "https://edhrec.com/route/?cc=Writhing+Chrysalis"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DWrithing%2BChrysalis%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Writhing+Chrysalis&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Writhing+Chrysalis&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

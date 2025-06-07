@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "5fa95699-e096-4620-9e65-063b7e8df5a1",
+  "oracle_id": "e711a2d6-008d-4e7b-986e-f34805165679",
+  "multiverse_ids": [
+    541614
+  ],
+  "name": "Skulking Killer",
+  "printed_name": "Asesina furtiva",
+  "lang": "es",
+  "released_at": "2021-11-19",
+  "uri": "https://api.scryfall.com/cards/5fa95699-e096-4620-9e65-063b7e8df5a1",
+  "scryfall_uri": "https://scryfall.com/card/vow/130/es/asesina-furtiva-(skulking-killer)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/f/5fa95699-e096-4620-9e65-063b7e8df5a1.jpg?1741130856",
+    "normal": "https://cards.scryfall.io/normal/front/5/f/5fa95699-e096-4620-9e65-063b7e8df5a1.jpg?1741130856",
+    "large": "https://cards.scryfall.io/large/front/5/f/5fa95699-e096-4620-9e65-063b7e8df5a1.jpg?1741130856",
+    "png": "https://cards.scryfall.io/png/front/5/f/5fa95699-e096-4620-9e65-063b7e8df5a1.png?1741130856",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/f/5fa95699-e096-4620-9e65-063b7e8df5a1.jpg?1741130856",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/f/5fa95699-e096-4620-9e65-063b7e8df5a1.jpg?1741130856"
+  },
+  "mana_cost": "{3}{B}",
+  "cmc": 4,
+  "type_line": "Creature — Vampire Assassin",
+  "printed_type_line": "Criatura — Asesino vampiro",
+  "oracle_text": "When this creature enters, target creature an opponent controls gets -2/-2 until end of turn if that opponent controls no other creatures.",
+  "printed_text": "Cuando la Asesina furtiva entre al campo de batalla, la criatura objetivo que controla un oponente obtiene -2/-2 hasta el final del turno si ese oponente no controla otras criaturas.",
+  "power": "4",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "arena",
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set": "vow",
+  "set_name": "Innistrad: Crimson Vow",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/8144b676-569f-4716-8005-bc8f0778f3fa",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Avow&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/vow?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/5fa95699-e096-4620-9e65-063b7e8df5a1/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae711a2d6-008d-4e7b-986e-f34805165679&unique=prints",
+  "collector_number": "130",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Olivia soltó a unos cuantos aldeanos por el laberinto de setos como parte del \"entretenimiento\" de la velada.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alex Brock",
+  "artist_ids": [
+    "ce381d25-868c-4f13-b1e9-e7cd2f67e994"
+  ],
+  "illustration_id": "7b539ff7-8971-4cef-b432-3411a181b0a8",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 21869,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=541614&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSkulking%2BKiller",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSkulking%2BKiller",
+    "edhrec": "https://edhrec.com/route/?cc=Skulking+Killer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DSkulking%2BKiller%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Skulking+Killer&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Skulking+Killer&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "object": "card",
+  "id": "380470e2-6642-485e-bc54-392296549093",
+  "oracle_id": "c5830515-9316-4b08-a990-3026ee15ffea",
+  "multiverse_ids": [
+    662825
+  ],
+  "name": "Riddle Gate Gargoyle",
+  "printed_name": "Gárgola de la puerta de los acertijos",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/380470e2-6642-485e-bc54-392296549093",
+  "scryfall_uri": "https://scryfall.com/card/mh3/201/es/g%C3%A1rgola-de-la-puerta-de-los-acertijos-(riddle-gate-gargoyle)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/8/380470e2-6642-485e-bc54-392296549093.jpg?1730222949",
+    "normal": "https://cards.scryfall.io/normal/front/3/8/380470e2-6642-485e-bc54-392296549093.jpg?1730222949",
+    "large": "https://cards.scryfall.io/large/front/3/8/380470e2-6642-485e-bc54-392296549093.jpg?1730222949",
+    "png": "https://cards.scryfall.io/png/front/3/8/380470e2-6642-485e-bc54-392296549093.png?1730222949",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/8/380470e2-6642-485e-bc54-392296549093.jpg?1730222949",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/8/380470e2-6642-485e-bc54-392296549093.jpg?1730222949"
+  },
+  "mana_cost": "{W}{U}",
+  "cmc": 2,
+  "type_line": "Artifact Creature — Gargoyle",
+  "printed_type_line": "Criatura artefacto — Gárgola",
+  "oracle_text": "Flying\nWhen this creature enters, you get {E}{E}{E} (three energy counters).\nWhenever you attack, you may pay {E}{E}. When you do, target creature you control gains lifelink until end of turn.",
+  "printed_text": "Vuela.\nCuando la Gárgola de la puerta de los acertijos entre al campo de batalla, obtienes {E}{E}{E} (tres contadores de energía).\nSiempre que ataques, puedes pagar {E}{E}. Cuando lo hagas, la criatura objetivo que controlas gana la habilidad de vínculo vital hasta el final del turno.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "U",
+    "W"
+  ],
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/380470e2-6642-485e-bc54-392296549093/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac5830515-9316-4b08-a990-3026ee15ffea&unique=prints",
+  "collector_number": "201",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Bartek Fedyczak",
+  "artist_ids": [
+    "70b1ba71-4ee1-4087-8a9e-ea919f20ebff"
+  ],
+  "illustration_id": "c6761658-abc0-4e4f-a82d-66d8b333a914",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 11043,
+  "penny_rank": 7400,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662825&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DRiddle%2BGate%2BGargoyle",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DRiddle%2BGate%2BGargoyle",
+    "edhrec": "https://edhrec.com/route/?cc=Riddle+Gate+Gargoyle"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DRiddle%2BGate%2BGargoyle%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Riddle+Gate+Gargoyle&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Riddle+Gate+Gargoyle&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "object": "card",
+  "id": "6fbdd088-a82e-4d71-961d-4ea9ab7c67fa",
+  "oracle_id": "3c1619bd-db5e-4df6-a196-0a9d62374f6d",
+  "multiverse_ids": [
+    679358
+  ],
+  "name": "Hare Apparent",
+  "printed_name": "Legatario leporino",
+  "lang": "es",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/6fbdd088-a82e-4d71-961d-4ea9ab7c67fa",
+  "scryfall_uri": "https://scryfall.com/card/fdn/15/es/legatario-leporino-(hare-apparent)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/f/6fbdd088-a82e-4d71-961d-4ea9ab7c67fa.jpg?1732348625",
+    "normal": "https://cards.scryfall.io/normal/front/6/f/6fbdd088-a82e-4d71-961d-4ea9ab7c67fa.jpg?1732348625",
+    "large": "https://cards.scryfall.io/large/front/6/f/6fbdd088-a82e-4d71-961d-4ea9ab7c67fa.jpg?1732348625",
+    "png": "https://cards.scryfall.io/png/front/6/f/6fbdd088-a82e-4d71-961d-4ea9ab7c67fa.png?1732348625",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/f/6fbdd088-a82e-4d71-961d-4ea9ab7c67fa.jpg?1732348625",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/f/6fbdd088-a82e-4d71-961d-4ea9ab7c67fa.jpg?1732348625"
+  },
+  "mana_cost": "{1}{W}",
+  "cmc": 2,
+  "type_line": "Creature — Rabbit Noble",
+  "printed_type_line": "Criatura — Noble conejo",
+  "oracle_text": "When this creature enters, create a number of 1/1 white Rabbit creature tokens equal to the number of other creatures you control named Hare Apparent.\nA deck can have any number of cards named Hare Apparent.",
+  "printed_text": "Cuando esta criatura entre, crea una cantidad de fichas de criatura Conejo blancas 1/1 igual a la cantidad de otras criaturas que controlas llamadas Legatario leporino.\nUn mazo puede tener cualquier cantidad de cartas llamadas Legatario leporino.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set": "fdn",
+  "set_name": "Foundations",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/a7ecb771-d1b6-4dec-8cf5-8d45179f21e0",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Afdn&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/fdn?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/6fbdd088-a82e-4d71-961d-4ea9ab7c67fa/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A3c1619bd-db5e-4df6-a196-0a9d62374f6d&unique=prints",
+  "collector_number": "15",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "La mayoría de las familias tienen árboles genealógicos. La suya tiene todo un bosque.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Milivoj Ćeran",
+  "artist_ids": [
+    "1eced451-4da5-42bc-b49d-70c41246581f"
+  ],
+  "illustration_id": "427a8aa7-d311-477a-b4fb-0a928fa06439",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 5461,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=679358&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DHare%2BApparent",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DHare%2BApparent",
+    "edhrec": "https://edhrec.com/route/?cc=Hare+Apparent"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DHare%2BApparent%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hare+Apparent&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hare+Apparent&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

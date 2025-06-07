@@ -1,0 +1,128 @@
+{
+  "object": "card",
+  "id": "69649f2a-b018-4153-a65a-9afe82ec9cc3",
+  "oracle_id": "8305d576-21d8-4ce7-8eda-a7cd9793aca5",
+  "multiverse_ids": [
+    659066
+  ],
+  "name": "Archmage Emeritus",
+  "printed_name": "Archimago emérito",
+  "lang": "es",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/69649f2a-b018-4153-a65a-9afe82ec9cc3",
+  "scryfall_uri": "https://scryfall.com/card/otc/90/es/archimago-em%C3%A9rito-(archmage-emeritus)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/9/69649f2a-b018-4153-a65a-9afe82ec9cc3.jpg?1713744520",
+    "normal": "https://cards.scryfall.io/normal/front/6/9/69649f2a-b018-4153-a65a-9afe82ec9cc3.jpg?1713744520",
+    "large": "https://cards.scryfall.io/large/front/6/9/69649f2a-b018-4153-a65a-9afe82ec9cc3.jpg?1713744520",
+    "png": "https://cards.scryfall.io/png/front/6/9/69649f2a-b018-4153-a65a-9afe82ec9cc3.png?1713744520",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/9/69649f2a-b018-4153-a65a-9afe82ec9cc3.jpg?1713744520",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/9/69649f2a-b018-4153-a65a-9afe82ec9cc3.jpg?1713744520"
+  },
+  "mana_cost": "{2}{U}{U}",
+  "cmc": 4,
+  "type_line": "Creature — Human Wizard",
+  "printed_type_line": "Criatura — Hechicero humano",
+  "oracle_text": "Magecraft — Whenever you cast or copy an instant or sorcery spell, draw a card.",
+  "printed_text": "Hechicería — Siempre que lances o copies un hechizo de instantáneo o de conjuro, roba una carta.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Magecraft"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/69649f2a-b018-4153-a65a-9afe82ec9cc3/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8305d576-21d8-4ce7-8eda-a7cd9793aca5&unique=prints",
+  "collector_number": "90",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Ciertos profesores eméritos regresan de sus viajes de vez en cuando para compartir historias sobre las maravillas místicas de Arcavios.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Caio Monteiro",
+  "artist_ids": [
+    "d5053eb6-af72-47a0-b6e8-023cc3b9aefb"
+  ],
+  "illustration_id": "34668c52-eac9-4a43-bec1-191e1693f95d",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 289,
+  "penny_rank": 10513,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=659066&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DArchmage%2BEmeritus",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DArchmage%2BEmeritus",
+    "edhrec": "https://edhrec.com/route/?cc=Archmage+Emeritus"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DArchmage%2BEmeritus%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Archmage+Emeritus&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Archmage+Emeritus&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

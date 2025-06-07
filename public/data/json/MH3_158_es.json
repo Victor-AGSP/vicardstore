@@ -1,0 +1,123 @@
+{
+  "object": "card",
+  "id": "a37b1b9e-f98c-4e63-a42a-18182b44fc70",
+  "oracle_id": "356edd68-7dd5-4ab6-a738-6cb0eb2d4e56",
+  "multiverse_ids": [
+    662782
+  ],
+  "name": "The Hunger Tide Rises",
+  "printed_name": "La Ola de Hambruna asciende",
+  "lang": "es",
+  "released_at": "2024-06-14",
+  "uri": "https://api.scryfall.com/cards/a37b1b9e-f98c-4e63-a42a-18182b44fc70",
+  "scryfall_uri": "https://scryfall.com/card/mh3/158/es/la-ola-de-hambruna-asciende-(the-hunger-tide-rises)?utm_source=api",
+  "layout": "saga",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/3/a37b1b9e-f98c-4e63-a42a-18182b44fc70.jpg?1730222713",
+    "normal": "https://cards.scryfall.io/normal/front/a/3/a37b1b9e-f98c-4e63-a42a-18182b44fc70.jpg?1730222713",
+    "large": "https://cards.scryfall.io/large/front/a/3/a37b1b9e-f98c-4e63-a42a-18182b44fc70.jpg?1730222713",
+    "png": "https://cards.scryfall.io/png/front/a/3/a37b1b9e-f98c-4e63-a42a-18182b44fc70.png?1730222713",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/3/a37b1b9e-f98c-4e63-a42a-18182b44fc70.jpg?1730222713",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/3/a37b1b9e-f98c-4e63-a42a-18182b44fc70.jpg?1730222713"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3,
+  "type_line": "Enchantment — Saga",
+  "printed_type_line": "Encantamiento — Saga",
+  "oracle_text": "(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)\nI, II, III — Create a 1/1 black and green Insect creature token.\nIV — Sacrifice any number of creatures. Search your library and/or graveyard for a creature card with mana value less than or equal to the number of creatures sacrificed this way and put it onto the battlefield. If you search your library this way, shuffle.",
+  "printed_text": "(En cuanto esta Saga entre y después de tu paso de robar, agrega un contador de sabiduría. Sacrifícala después de IV.)\nI, II, III — Crea una ficha de criatura Insecto negra y verde 1/1.\nIV — Sacrifica cualquier cantidad de criaturas. Busca en tu biblioteca y/o cementerio una carta de criatura con valor de maná menor o igual que la cantidad de criaturas sacrificadas de esta manera y ponla en el campo de batalla. Si buscas en tu biblioteca de esta manera, baraja.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set": "mh3",
+  "set_name": "Modern Horizons 3",
+  "set_type": "draft_innovation",
+  "set_uri": "https://api.scryfall.com/sets/3ed80bb6-77e8-4aa7-8262-95377a38aba1",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Amh3&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/mh3?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a37b1b9e-f98c-4e63-a42a-18182b44fc70/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A356edd68-7dd5-4ab6-a738-6cb0eb2d4e56&unique=prints",
+  "collector_number": "158",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Liiga Smilshkalne",
+  "artist_ids": [
+    "5a50ced2-b301-4195-8af4-f7e1bae07d28"
+  ],
+  "illustration_id": "f1ff17ee-1937-4d5d-be6d-0a927a1ece56",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 9860,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=662782&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DThe%2BHunger%2BTide%2BRises",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DThe%2BHunger%2BTide%2BRises",
+    "edhrec": "https://edhrec.com/route/?cc=The+Hunger+Tide+Rises"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DThe%2BHunger%2BTide%2BRises%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=The+Hunger+Tide+Rises&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=The+Hunger+Tide+Rises&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

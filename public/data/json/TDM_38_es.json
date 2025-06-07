@@ -1,0 +1,124 @@
+{
+  "object": "card",
+  "id": "d1e81616-95c0-470e-8af6-b40c23e190d8",
+  "oracle_id": "84469042-d48d-409f-a2c9-047058f13bc5",
+  "multiverse_ids": [
+    694060
+  ],
+  "name": "Bewildering Blizzard",
+  "printed_name": "Nevisca ofuscante",
+  "lang": "es",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/d1e81616-95c0-470e-8af6-b40c23e190d8",
+  "scryfall_uri": "https://scryfall.com/card/tdm/38/es/nevisca-ofuscante-(bewildering-blizzard)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/1/d1e81616-95c0-470e-8af6-b40c23e190d8.jpg?1744674800",
+    "normal": "https://cards.scryfall.io/normal/front/d/1/d1e81616-95c0-470e-8af6-b40c23e190d8.jpg?1744674800",
+    "large": "https://cards.scryfall.io/large/front/d/1/d1e81616-95c0-470e-8af6-b40c23e190d8.jpg?1744674800",
+    "png": "https://cards.scryfall.io/png/front/d/1/d1e81616-95c0-470e-8af6-b40c23e190d8.png?1744674800",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/1/d1e81616-95c0-470e-8af6-b40c23e190d8.jpg?1744674800",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/1/d1e81616-95c0-470e-8af6-b40c23e190d8.jpg?1744674800"
+  },
+  "mana_cost": "{4}{U}{U}",
+  "cmc": 6,
+  "type_line": "Instant",
+  "printed_type_line": "Instantáneo",
+  "oracle_text": "Draw three cards. Creatures your opponents control get -3/-0 until end of turn.",
+  "printed_text": "Roba tres cartas. Las criaturas que controlan tus oponentes obtienen -3/-0 hasta el final del turno.",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "explorer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set": "tdm",
+  "set_name": "Tarkir: Dragonstorm",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/1361ca81-1304-49a8-b2e6-e76a4aa4a8c3",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdm&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdm?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d1e81616-95c0-470e-8af6-b40c23e190d8/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A84469042-d48d-409f-a2c9-047058f13bc5&unique=prints",
+  "collector_number": "38",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Los exploradores temur informaron de la llegada de visitantes indeseados y los susurrantes les dieron una gélida bienvenida.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Milivoj Ćeran",
+  "artist_ids": [
+    "1eced451-4da5-42bc-b49d-70c41246581f"
+  ],
+  "illustration_id": "370ac371-6d4a-4f3d-8885-20653d744648",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 20888,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=694060&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBewildering%2BBlizzard",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBewildering%2BBlizzard",
+    "edhrec": "https://edhrec.com/route/?cc=Bewildering+Blizzard"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DBewildering%2BBlizzard%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Bewildering+Blizzard&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Bewildering+Blizzard&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

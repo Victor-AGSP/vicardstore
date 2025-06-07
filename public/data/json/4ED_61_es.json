@@ -1,0 +1,121 @@
+{
+  "object": "card",
+  "id": "e0afb442-8b99-4f88-83cf-2880e4cb429a",
+  "oracle_id": "d16d2451-1c21-4a6b-8a4a-40ac8cd9fe08",
+  "multiverse_ids": [],
+  "name": "Apprentice Wizard",
+  "printed_name": "Aprendiz de brujo",
+  "lang": "es",
+  "released_at": "1995-04-01",
+  "uri": "https://api.scryfall.com/cards/e0afb442-8b99-4f88-83cf-2880e4cb429a",
+  "scryfall_uri": "https://scryfall.com/card/4ed/61/es/aprendiz-de-brujo-(apprentice-wizard)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "placeholder",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/0/e0afb442-8b99-4f88-83cf-2880e4cb429a.jpg?1559593485",
+    "normal": "https://cards.scryfall.io/normal/front/e/0/e0afb442-8b99-4f88-83cf-2880e4cb429a.jpg?1559593485",
+    "large": "https://cards.scryfall.io/large/front/e/0/e0afb442-8b99-4f88-83cf-2880e4cb429a.jpg?1559593485",
+    "png": "https://cards.scryfall.io/png/front/e/0/e0afb442-8b99-4f88-83cf-2880e4cb429a.png?1559593485",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/0/e0afb442-8b99-4f88-83cf-2880e4cb429a.jpg?1559593485",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/0/e0afb442-8b99-4f88-83cf-2880e4cb429a.jpg?1559593485"
+  },
+  "mana_cost": "{1}{U}{U}",
+  "cmc": 3,
+  "type_line": "Creature — Human Wizard",
+  "oracle_text": "{U}, {T}: Add {C}{C}{C}.",
+  "power": "0",
+  "toughness": "1",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "C"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "legal",
+    "premodern": "legal",
+    "predh": "legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "2dd259d4-dc13-4956-a2dc-3e1d70b4a743",
+  "set": "4ed",
+  "set_name": "Fourth Edition",
+  "set_type": "core",
+  "set_uri": "https://api.scryfall.com/sets/2dd259d4-dc13-4956-a2dc-3e1d70b4a743",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3A4ed&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/4ed?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e0afb442-8b99-4f88-83cf-2880e4cb429a/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad16d2451-1c21-4a6b-8a4a-40ac8cd9fe08&unique=prints",
+  "collector_number": "61",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dan Frazier",
+  "artist_ids": [
+    "059bba56-5feb-42e4-8c2e-e2f1e6ba11f9"
+  ],
+  "illustration_id": "93c8c036-c76e-4ce2-8345-d5ab0270ffaa",
+  "border_color": "white",
+  "frame": "1993",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 9613,
+  "penny_rank": 12189,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DApprentice%2BWizard",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DApprentice%2BWizard",
+    "edhrec": "https://edhrec.com/route/?cc=Apprentice+Wizard"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DApprentice%2BWizard%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Apprentice+Wizard&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Apprentice+Wizard&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}

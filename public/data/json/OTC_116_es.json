@@ -1,0 +1,129 @@
+{
+  "object": "card",
+  "id": "211300da-ca34-46e0-abb5-b0a81d8ad71f",
+  "oracle_id": "ea1eb902-a23c-44ff-9169-19baf71de238",
+  "multiverse_ids": [
+    659092
+  ],
+  "name": "Talrand, Sky Summoner",
+  "printed_name": "Talrand, invocador celeste",
+  "lang": "es",
+  "released_at": "2024-04-19",
+  "uri": "https://api.scryfall.com/cards/211300da-ca34-46e0-abb5-b0a81d8ad71f",
+  "scryfall_uri": "https://scryfall.com/card/otc/116/es/talrand-invocador-celeste-(talrand-sky-summoner)?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/2/1/211300da-ca34-46e0-abb5-b0a81d8ad71f.jpg?1730248085",
+    "normal": "https://cards.scryfall.io/normal/front/2/1/211300da-ca34-46e0-abb5-b0a81d8ad71f.jpg?1730248085",
+    "large": "https://cards.scryfall.io/large/front/2/1/211300da-ca34-46e0-abb5-b0a81d8ad71f.jpg?1730248085",
+    "png": "https://cards.scryfall.io/png/front/2/1/211300da-ca34-46e0-abb5-b0a81d8ad71f.png?1730248085",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/2/1/211300da-ca34-46e0-abb5-b0a81d8ad71f.jpg?1730248085",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/2/1/211300da-ca34-46e0-abb5-b0a81d8ad71f.jpg?1730248085"
+  },
+  "mana_cost": "{2}{U}{U}",
+  "cmc": 4,
+  "type_line": "Legendary Creature — Merfolk Wizard",
+  "printed_type_line": "Criatura legendaria — Hechicero tritón",
+  "oracle_text": "Whenever you cast an instant or sorcery spell, create a 2/2 blue Drake creature token with flying.",
+  "printed_text": "Siempre que lances un hechizo de instantáneo o de conjuro, crea una ficha de criatura Draco azul 2/2 con la habilidad de volar.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "not_legal",
+    "explorer": "not_legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set": "otc",
+  "set_name": "Outlaws of Thunder Junction Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/d6548798-0c10-4509-b71a-2d8b1d14665a",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aotc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/otc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/211300da-ca34-46e0-abb5-b0a81d8ad71f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aea1eb902-a23c-44ff-9169-19baf71de238&unique=prints",
+  "collector_number": "116",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "\"Los mares son vastos, pero los cielos lo son más todavía. ¿Por qué contentarse con un reino si puedes dominar ambos?\".",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Svetlin Velinov",
+  "artist_ids": [
+    "ffd063ae-c097-4f26-b2e6-b1e2137708bc"
+  ],
+  "illustration_id": "99f6afc0-add4-4184-93eb-9dd01cde71a5",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 608,
+  "penny_rank": 3483,
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": null,
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=659092&printed=true",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTalrand%252C%2BSky%2BSummoner",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTalrand%252C%2BSky%2BSummoner",
+    "edhrec": "https://edhrec.com/route/?cc=Talrand%2C+Sky+Summoner"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DTalrand%252C%2BSky%2BSummoner%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Talrand%2C+Sky+Summoner&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Talrand%2C+Sky+Summoner&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
