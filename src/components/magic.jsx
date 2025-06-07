@@ -51,7 +51,6 @@ function Magic() {
     setLoading(true);
 
     const loadLocalData = async () => {
-      const loaded = [];
       for (const card of cardList) {
         const codigo = card["Edición"];
         const idioma = card["Idioma"]?.toLowerCase() || "es";
@@ -83,20 +82,25 @@ function Magic() {
             tipo: data.type_line,
           };
 
-          loaded.push(cardObj);
+          setRawCards((prev) => {
+            const updated = [...prev, cardObj];
+            // Guarda en localStorage cada 10 cartas como opción
+            if (updated.length % 10 === 0) {
+              localStorage.setItem("magic-rawCards", JSON.stringify(updated));
+            }
+            return updated;
+          });
         } catch (err) {
           // Ignorar errores de carga individuales
         }
       }
-
-      setRawCards(loaded);
-      localStorage.setItem("magic-rawCards", JSON.stringify(loaded));
 
       setLoading(false);
     };
 
     loadLocalData();
   }, [cardList, rawCards]);
+
 
   const creatureRaces = useMemo(() => {
     const subtypes = new Set();
