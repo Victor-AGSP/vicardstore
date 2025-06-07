@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import * as XLSX from "xlsx";
 import '../styles/mylpb.css';
 import { useInView } from 'react-intersection-observer';
-import { useNavigate } from "react-router-dom";
+//import { useNavigate } from "react-router-dom";
 
 // Elimina acentos
 const removeAccents = (str) => {
@@ -82,13 +82,13 @@ function MylpbViewer() {
     const nombre = row.Nombre || "Sin nombre";
     const leyenda = row.Extra ? row.Extra : null;
     const imagenNombre = row.Imagen ? row.Imagen + ".webp" : null;
-    const imagePath = imagenNombre ? `/images/${imagenNombre}` : null;
+    const imagePath = imagenNombre ? `/images/mylpb/${imagenNombre}` : null;
 
     const { ref, inView } = useInView({ triggerOnce: true });
-    const navigate = useNavigate();
+    //const navigate = useNavigate();
 
     const handleClick = () => {
-      navigate("/"); // Puedes cambiar esta ruta
+      //navigate("/"); // Puedes cambiar esta ruta
     };
 
     return (

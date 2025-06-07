@@ -17,9 +17,10 @@ function CartaDetalle() {
     setIds(allIds);
 
     const idx = allIds.indexOf(id);
+    console.log(`ID actual: ${id}, Índice: ${idx}`);
     setCurrentIdx(idx);
     setCarta(cache[id]);
-  }, [window.location.search]);
+  }, []);
 
   // Navegar a la carta anterior/siguiente
   const goTo = (offset) => {

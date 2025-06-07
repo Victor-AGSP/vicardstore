@@ -1,24 +1,59 @@
-import React from 'react';
-import { useNavigate } from 'react-router-dom';
+import React, { useEffect, useState } from 'react';
+import Slider from 'react-slick';
 import '../styles/inicio.css';
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
 
 function Inicio() {
-  const navigate = useNavigate();
+  const [images, setImages] = useState([]);
+
+  useEffect(() => {
+    // Simula la carga aleatoria de imágenes locales
+    const totalImages = 11; // total que tienes en la carpeta
+    const randomImages = [];
+
+    const usedIndexes = new Set();
+    while (randomImages.length < 8 && usedIndexes.size < totalImages) {
+      const index = Math.floor(Math.random() * totalImages) + 1;
+      if (!usedIndexes.has(index)) {
+        usedIndexes.add(index);
+        randomImages.push(`/cartas-carrusel/carta${index}.webp`);
+      }
+    }
+
+    setImages(randomImages);
+  }, []);
+
+  const settings = {
+    dots: true,
+    infinite: true,
+    speed: 500,
+    autoplay: true,
+    autoplaySpeed: 3000,
+    slidesToShow: 3,
+    slidesToScroll: 1,
+    responsive: [
+      {
+        breakpoint: 768,
+        settings: { slidesToShow: 1 }
+      },
+      {
+        breakpoint: 1024,
+        settings: { slidesToShow: 2 }
+      }
+    ]
+  };
 
   return (
-    <div className="inicio-container">
-      <div className="section-card" onClick={() => navigate('/yugi')}>
-        <h2>Yu-Gi-Oh!</h2>
-        <p>Explora todo lo relacionado a Yu-Gi-Oh!</p>
-      </div>
-      <div className="section-card" onClick={() => navigate('/mylpb')}>
-        <h2>Mitos y Leyendas PB</h2>
-        <p>Explora todo lo relacionado a MyL</p>
-      </div>
-      <div className="section-card" onClick={() => navigate('/magic')}>
-        <h2>Magic The Gathering</h2>
-        <p>Explora todo lo relacionado a MTG</p>
-      </div>
+    <div className="inicio-carrusel-container">
+      <h2 className="inicio-titulo">Cartas destacadas</h2>
+      <Slider {...settings}>
+        {images.map((imgSrc, idx) => (
+          <div key={idx} className="slide">
+            <img src={imgSrc} alt={`Carta ${idx}`} className="carta-imagen" />
+          </div>
+        ))}
+      </Slider>
     </div>
   );
 }

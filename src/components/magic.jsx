@@ -5,8 +5,8 @@ import "../styles/magic.css";
 const CARDS_PER_PAGE = 50;
 
 function Magic() {
-  const [cardList, setCardList] = useState([]); // Desde Excel
-  const [rawCards, setRawCards] = useState([]); // Tras fetch
+  const [cardList, setCardList] = useState([]);
+  const [rawCards, setRawCards] = useState([]);
   const [search, setSearch] = useState("");
   const [selectedTypes, setSelectedTypes] = useState([]);
   const [selectedRace, setSelectedRace] = useState("");
@@ -18,8 +18,15 @@ function Magic() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   }, [currentPage]);
 
-  // Cargar Excel
+  // Intentar leer del localStorage primero
   useEffect(() => {
+    const cached = localStorage.getItem("magic-rawCards");
+    if (cached) {
+      setRawCards(JSON.parse(cached));
+      setLoading(false);
+      return;
+    }
+
     const controller = new AbortController();
     const loadExcel = async () => {
       try {
@@ -34,99 +41,68 @@ function Magic() {
         if (err.name !== "AbortError") setError(err.message);
       }
     };
+
     loadExcel();
     return () => controller.abort();
   }, []);
 
-  // Cargar imágenes
   useEffect(() => {
-    const controller = new AbortController();
-    let cancelled = false;
+    if (cardList.length === 0 || rawCards.length > 0) return;
+    setLoading(true);
 
-    const loadImages = async () => {
-      if (cardList.length === 0) return;
-      setLoading(true);
-
-      // 1. Intenta cargar desde localStorage
-      const cacheKey = "magicCardCache";
-      let cache = {};
-      try {
-        cache = JSON.parse(localStorage.getItem(cacheKey)) || {};
-      } catch {
-        cache = {};
-      }
-
+    const loadLocalData = async () => {
       const loaded = [];
-      for (let i = 0; i < cardList.length; i++) {
-        if (cancelled) break;
-        const card = cardList[i];
+      for (const card of cardList) {
         const codigo = card["Edición"];
         const idioma = card["Idioma"]?.toLowerCase() || "es";
         const numero = card["Código"];
-        const foil = card["Foil"]?.toString().toLowerCase() === "foil" || card["Foil"] === true ? "foil" : "normal";
-        const id = `${codigo?.toLowerCase()}_${numero}_${idioma}_${foil}`;
-
-        // 2. Si está en cache, úsalo
-        if (cache[id]) {
-          loaded.push(cache[id]);
-          setRawCards([...loaded]);
-          continue;
-        }
-
-        if (!codigo || !numero) {
-          await new Promise((res) => setTimeout(res, 100));
-          continue;
-        }
+        const foil = card["Foil"]?.toString().toLowerCase() === "foil" ? "foil" : "normal";
+        if (!codigo || !numero) continue;
 
         try {
-          const res = await fetch(
-            `https://api.scryfall.com/cards/${codigo.toLowerCase()}/${numero}?lang=${idioma}`,
-            { signal: controller.signal }
-          );
-          if (!res.ok) {
-            await new Promise((res) => setTimeout(res, 100));
-            continue;
+          let res, image, id;
+          if (foil === "normal") {
+            id = `${codigo}_${numero}_${idioma}`;
+            res = await fetch(`/data/json/${id}.json`);
+            image = `/images/magic/${id}.webp`;
+          } else {
+            id = `${codigo}_${numero}_${idioma}_${foil}`;
+            res = await fetch(`/data/json/${id}.json`);
+            image = `/images/magic/${id}.webp`;
           }
+          if (!res.ok) continue;
 
           const data = await res.json();
-          const image = data.image_uris?.normal || data.card_faces?.[0]?.image_uris?.normal;
 
-          if (image) {
-            const cardObj = {
-              id,
-              nombre: data.printed_name || data.name,
-              idioma,
-              image,
-              foil,
-              tipo: data.type_line,
-            };
-            loaded.push(cardObj);
-            cache[id] = cardObj; // 3. Guarda en cache
-            setRawCards([...loaded]);
-            // 4. Actualiza localStorage cada vez que agregas una carta nueva
-            localStorage.setItem(cacheKey, JSON.stringify(cache));
-          }
-        } catch {
-          // Ignorar errores individuales
+          const cardObj = {
+            id,
+            nombre: data.printed_name || data.name,
+            idioma,
+            image,
+            foil,
+            tipo: data.type_line,
+          };
+
+          loaded.push(cardObj);
+        } catch (err) {
+          // Ignorar errores de carga individuales
         }
-        await new Promise((res) => setTimeout(res, 100));
       }
+
+      setRawCards(loaded);
+      localStorage.setItem("magic-rawCards", JSON.stringify(loaded));
+
       setLoading(false);
     };
 
-    loadImages();
-    return () => {
-      cancelled = true;
-      controller.abort();
-    };
-  }, [cardList]);
+    loadLocalData();
+  }, [cardList, rawCards]);
 
-  // Extraer razas de tipo línea
   const creatureRaces = useMemo(() => {
     const subtypes = new Set();
     rawCards.forEach((card) => {
       if (card.tipo) {
-        const match = card.tipo.match(/—\s+(.+)/); // Cualquier tipo con subtipos
+        const match = card.tipo.match(/—\s+(.+)/);
         if (match) {
           match[1].split(" ").forEach((sub) => subtypes.add(sub));
         }
@@ -172,7 +148,6 @@ function Magic() {
     currentPage * CARDS_PER_PAGE
   );
 
-  // Tipos disponibles
   const allTypes = ["Legendary", "Sorcery", "Instant", "Creature", "Planeswalker", "Artifact", "Land", "Enchantment", "Kindred"];
 
   const handleTypeChange = (type) => {
@@ -186,7 +161,7 @@ function Magic() {
 
   return (
     <div className="magic-container">
-      <h2>Visor de Cartas de Magic</h2>
+      <h2>Magic The Gathering</h2>
 
       <input
         type="text"
@@ -214,7 +189,7 @@ function Magic() {
           ))}
         </details>
 
-        <details className="magic-filter">
+        <details>
           <summary>Filtrar por raza</summary>
           <label style={{ display: "block", marginTop: "1rem" }}>
             <select
@@ -244,7 +219,6 @@ function Magic() {
             </select>
           </label>
         </details>
-
       </div>
 
       {error && <p className="magic-error">{error}</p>}
@@ -259,7 +233,9 @@ function Magic() {
             key={card.id}
             className="magic-card"
             style={{ cursor: "pointer" }}
-            onClick={() => window.location.href = `/detalle?id=${encodeURIComponent(card.id)}`}
+            /*onClick={() =>
+              window.location.href = `/detalle?id=${encodeURIComponent(card.id)}`
+            }*/
           >
             <img
               src={card.image}
