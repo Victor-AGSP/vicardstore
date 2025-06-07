@@ -47,13 +47,15 @@ function Inicio() {
   return (
     <div className="inicio-carrusel-container">
       <h2 className="inicio-titulo">Cartas destacadas</h2>
-      <Slider {...settings}>
-        {images.map((imgSrc, idx) => (
-          <div key={idx} className="slide">
-            <img src={imgSrc} alt={`Carta ${idx}`} className="carta-imagen" />
-          </div>
-        ))}
-      </Slider>
+      <div className="carrusel-wrapper">
+        <Slider {...settings}>
+          {images.map((imgSrc, idx) => (
+            <div key={idx} className="slide">
+              <img src={imgSrc} alt={`Carta ${idx}`} className="carta-imagen" />
+            </div>
+          ))}
+        </Slider>
+      </div>
     </div>
   );
 }

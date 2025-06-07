@@ -7,6 +7,12 @@
   box-sizing: border-box;
 }
 
+.carrusel-wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
 /* Título */
 .inicio-titulo {
   text-align: center;
