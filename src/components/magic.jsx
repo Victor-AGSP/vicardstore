@@ -120,33 +120,6 @@ function Magic() {
     // eslint-disable-next-line
   }, [cardList]);
 
-    const reloadCache = () => {
-    // Limpiar ambos caches
-    localStorage.removeItem("magic-rawCards");
-    localStorage.removeItem("magicCardCache");
-    // Resetear estados para forzar recarga
-    setRawCards([]);
-    setCardList([]); 
-    setLoading(true);
-
-    // Recargar el archivo Excel para disparar la carga de nuevo
-    fetch("/data/magic.xlsx")
-      .then((res) => {
-        if (!res.ok) throw new Error("No se pudo cargar el archivo magic.xlsx");
-        return res.arrayBuffer();
-      })
-      .then((data) => {
-        const workbook = XLSX.read(data, { type: "array" });
-        const sheet = workbook.Sheets[workbook.SheetNames[0]];
-        const jsonData = XLSX.utils.sheet_to_json(sheet);
-        setCardList(jsonData);
-      })
-      .catch((err) => {
-        setError(err.message);
-        setLoading(false);
-      });
-  };
-
   const creatureRaces = useMemo(() => {
     const subtypes = new Set();
     rawCards.forEach((card) => {
@@ -212,22 +185,6 @@ function Magic() {
     <div className="magic-container">
       <h2>Magic The Gathering</h2>
 
-      <button
-        onClick={reloadCache}
-        style={{
-          marginBottom: "1rem",
-          padding: "0.5rem 1rem",
-          backgroundColor: "#007bff",
-          color: "white",
-          border: "none",
-          borderRadius: "4px",
-          cursor: "pointer"
-        }}
-        disabled={loading}
-        title="Recargar cache de cartas"
-      >
-        {loading ? "Cargando..." : "Recargar Cache"}
-      </button>
       <input
         type="text"
         placeholder="Buscar carta por nombre..."
